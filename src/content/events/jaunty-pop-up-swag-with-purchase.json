@@ -1,0 +1,180 @@
+{
+ "slug": "jaunty-pop-up-swag-with-purchase",
+ "path": "/event/jaunty-pop-up-swag-with-purchase/",
+ "url": "https://getbuzzy.com/event/jaunty-pop-up-swag-with-purchase/",
+ "title": "Jaunty Pop-Up + Swag with Purchase - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/jaunty-pop-up-swag-with-purchase/",
+ "ogImage": "/assets/photos/bz/buzzy-bingo-event-jaunty-pop-up.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-jaunty-pop-up.webp",
+ "h1": "Jaunty Pop-Up + Swag with Purchase",
+ "postId": "1936",
+ "startISO": "2026-10-22T16:00:00-04:00",
+ "endISO": "2026-10-22T19:00:00-04:00",
+ "dateText": "October 22",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-bingo-event-jaunty-pop-up.webp",
+  "w": 1550,
+  "h": 875,
+  "alt": "Jaunty pop-up at BUZZY"
+ },
+ "eventDescription": "Jaunty is coming to BUZZY on Thursday, October 22nd from 4pm to 7pm! Meet the team, explore the lineup, and get your questions answered. The perk: Get Jaunty swag with […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/jaunty-pop-up-swag-with-purchase/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-02T00:00:00+00:00"
+ },
+ "html": "<p>Jaunty is coming to BUZZY on Thursday, October 22nd from 4pm to 7pm! Meet the team, explore the lineup, and get your questions answered.</p>\n<p><strong>The perk:</strong> Get Jaunty swag with your purchase, including cozy Jaunty slippers, while supplies last.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Thursday Tricks at BUZZY",
+   "href": "https://getbuzzy.com/event/thursday-tricks-at-buzzy-oct-22/"
+  },
+  {
+   "text": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+   "href": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-23/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "jaunty-pop-up-swag-with-purchase",
+   "src": "4d8f4efa",
+   "heading": "Jaunty Pop-Up + Swag with Purchase",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 22",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-bingo-event-jaunty-pop-up.webp",
+     "alt": "Jaunty pop-up at BUZZY",
+     "w": 1550,
+     "h": 875,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-jaunty-pop-up.webp"
+    },
+    {
+     "type": "p",
+     "html": "Jaunty is coming to BUZZY on Thursday, October 22nd from 4pm to 7pm! Meet the team, explore the lineup, and get your questions answered."
+    },
+    {
+     "type": "p",
+     "html": "<strong>The perk:</strong> Get Jaunty swag with your purchase, including cozy Jaunty slippers, while supplies last."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

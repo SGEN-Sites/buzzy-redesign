@@ -1,0 +1,159 @@
+{
+ "slug": "minny-grown-pop-up",
+ "path": "/event/minny-grown-pop-up/",
+ "url": "https://getbuzzy.com/event/minny-grown-pop-up/",
+ "title": "Minny Grown Pop-Up: Brooklyn Cannabis Event | BUZZY",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/minny-grown-pop-up/",
+ "ogImage": "/assets/photos/bz/image.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/image.webp",
+ "h1": "Minny Grown Pop-Up Event at Buzzy Brooklyn Dispensary",
+ "postId": "1453",
+ "startISO": "2026-09-04T16:00:00-04:00",
+ "endISO": "2026-09-04T19:00:00-04:00",
+ "dateText": "September 4",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/image.webp",
+  "w": 1600,
+  "h": 800,
+  "alt": "Minny Grown logo displayed with a stylized heart and cannabis leaf, set against a silhouetted"
+ },
+ "eventDescription": "",
+ "html": "<p>Meet the team behind Minny Grown, the Minnesota family brand with over 100 years working the land, now bringing their handcrafted gummies, cocktails, and wellness products to Brooklyn. Stop by to explore their lineup and connect with the crew.</p>",
+ "adjacent": [
+  {
+   "text": "Wizard Trees Pop-Up",
+   "href": "https://getbuzzy.com/event/wizard-trees-pop-up/"
+  },
+  {
+   "text": "Runtz, Doobie Labs & Preferred Pop-Up",
+   "href": "https://getbuzzy.com/event/runtz-doobie-labs-preferred-pop-up/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "minny-grown-pop-up-event-at-buzzy-brooklyn-dispensary",
+   "src": "4d8f4efa",
+   "heading": "Minny Grown Pop-Up Event at Buzzy Brooklyn Dispensary",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "September 4",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/image.webp",
+     "alt": "Minny Grown logo displayed with a stylized heart and cannabis leaf, set against a silhouetted",
+     "w": 1600,
+     "h": 800,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/image.webp"
+    },
+    {
+     "type": "p",
+     "html": "Meet the team behind Minny Grown, the Minnesota family brand with over 100 years working the land, now bringing their handcrafted gummies, cocktails, and wellness products to Brooklyn. Stop by to explore their lineup and connect with the crew."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "Visit Buzzy Dispensary in Brooklyn"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

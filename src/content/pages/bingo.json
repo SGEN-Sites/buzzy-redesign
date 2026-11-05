@@ -1,0 +1,695 @@
+{
+ "slug": "bingo",
+ "path": "/bingo/",
+ "url": "https://getbuzzy.com/bingo/",
+ "title": "Tricks & Treats BINGO - Buzzy",
+ "description": "Play Tricks & Treats BINGO at BUZZY in Brooklyn, Oct 1–31. Complete a row, column, or diagonal to earn a goodie bag.",
+ "canonical": "https://getbuzzy.com/bingo/",
+ "ogImage": "/assets/photos/bz/bingo-ghost-white.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-ghost-white.webp",
+ "h1": "Tricks & Treats BINGO",
+ "postId": "1956",
+ "sections": [
+  {
+   "id": "tricks-treats-bingo",
+   "src": "65f4a08",
+   "heading": "Tricks & Treats BINGO",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Oct 1 – Oct 31 · In-store at BUZZY"
+    },
+    {
+     "type": "p",
+     "html": "Learn new tricks, score deals, and earn a goodie bag when you get BINGO!"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#bzb-card\">See the card</a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/visit-us/\">Pick up your card</a>",
+     "role": "link"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-ghost-white.webp",
+     "alt": "BUZZY ghost carrying a BUZZY tote bag",
+     "w": 700,
+     "h": 565,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-ghost-white.webp"
+    },
+    {
+     "type": "h2",
+     "text": "How to play"
+    },
+    {
+     "type": "p",
+     "html": "1"
+    },
+    {
+     "type": "h3",
+     "text": "Pick up your card"
+    },
+    {
+     "type": "p",
+     "html": "Grab a BINGO card at BUZZY, 137 Court St, Brooklyn."
+    },
+    {
+     "type": "p",
+     "html": "2"
+    },
+    {
+     "type": "h3",
+     "text": "Complete any row, column, or diagonal 10/1 – 10/31"
+    },
+    {
+     "type": "p",
+     "html": "Complete squares as you shop, visit, and explore. You can complete more than one square in a single visit."
+    },
+    {
+     "type": "p",
+     "html": "3"
+    },
+    {
+     "type": "h3",
+     "text": "Get BINGO + redeem in-store"
+    },
+    {
+     "type": "p",
+     "html": "Bring your completed card in 10/31-11/4 to claim your goodie bag."
+    },
+    {
+     "type": "p",
+     "html": "21+ only · Limit 1 per customer · While supplies last To validate a BUZZY’s Besties visit, show your receipt at BUZZY or on delivery."
+    },
+    {
+     "type": "h2",
+     "text": "The cards"
+    },
+    {
+     "type": "p",
+     "html": "Two cards are in play this month. Same game, different featured brands. Complete any row, column, or diagonal on your card to get BINGO."
+    },
+    {
+     "type": "p",
+     "html": "Card 1"
+    },
+    {
+     "type": "p",
+     "html": "Card 2"
+    },
+    {
+     "type": "h2",
+     "text": "Every week in October"
+    },
+    {
+     "type": "p",
+     "html": "Tuesdays"
+    },
+    {
+     "type": "h3",
+     "text": "Tuesday Treats"
+    },
+    {
+     "type": "p",
+     "html": "Get a treat! Spend $75 and get a free product from a selection."
+    },
+    {
+     "type": "p",
+     "html": "Thursdays · 7pm to close"
+    },
+    {
+     "type": "h3",
+     "text": "Thursday Tricks"
+    },
+    {
+     "type": "p",
+     "html": "Stop in from 7pm to close to get tips and tricks for joint rolling."
+    },
+    {
+     "type": "p",
+     "html": "Herbal blends will be used for rolling demonstrations."
+    },
+    {
+     "type": "h2",
+     "text": "Partner pop-ups"
+    },
+    {
+     "type": "p",
+     "html": "Our partners, in store all month. Stop by BUZZY to meet the brands behind your BINGO squares."
+    },
+    {
+     "type": "p",
+     "html": "Sat"
+    },
+    {
+     "type": "p",
+     "html": "10/3"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-hai.webp",
+     "alt": "hai.",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-hai.webp",
+     "w": 168,
+     "h": 110
+    },
+    {
+     "type": "p",
+     "html": "hai."
+    },
+    {
+     "type": "p",
+     "html": "Sat"
+    },
+    {
+     "type": "p",
+     "html": "10/10"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-umami.webp",
+     "alt": "Umami",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-umami.webp",
+     "w": 190,
+     "h": 160
+    },
+    {
+     "type": "p",
+     "html": "Umami"
+    },
+    {
+     "type": "p",
+     "html": "Thu"
+    },
+    {
+     "type": "p",
+     "html": "10/15"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-eaton.webp",
+     "alt": "Eaton Botanicals",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-eaton.webp",
+     "w": 228,
+     "h": 128
+    },
+    {
+     "type": "p",
+     "html": "Eaton Botanicals"
+    },
+    {
+     "type": "p",
+     "html": "Thu"
+    },
+    {
+     "type": "p",
+     "html": "10/15"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-leadfarmer.webp",
+     "alt": "Leadfarmer",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-leadfarmer.webp",
+     "w": 134,
+     "h": 160
+    },
+    {
+     "type": "p",
+     "html": "Leadfarmer"
+    },
+    {
+     "type": "p",
+     "html": "Fri"
+    },
+    {
+     "type": "p",
+     "html": "10/16"
+    },
+    {
+     "type": "p",
+     "html": "<strong>Off Hours</strong>"
+    },
+    {
+     "type": "p",
+     "html": "Off Hours"
+    },
+    {
+     "type": "p",
+     "html": "Thu"
+    },
+    {
+     "type": "p",
+     "html": "10/22"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-jaunty.webp",
+     "alt": "Jaunty",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-jaunty.webp",
+     "w": 326,
+     "h": 160
+    },
+    {
+     "type": "p",
+     "html": "Jaunty"
+    },
+    {
+     "type": "p",
+     "html": "Fri"
+    },
+    {
+     "type": "p",
+     "html": "10/23"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-rolling-green.webp",
+     "alt": "Rolling Green",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-rolling-green.webp",
+     "w": 379,
+     "h": 91
+    },
+    {
+     "type": "p",
+     "html": "Rolling Green"
+    },
+    {
+     "type": "p",
+     "html": "Thu"
+    },
+    {
+     "type": "p",
+     "html": "10/29"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/bingo-logo-high-priestess.webp",
+     "alt": "High Priestess",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-high-priestess.webp",
+     "w": 400,
+     "h": 77
+    },
+    {
+     "type": "p",
+     "html": "High Priestess"
+    },
+    {
+     "type": "h2",
+     "text": "The BINGO lineup"
+    },
+    {
+     "type": "p",
+     "html": "Shop any of these brands to fill your brand squares, or find them in store."
+    },
+    {
+     "type": "h3",
+     "text": "Bingo Collection"
+    },
+    {
+     "type": "cards",
+     "role": "image-box",
+     "items": [
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Ftks-x-sensei",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-tks-sensei.webp",
+        "alt": "TKS Sensei",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-tks-sensei.webp",
+        "w": 169,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Ffernway",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-fernway.webp",
+        "alt": "Fernway",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-fernway.webp",
+        "w": 400,
+        "h": 79
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fmr-moxeys-mints",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-mr-moxeys.webp",
+        "alt": "Mr. Moxey's",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-mr-moxeys.webp",
+        "w": 231,
+        "h": 40
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fwyld",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-wyld.webp",
+        "alt": "Wyld",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-wyld.webp",
+        "w": 300,
+        "h": 147
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Ffoy",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-foy.webp",
+        "alt": "Foy",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-foy.webp",
+        "w": 137,
+        "h": 83
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=products&dtche%5Bsearch%5D=koa",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-koa.webp",
+        "alt": "Koa Cannabis Co.",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-koa.webp",
+        "w": 400,
+        "h": 116
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fgron",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-gron.webp",
+        "alt": "grön",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-gron.webp",
+        "w": 159,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fcamino",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-camino.webp",
+        "alt": "Camino",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-camino.webp",
+        "w": 275,
+        "h": 89
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fmfny",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-mfny.webp",
+        "alt": "MFNY",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-mfny.webp",
+        "w": 168,
+        "h": 94
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fspace-poppers",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-space-poppers.webp",
+        "alt": "Space Poppers",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-space-poppers.webp",
+        "w": 256,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fjaunty",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-jaunty.webp",
+        "alt": "Jaunty",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-jaunty.webp",
+        "w": 326,
+        "h": 160
+       }
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Card brands"
+    },
+    {
+     "type": "cards",
+     "role": "image-box",
+     "items": [
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fhai",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-hai.webp",
+        "alt": "hai.",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-hai.webp",
+        "w": 168,
+        "h": 110
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Featon-botanicals",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-eaton.webp",
+        "alt": "Eaton Botanicals",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-eaton.webp",
+        "w": 228,
+        "h": 128
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Flead-farmer",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-leadfarmer.webp",
+        "alt": "Leadfarmer",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-leadfarmer.webp",
+        "w": 134,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=products&dtche%5Bsearch%5D=major",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-major.webp",
+        "alt": "Major",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-major.webp",
+        "w": 378,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fumamii",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-umami.webp",
+        "alt": "Umami",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-umami.webp",
+        "w": 190,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Frolling-green-cannabis",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-rolling-green.webp",
+        "alt": "Rolling Green Cannabis",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-rolling-green.webp",
+        "w": 379,
+        "h": 91
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fithaca-organics-cannabis-co",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-ithaca-organics.webp",
+        "alt": "Ithaca Organics Cannabis Co.",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-ithaca-organics.webp",
+        "w": 308,
+        "h": 160
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fwizard-trees",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-wizard-trees.webp",
+        "alt": "Wizard Trees",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-wizard-trees.webp",
+        "w": 182,
+        "h": 154
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=products&dtche%5Bsearch%5D=high%20priestess",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-high-priestess.webp",
+        "alt": "High Priestess Herbal Wellness",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-high-priestess.webp",
+        "w": 400,
+        "h": 77
+       }
+      },
+      {
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fheavy-hitters",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-heavy-hitters.webp",
+        "alt": "Heavy Hitters",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-heavy-hitters.webp",
+        "w": 400,
+        "h": 106
+       }
+      }
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "BUZZY’s Besties"
+    },
+    {
+     "type": "p",
+     "html": "Visit any of BUZZY’s Besties, then show your receipt at BUZZY or on delivery to complete your square. <a href=\"https://getbuzzy.com/brooklyn-map/\">See them on the neighborhood map →</a>"
+    },
+    {
+     "type": "cards",
+     "role": "image-box",
+     "items": [
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-goose-barnacle.png",
+        "alt": "Goose Barnacle logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-goose-barnacle.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "Shopping &amp; Retail<br><strong>Goose Barnacle</strong><br>91 Atlantic Ave, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-heatwise.png",
+        "alt": "Heatwise logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-heatwise.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "Fitness &amp; Wellness<br><strong>Heatwise</strong><br>163 Remsen St, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-surround-society.png",
+        "alt": "Surround Society logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-surround-society.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "<strong>Surround Society</strong>"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-someday-bar.png",
+        "alt": "Someday Bar logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-someday-bar.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "Bars &amp; Restaurants<br><strong>Someday Bar</strong><br>364 Atlantic Ave, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-pronto-pizza.png",
+        "alt": "Pronto Pizza logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-pronto-pizza.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "Bars &amp; Restaurants<br><strong>Pronto Pizza</strong><br>139 Court St, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-trader-joes.png",
+        "alt": "Trader Joe’s logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-trader-joes.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "Shopping &amp; Retail<br><strong>Trader Joe’s</strong><br>130 Court St, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/buzzy-bestie-brooklyn-roasting-company.png",
+        "alt": "Brooklyn Roasting Company logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bestie-brooklyn-roasting-company.png",
+        "w": 300,
+        "h": 200
+       },
+       "html": "Coffee Shops &amp; Cafes<br><strong>Brooklyn Roasting Company</strong><br>1 Clinton St, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-dinah.webp",
+        "alt": "Dinah Bagel logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-dinah.webp",
+        "w": 400,
+        "h": 91
+       },
+       "html": "Bars &amp; Restaurants<br><strong>Dinah Bagel</strong><br>200 Clinton St, BK"
+      },
+      {
+       "href": "https://getbuzzy.com/brooklyn-map/",
+       "img": {
+        "src": "/assets/photos/bz/bingo-logo-brazen-head.webp",
+        "alt": "The Brazen Head logo",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/bingo-logo-brazen-head.webp",
+        "w": 160,
+        "h": 160
+       },
+       "html": "Bars &amp; Restaurants<br><strong>The Brazen Head</strong>"
+      }
+     ]
+    },
+    {
+     "type": "h2",
+     "text": "Come play at BUZZY"
+    },
+    {
+     "type": "p",
+     "html": "Pick up your card at 137 Court St, Brooklyn. Open 8am–10pm every day."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/visit-us/\">Get directions</a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/menu/\">Shop the menu</a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/\">Order delivery</a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<strong>The fine print:</strong>"
+    },
+    {
+     "type": "p",
+     "html": "21+ only. Limit 1 per customer. Goodie bags available while supplies last. Play 10/1–10/31. Redeem completed cards in-store 10/31–11/04. To validate a BUZZY’s Besties visit, show your receipt at BUZZY or on delivery. Follow"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://www.instagram.com/visitbuzzy/\">@visitbuzzy</a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "for deals and events."
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "slug": "major-pop-up",
+ "path": "/event/major-pop-up/",
+ "url": "https://getbuzzy.com/event/major-pop-up/",
+ "title": "MAJOR Pop-Up - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/major-pop-up/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "MAJOR Pop-Up",
+ "postId": "2475",
+ "startISO": "2026-11-20T16:00:00-05:00",
+ "endISO": "2026-11-20T19:00:00-05:00",
+ "dateText": "November 20",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/major-pop-up-buzzy.webp",
+  "w": 988,
+  "h": 650,
+  "alt": ""
+ },
+ "eventDescription": "MAJOR, the New York flower and pre-roll brand behind strains like The Rotten Apple and Quarter Water, is popping up at BUZZY on Friday, November 20th from 4pm to 7pm. […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/major-pop-up/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-11-02T00:00:00+00:00"
+ },
+ "html": "<p>MAJOR, the New York flower and pre-roll brand behind strains like The Rotten Apple and Quarter Water, is popping up at BUZZY on Friday, November 20th from 4pm to 7pm.</p>\n<p>Stop by Court Street to meet the team, see the jars up close, and pick something for the weekend.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-16/"
+  },
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-23/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "major-pop-up",
+   "src": "4d8f4efa",
+   "heading": "MAJOR Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "November 20",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/major-pop-up-buzzy.webp",
+     "alt": "",
+     "w": 988,
+     "h": 650,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/11/major-pop-up-buzzy.webp"
+    },
+    {
+     "type": "p",
+     "html": "MAJOR, the New York flower and pre-roll brand behind strains like The Rotten Apple and Quarter Water, is popping up at BUZZY on Friday, November 20th from 4pm to 7pm."
+    },
+    {
+     "type": "p",
+     "html": "Stop by Court Street to meet the team, see the jars up close, and pick something for the weekend."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

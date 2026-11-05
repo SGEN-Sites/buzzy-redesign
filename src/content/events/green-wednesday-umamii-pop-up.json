@@ -1,0 +1,159 @@
+{
+ "slug": "green-wednesday-umamii-pop-up",
+ "path": "/event/green-wednesday-umamii-pop-up/",
+ "url": "https://getbuzzy.com/event/green-wednesday-umamii-pop-up/",
+ "title": "Green Wednesday Umamii Pop-Up - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/green-wednesday-umamii-pop-up/",
+ "ogImage": "/assets/photos/bz/gw_1.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/GW_1.webp",
+ "h1": "Green Wednesday Umamii Pop-Up",
+ "postId": "2362",
+ "startISO": "2026-11-25T15:00:00-05:00",
+ "endISO": "2026-11-25T19:00:00-05:00",
+ "dateText": "November 25",
+ "timeText": "3:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/gw_1.webp",
+  "w": 988,
+  "h": 650,
+  "alt": "green wednesday at BUZZY with Umamii"
+ },
+ "eventDescription": "Green Wednesday calls for something special. Umamii and their concentrates are popping up at BUZZY on Wednesday, November 25th from 3pm to 7pm. Swing by before the holiday, meet the […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/green-wednesday-umamii-pop-up/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-15T00:00:00+00:00"
+ },
+ "html": "<p>Green Wednesday calls for something special. Umamii and their concentrates are popping up at BUZZY on Wednesday, November 25th from 3pm to 7pm.</p>\n<p>Swing by before the holiday, meet the team, and stock up for the long weekend.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-23/"
+  },
+  {
+   "text": "Preferred Gardens, Runtz, Doobie Labs + Strain Gang Pop-Up",
+   "href": "https://getbuzzy.com/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "green-wednesday-umamii-pop-up",
+   "src": "4d8f4efa",
+   "heading": "Green Wednesday Umamii Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "November 25",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "3:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/gw_1.webp",
+     "alt": "green wednesday at BUZZY with Umamii",
+     "w": 988,
+     "h": 650,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/GW_1.webp"
+    },
+    {
+     "type": "p",
+     "html": "Green Wednesday calls for something special. Umamii and their concentrates are popping up at BUZZY on Wednesday, November 25th from 3pm to 7pm."
+    },
+    {
+     "type": "p",
+     "html": "Swing by before the holiday, meet the team, and stock up for the long weekend."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

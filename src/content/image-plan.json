@@ -1,0 +1,414 @@
+{
+  "about": "BUZZY redesign pitch, IMAGERY lane. Generated mood imagery for the DREAM INVENTORY design (surreal, calm, photoreal). Every image is AI-generated illustrative imagery: never BUZZY's store, staff, customers, products or brands, never a real place. Ids = file names in assets/generated/ (16:9 backdrops and 1:1 tiles as JPEG, 4:5 features generated at 3:4 and cropped to 4:5, cut-outs as transparent PNG via birefnet). 'aspect' = the delivered aspect, 'calmArea' = where type or glass can sit. Order = delivery order.",
+  "defaults": {
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "input": {
+      "output_format": "jpeg",
+      "safety_tolerance": "5"
+    },
+    "cutoutModel": "fal-ai/birefnet/v2",
+    "cutoutInput": {
+      "model": "Matting",
+      "operating_resolution": "2048x2048",
+      "output_format": "png",
+      "refine_foreground": true
+    },
+    "style": "Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals."
+  },
+  "images": [
+    {
+      "id": "g-hero-dream",
+      "file": "assets/generated/g-hero-dream.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "home hero key frame",
+        "hero-dream loop source"
+      ],
+      "calmArea": "left 45% open pale sky for the headline; the floating stoop sits in the right half",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "A brownstone stoop with an open front door floating in a pale morning sky among soft clouds",
+      "prompt": "A surreal calm dreamscape: a small floating fragment of a Brooklyn brownstone, warm brown sandstone facade, a short flight of brown sandstone stoop steps with black iron railings leading up to a tall open wooden front door with warm light inside, floats alone in a vast pale morning sky among soft drifting cumulus clouds; its underside is a rough broken chunk of brownstone and earth with wisps of cloud below it; the floating stoop is small and placed far to the right, its whole body between 62 and 88 percent of the frame width, filling about 40 percent of the frame height; the left 55 percent of the frame is empty calm open sky with only faint soft clouds low down; pale sky blue at the top fading to warm peach near the bottom; no plants, no cannabis, no house numbers, no signs",
+      "rejectReason": "attempt 1: the structure started at 26% of the width (calm left 45% required) and read as white brick, not brownstone"
+    },
+    {
+      "id": "g-sky-field",
+      "file": "assets/generated/g-sky-field.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "ground behind glass panes",
+        "inner page heroes"
+      ],
+      "calmArea": "everywhere: an even, low-contrast field of sky",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "A pale dream sky of soft clouds, blue fading to peach",
+      "prompt": "A pale dream sky filled with soft scattered cumulus clouds seen straight on, pale sky blue at the top blending through soft white to warm peach and cream at the bottom, gentle and even, low contrast, no horizon, no ground, no objects, no birds, no sun disc, no airplanes"
+    },
+    {
+      "id": "g-cat-flower",
+      "file": "assets/generated/g-cat-flower.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/flower/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A cannabis flower bud floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a single cured cannabis flower bud, dense and frosty with sparkling white trichomes and curly orange pistils, sage and olive green, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round"
+    },
+    {
+      "id": "g-cat-prerolls",
+      "file": "assets/generated/g-cat-prerolls.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/pre-rolls/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A cone-shaped pre-roll floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a single cannabis pre-roll joint shaped like a long slender cone, clearly much wider at one end than the other, white rolling paper, the wide end closed with a small twisted paper top and the narrow end plain rolled paper with no filter, no crutch, no cigarette tip, no orange tip, not a cigarette, lying diagonally, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round",
+      "rejectReason": "attempt 1: drew a straight cylinder with an orange filter-like tip, read as a cigarette"
+    },
+    {
+      "id": "g-cat-vapes",
+      "file": "assets/generated/g-cat-vapes.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/vapes/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "An unbranded vape pen floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a single unbranded cannabis vape cartridge, a short clear glass tank filled with golden amber oil, a black ceramic mouthpiece on top and a short brushed metal threaded base, screwed onto a slim matte black cylindrical battery, completely plain, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round",
+      "rejectReason": "attempt 1: read as a cosmetic concealer tube, not a vape"
+    },
+    {
+      "id": "g-cat-edibles",
+      "file": "assets/generated/g-cat-edibles.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/edibles/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A few soft gummies floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: three soft square fruit gummies lightly dusted with sugar, one pale peach, one soft yellow, one pale sky blue, float in a loose stack in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round"
+    },
+    {
+      "id": "g-cat-concentrates",
+      "file": "assets/generated/g-cat-concentrates.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/concentrates/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A small glass jar of golden cannabis resin floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a tiny clear glass concentrate jar, open, its lid floating just above it, holding a small dollop of golden translucent cannabis rosin resin, glossy and sticky like amber sap with a few tiny bubbles, a small amount filling only the bottom of the jar, not honey and not jelly, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round"
+    },
+    {
+      "id": "g-cat-tinctures",
+      "file": "assets/generated/g-cat-tinctures.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/tinctures/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "An amber dropper bottle floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a small plain amber glass dropper bottle, unlabelled, with its glass dropper floating just above the open neck and one golden drop falling from the dropper tip, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round"
+    },
+    {
+      "id": "g-cat-topicals",
+      "file": "assets/generated/g-cat-topicals.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/topicals/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A small jar of balm floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a small plain matte white cosmetic jar of smooth pale balm with a soft swirl on top, unlabelled, its lid floating just above it, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round"
+    },
+    {
+      "id": "g-cat-accessories",
+      "file": "assets/generated/g-cat-accessories.jpg",
+      "role": "tile",
+      "aspect": "1:1",
+      "usedFor": [
+        "home category tiles",
+        "/products/ tiles",
+        "/products/accessories/ hero"
+      ],
+      "calmArea": "even pale sky margins all round the centred object",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A clear glass hand pipe floating above a white plinth on a pale sky ground",
+      "prompt": "Square studio still life, one of a consistent series: a single sleek clear borosilicate glass hand pipe, a simple spoon pipe with a smooth bowl and a faint pale blue tint, completely plain, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round"
+    },
+    {
+      "id": "g-bud-cut",
+      "file": "assets/generated/g-bud-cut.png",
+      "role": "cutout",
+      "aspect": "1:1",
+      "cutout": true,
+      "usedFor": [
+        "home hero floating object protruding into the next band"
+      ],
+      "calmArea": "transparent around the bud",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A floating cannabis flower bud",
+      "prompt": "A single whole cured cannabis flower bud, dense and frosty with sparkling white trichomes and curly orange pistils, sage and olive green, photographed whole and isolated in the centre of a plain seamless flat light grey studio backdrop, nothing else in frame, wide margins all round, crisp edges, soft even light"
+    },
+    {
+      "id": "g-cloud-cut",
+      "file": "assets/generated/g-cloud-cut.png",
+      "role": "cutout",
+      "aspect": "3:2",
+      "cutout": true,
+      "usedFor": [
+        "floating cloud ornaments crossing section seams"
+      ],
+      "calmArea": "transparent around the cloud",
+      "input": {
+        "aspect_ratio": "3:2"
+      },
+      "alt": "A soft white cloud",
+      "prompt": "A single soft puffy white cumulus cloud, compact and rounded with a flatter base, isolated in the centre of a plain seamless flat medium sky blue studio backdrop, nothing else in frame, wide margins all round, soft even light"
+    },
+    {
+      "id": "g-preroll-cut",
+      "file": "assets/generated/g-preroll-cut.png",
+      "role": "cutout",
+      "aspect": "1:1",
+      "cutout": true,
+      "usedFor": [
+        "floating pre-roll object on pre-roll and shop pages"
+      ],
+      "calmArea": "transparent around the pre-roll",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A floating cone-shaped pre-roll",
+      "prompt": "A single cone-shaped cannabis pre-roll joint of thin white rolling paper, wide at the open end packed with ground green cannabis and tapering evenly to a narrow twisted paper tip, with no filter and no cigarette tip, lying diagonally, isolated in the centre of a plain seamless flat light grey studio backdrop, nothing else in frame, wide margins all round, crisp edges, soft even light"
+    },
+    {
+      "id": "g-stoop-cut",
+      "file": "assets/generated/g-stoop-cut.png",
+      "role": "cutout",
+      "aspect": "1:1",
+      "cutout": true,
+      "usedFor": [
+        "floating brownstone stoop object on visit and service pages"
+      ],
+      "calmArea": "transparent around the stoop",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "A floating fragment of a brownstone stoop with an open door",
+      "prompt": "A floating fragment of a Brooklyn brownstone townhouse front: a short flight of brown sandstone stoop steps with black iron railings leading up to an open wooden front door with warm light inside, framed by a piece of brown sandstone facade with one window, its underside a rough broken chunk of brownstone and earth, the whole fragment filling most of the frame, isolated on a plain seamless flat light grey studio backdrop, nothing else in frame, crisp edges, soft even light, no clouds, no house numbers, no signs",
+      "rejectReason": "attempt 1: only a small staircase, no door or facade, with cloud wisps in the alpha"
+    },
+    {
+      "id": "g-vitrine",
+      "file": "assets/generated/g-vitrine.jpg",
+      "role": "feature",
+      "aspect": "4:5",
+      "usedFor": [
+        "home FEATURED Cannabis showcase (highly curated)"
+      ],
+      "calmArea": "calm sky above and around the vitrine",
+      "input": {
+        "aspect_ratio": "3:4"
+      },
+      "alt": "A cannabis bud displayed in a glass museum vitrine floating in a pale sky",
+      "prompt": "A single cured cannabis flower bud, dense and frosty with sparkling white trichomes and curly orange pistils, rests on a small white pedestal inside a clear glass museum vitrine with thin white edges, and the whole vitrine floats in a pale morning sky among soft clouds; the vitrine is centred, slightly below the middle, filling about half the frame height; crisp glass reflections; pale sky blue at the top fading to warm peach at the bottom; calm sky above the vitrine"
+    },
+    {
+      "id": "g-delivery-dream",
+      "file": "assets/generated/g-delivery-dream.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "home DELIVERY showcase band",
+        "delivery pages"
+      ],
+      "calmArea": "left 40% open dawn sky",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "A riderless cargo bicycle crossing a bridge of clouds above brownstone rooftops at dawn",
+      "prompt": "At dawn, a riderless unbranded cargo bicycle with a plain matte white front cargo box glides across a gently curving bridge made of soft white clouds that arcs high above a sea of Brooklyn brownstone rooftops with wooden water towers and chimneys far below; pale sky blue sky with a warm peach glow low on the horizon; the bicycle is small, in the right half of the frame; the left 40 percent of the frame is calm open sky; no shop signs"
+    },
+    {
+      "id": "g-night-sky",
+      "file": "assets/generated/g-night-sky.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "NIGHT bands (rewards band, one feature band)"
+      ],
+      "calmArea": "left 60% and the upper half: deep calm night sky",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "A lit doorway standing alone on still black water under a night sky",
+      "prompt": "A lone freestanding doorway, a simple door frame with an open door and soft warm light pouring out of it, stands by itself on perfectly still black water under a deep night sky with faint stars and a few dark soft clouds; the warm light reflects in a long glowing streak on the mirror-still water; the doorway is small and placed in the right third of the frame; the left and upper areas are calm deep blue-black night sky; minimal, quiet, mysterious; no moon, no buildings, no land"
+    },
+    {
+      "id": "g-visitor",
+      "file": "assets/generated/g-visitor.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "visitor and tourist pages",
+        "visit band"
+      ],
+      "calmArea": "left 45% soft out-of-focus sidewalk and sky",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "An open vintage suitcase spilling clouds onto a brownstone sidewalk",
+      "prompt": "An open vintage tan leather suitcase rests on a quiet tree-lined brownstone sidewalk in soft morning light, and soft white clouds spill out of it and drift up into the air; brownstone stoops with black iron railings softly out of focus behind; pale sky blue and warm peach light; the suitcase sits in the right third of the frame; calm soft space on the left; no tags, no stickers, no shop fronts, no signs"
+    },
+    {
+      "id": "g-events",
+      "file": "assets/generated/g-events.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "/events/ hero",
+        "home events band"
+      ],
+      "calmArea": "left 40% open sky above the cloud sea",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "A long table set on a rooftop above the clouds under string lights",
+      "prompt": "A long empty dining table set for a gathering on a rooftop terrace that floats above a sea of soft clouds at golden hour, white tablecloth, simple white plates, clear glasses, small vases of pale flowers, empty chairs, warm string lights strung overhead between thin poles; pale sky blue to warm peach sky; the table runs from the right side toward the centre in perspective; calm open sky on the left"
+    },
+    {
+      "id": "g-brands",
+      "file": "assets/generated/g-brands.jpg",
+      "role": "backdrop",
+      "aspect": "16:9",
+      "usedFor": [
+        "/brands/ hero",
+        "brand promo band ground"
+      ],
+      "calmArea": "left third open sky",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "Floating glass vitrines holding abstract objects in a pale sky",
+      "prompt": "A calm surreal open-air gallery: five frosted glass museum vitrines on slim white plinths float at different heights in a pale morning sky among soft clouds, each vitrine holding one simple abstract object, a matte white sphere, a soft peach cube, a pale blue ring, a smooth grey pebble form, a small yellow cylinder; clean and airy with generous space between them; pale sky blue to warm peach palette; the vitrines spread across the right two thirds; calm open sky on the left third"
+    },
+    {
+      "id": "g-curation",
+      "file": "assets/generated/g-curation.jpg",
+      "role": "feature",
+      "aspect": "4:5",
+      "usedFor": [
+        "about and brands pages: the curated inventory"
+      ],
+      "calmArea": "white margins around the grid",
+      "input": {
+        "aspect_ratio": "3:4"
+      },
+      "alt": "Cannabis buds and plain products arranged on a white grid like a museum inventory",
+      "prompt": "Seen from directly above, a museum inventory laid out on a white surface marked with a fine pale grey grid: nine cured cannabis flower buds with frosty trichomes and orange pistils, three tiny clear glass jars, and plain unbranded white and kraft paper boxes, arranged in neat rows with even spacing; each item has a small completely blank white paper tag tied with string; soft shadows; faint pale sky blue tint in the light; minimal, orderly, generous white space; no cigarettes, no joints",
+      "rejectReason": "attempt 1: the pre-rolls in the grid read as filtered cigarettes"
+    },
+    {
+      "id": "g-guide",
+      "file": "assets/generated/g-guide.jpg",
+      "role": "feature",
+      "aspect": "4:5",
+      "usedFor": [
+        "/education/ and /learn/ heroes",
+        "guide cards"
+      ],
+      "calmArea": "calm sky above the book",
+      "input": {
+        "aspect_ratio": "3:4"
+      },
+      "alt": "An open book whose pages turn into clouds",
+      "prompt": "An open hardcover book with completely blank pages floats in a pale morning sky; its pages lift and turn into soft white clouds that drift upward out of the book; pale sky blue at the top fading to warm peach at the bottom; the book sits in the lower middle of the frame; calm sky above"
+    },
+    {
+      "id": "g-pickup",
+      "file": "assets/generated/g-pickup.jpg",
+      "role": "feature",
+      "aspect": "4:5",
+      "usedFor": [
+        "/in-store-pickup/ hero",
+        "pickup service card"
+      ],
+      "calmArea": "calm sky above the bag",
+      "input": {
+        "aspect_ratio": "3:4"
+      },
+      "alt": "A plain kraft paper bag floating on a cloud above brownstone steps",
+      "prompt": "A plain kraft paper shopping bag with folded paper handles, completely blank and unmarked, floats on a small soft white cloud just above a short flight of brownstone steps with black iron railings; soft morning light; pale sky blue to warm peach sky behind; the bag is centred; calm space above"
+    },
+    {
+      "id": "g-rewards",
+      "file": "assets/generated/g-rewards.jpg",
+      "role": "feature",
+      "aspect": "4:5",
+      "usedFor": [
+        "rewards band",
+        "/rewards/ hero"
+      ],
+      "calmArea": "calm sky around the ticket",
+      "input": {
+        "aspect_ratio": "3:4"
+      },
+      "alt": "A giant blank yellow ticket floating among clouds",
+      "prompt": "A giant blank bright lemon yellow admission ticket with a perforated tear-off edge and one punched round hole, completely blank with no printing at all, floats gently tilted among soft white clouds in a pale morning sky; centred; calm sky around it; pale sky blue to warm peach background"
+    }
+  ]
+}

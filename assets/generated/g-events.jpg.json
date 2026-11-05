@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-events",
+  "file": "assets/generated/g-events.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A long empty dining table set for a gathering on a rooftop terrace that floats above a sea of soft clouds at golden hour, white tablecloth, simple white plates, clear glasses, small vases of pale flowers, empty chairs, warm string lights strung overhead between thin poles; pale sky blue to warm peach sky; the table runs from the right side toward the centre in perspective; calm open sky on the left, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "16:9"
+  },
+  "seed": 1280296169,
+  "requestId": "01a1a98b-71b8-74e0-b4e0-959ab992381d",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "59caf9204ccf56319bef932f2760671b9894dcbf5d3d1dfa19c1d1e7f7b2c526",
+  "raw": "tmp/img/raw/g-events.1793845861397.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:31:03.901Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Higgsfield REST still (grok-imagine-image-2.0) refused by the provider, not charged; generated on fal instead and accepted",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "rewards-signup-page",
+ "path": "/rewards-signup-page/",
+ "url": "https://getbuzzy.com/rewards-signup-page/",
+ "title": "Rewards Program Sign Up | BUZZY",
+ "description": "Join BUZZY's Brooklyn rewards program in Cobble Hill for exclusive cannabis perks, discounts, and member updates. Sign up today and start earning rewards.",
+ "canonical": "https://getbuzzy.com/rewards-signup-page/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "",
+ "postId": "927",
+ "sections": [
+  {
+   "id": "s1",
+   "src": "3293809",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "embed",
+     "kind": "alpineiq",
+     "src": "https://lab.alpineiq.com/join/c/5058/111458",
+     "note": "",
+     "w": 1000,
+     "h": 800
+    }
+   ]
+  }
+ ]
+}

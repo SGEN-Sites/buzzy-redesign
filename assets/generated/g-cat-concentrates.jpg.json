@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-cat-concentrates",
+  "file": "assets/generated/g-cat-concentrates.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Square studio still life, one of a consistent series: a tiny clear glass concentrate jar, open, its lid floating just above it, holding a small dollop of golden translucent cannabis rosin resin, glossy and sticky like amber sap with a few tiny bubbles, a small amount filling only the bottom of the jar, not honey and not jelly, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "1:1"
+  },
+  "seed": 1062867948,
+  "requestId": "01a1a971-a673-7030-94e5-6d7ac79df05a",
+  "cutout": null,
+  "width": 2048,
+  "height": 2048,
+  "sha256": "195ab8bae78d322e5931ab9b4c9ef197cd32f81e77ef87d2c11403bbc5e61e86",
+  "raw": "tmp/img/raw/g-cat-concentrates.1793844170340.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:02:52.201Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

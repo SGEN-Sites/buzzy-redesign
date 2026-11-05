@@ -1,0 +1,39 @@
+{
+ "slug": "events-category-community-events",
+ "path": "/events/category/community-events/",
+ "url": "https://getbuzzy.com/events/category/community-events/",
+ "title": "Community Events & Local Activities in Brooklyn | BUZZY",
+ "description": "Explore upcoming community events and local happenings with BUZZY, your Brooklyn cannabis dispensary. Check our schedule and join us in the neighborhood.",
+ "canonical": "https://getbuzzy.com/events/category/community-events/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Buzzy Community Events: Join Us in Brooklyn",
+ "postId": "",
+ "sections": [
+  {
+   "id": "buzzy-community-events-join-us-in-brooklyn",
+   "src": "",
+   "heading": "Buzzy Community Events: Join Us in Brooklyn",
+   "blocks": [
+    {
+     "type": "ol",
+     "items": [
+      "<a href=\"https://getbuzzy.com/events/\"> Events </a>",
+      "Community Events"
+     ]
+    },
+    {
+     "type": "ul",
+     "items": [
+      "November 2026",
+      "<a href=\"https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-9/\"> Monday Trivia Night at The Brazen Head </a> November 9 @ 7:30 pm - 9:30 pm The Brazen Head 228 Atlantic Ave, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-16/\"> Monday Trivia Night at The Brazen Head </a> November 16 @ 7:30 pm - 9:30 pm The Brazen Head 228 Atlantic Ave, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-23/\"> Monday Trivia Night at The Brazen Head </a> November 23 @ 7:30 pm - 9:30 pm The Brazen Head 228 Atlantic Ave, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-30/\"> Monday Trivia Night at The Brazen Head </a> November 30 @ 7:30 pm - 9:30 pm The Brazen Head 228 Atlantic Ave, Brooklyn, NY, United States Free"
+     ]
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "slug": "flower-friday-10-off-tks-sensei-lead-farmer-oct-23",
+ "path": "/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-23/",
+ "url": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-23/",
+ "title": "Flower Friday: 10% Off TKS Sensei + Lead Farmer - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-23/",
+ "ogImage": "/assets/photos/bz/buzzy-bingo-event-flower-friday-oct-23.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-flower-friday-oct-23.webp",
+ "h1": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+ "postId": "1926",
+ "startISO": "2026-10-23T00:00:00-04:00",
+ "endISO": "2026-10-23T23:59:59-04:00",
+ "dateText": "October 23",
+ "timeText": "",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Community Events",
+ "categorySlug": "community-events",
+ "categories": [
+  {
+   "name": "Community Events",
+   "slug": "community-events"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-bingo-event-flower-friday-oct-23.webp",
+  "w": 1550,
+  "h": 875,
+  "alt": "Flower Friday at BUZZY: TKS Sensei + Lead Farmer"
+ },
+ "eventDescription": "It’s Flower Friday at BUZZY! On Friday, October 23, save 10% on TKS Sensei and Lead Farmer flower at our Court Street shop. Flower Friday runs every Friday in October, […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-23/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-02T00:00:00+00:00"
+ },
+ "html": "<p>It’s Flower Friday at BUZZY! On Friday, October 23, save 10% on TKS Sensei and Lead Farmer flower at our Court Street shop.</p>\n<p>Flower Friday runs every Friday in October, so stop in, ask our budtenders what’s fresh, and stock up for the weekend.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Jaunty Pop-Up + Swag with Purchase",
+   "href": "https://getbuzzy.com/event/jaunty-pop-up-swag-with-purchase/"
+  },
+  {
+   "text": "Rolling Green Pop-Up + 15% Off",
+   "href": "https://getbuzzy.com/event/rolling-green-pop-up-bogo-50-off-3-5g/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "flower-friday-10-off-tks-sensei-lead-farmer",
+   "src": "4d8f4efa",
+   "heading": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 23",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-bingo-event-flower-friday-oct-23.webp",
+     "alt": "Flower Friday at BUZZY: TKS Sensei + Lead Farmer",
+     "w": 1550,
+     "h": 875,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-flower-friday-oct-23.webp"
+    },
+    {
+     "type": "p",
+     "html": "It’s Flower Friday at BUZZY! On Friday, October 23, save 10% on TKS Sensei and Lead Farmer flower at our Court Street shop."
+    },
+    {
+     "type": "p",
+     "html": "Flower Friday runs every Friday in October, so stop in, ask our budtenders what’s fresh, and stock up for the weekend."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/community-events/\">Community Events</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-cat-tinctures",
+  "file": "assets/generated/g-cat-tinctures.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Square studio still life, one of a consistent series: a small plain amber glass dropper bottle, unlabelled, with its glass dropper floating just above the open neck and one golden drop falling from the dropper tip, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "1:1"
+  },
+  "seed": 476769118,
+  "requestId": "01a1a971-a66f-71f3-893a-9e31ae6200f9",
+  "cutout": null,
+  "width": 2048,
+  "height": 2048,
+  "sha256": "066274b92e9e73b7b82dc698531357bef3429c50487348032aacd435da657806",
+  "raw": "tmp/img/raw/g-cat-tinctures.1793844169971.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:02:52.077Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

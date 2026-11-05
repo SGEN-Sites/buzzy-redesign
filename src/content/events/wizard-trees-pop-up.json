@@ -1,0 +1,159 @@
+{
+ "slug": "wizard-trees-pop-up",
+ "path": "/event/wizard-trees-pop-up/",
+ "url": "https://getbuzzy.com/event/wizard-trees-pop-up/",
+ "title": "Wizard Trees Pop-Up Event | BUZZY",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/wizard-trees-pop-up/",
+ "ogImage": "/assets/photos/bz/image-1.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/image-1.webp",
+ "h1": "Wizard Trees Pop-Up Event at Buzzy Brooklyn Dispensary",
+ "postId": "1447",
+ "startISO": "2026-09-02T16:00:00-04:00",
+ "endISO": "2026-09-02T19:00:00-04:00",
+ "dateText": "September 2",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/image-1.webp",
+  "w": 1600,
+  "h": 800,
+  "alt": "Wizard Trees mascot, a purple-clad wizard with a face mask and gold chain, sits on"
+ },
+ "eventDescription": "",
+ "html": "<p>Meet the team behind Wizard Trees, the LA-born brand built on small-batch, artisanal growing and exclusive genetics like RS-11 and Zoap. Stop by to explore their NYC lineup — including New Yorker, Black Magic, and Zangbanger — and connect with the crew in Brooklyn.</p>",
+ "adjacent": [
+  {
+   "text": "Foy Pop-Up",
+   "href": "https://getbuzzy.com/event/foy-pop-up-2/"
+  },
+  {
+   "text": "Minny Grown Pop-Up",
+   "href": "https://getbuzzy.com/event/minny-grown-pop-up/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "wizard-trees-pop-up-event-at-buzzy-brooklyn-dispensary",
+   "src": "4d8f4efa",
+   "heading": "Wizard Trees Pop-Up Event at Buzzy Brooklyn Dispensary",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "September 2",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/image-1.webp",
+     "alt": "Wizard Trees mascot, a purple-clad wizard with a face mask and gold chain, sits on",
+     "w": 1600,
+     "h": 800,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/image-1.webp"
+    },
+    {
+     "type": "p",
+     "html": "Meet the team behind Wizard Trees, the LA-born brand built on small-batch, artisanal growing and exclusive genetics like RS-11 and Zoap. Stop by to explore their NYC lineup — including New Yorker, Black Magic, and Zangbanger — and connect with the crew in Brooklyn."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "Visit Buzzy Dispensary in Brooklyn"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

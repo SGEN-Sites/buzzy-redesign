@@ -1,0 +1,20 @@
+/* fix.css - main-session integration fixes, loaded last (CSS_ORDER). Each block names what it fixes. */
+
+/* 1. Captured hero photos inside a lane's 4:5 frame: the <img> sits inside span.frame__img, so it must fill it. */
+.v-hero__frame .frame__img img { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+/* 2. /visit-us/: BUZZY's 1920x322 skyline strip runs full width in its own band under the hero (services.mjs
+      genericPage); it takes the hero's overhang so the protruding stoop never sits on text. */
+.page-hero + .v-strip { padding-top: calc(var(--overhang) + 20px); padding-bottom: 8px; }
+.v-strip__img { display: block; width: 100%; height: auto; }
+
+/* 3. Phones: the shop hero cut-out floated over the hero's fact list (/rewards/, /brands/ at 390). */
+@media (max-width: 720px) {
+  .s-hero:has(.s-hero__facts) .s-hero__cut { display: none; }
+}
+
+/* 4. Phones: the hero frame overhang reached 7px into the first line of the next band on /education/ (390 probe);
+      every inner hero's following band gets a little more room on phones. */
+@media (max-width: 720px) {
+  .page-hero + .band, .page-hero + section { padding-top: calc(var(--section-y) + var(--overhang) + 16px); }
+}

@@ -1,0 +1,141 @@
+{
+ "slug": "trick-treats-bingo-at-buzzy",
+ "path": "/event/trick-treats-bingo-at-buzzy/",
+ "url": "https://getbuzzy.com/event/trick-treats-bingo-at-buzzy/",
+ "title": "Trick & Treats Bingo at BUZZY - Buzzy",
+ "description": "Learn new tricks, score deals, & earn a goodie bag when you get Bingo!",
+ "canonical": "https://getbuzzy.com/event/trick-treats-bingo-at-buzzy/",
+ "ogImage": "/assets/photos/bz/buzzy.bingoevent-1.png",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/BUZZY.BingoEvent-1.png",
+ "h1": "Trick & Treats Bingo at BUZZY",
+ "postId": "1744",
+ "startISO": "2026-10-01T00:00:00+00:00",
+ "endISO": "2026-10-31T23:59:59+00:00",
+ "dateText": "October 1 - October 31",
+ "timeText": "",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "",
+ "categorySlug": "",
+ "categories": [],
+ "image": {
+  "src": "/assets/photos/bz/buzzy.bingoevent-1.png",
+  "w": 15973,
+  "h": 8785,
+  "alt": "tricks and treats bingo"
+ },
+ "eventDescription": "Learn new tricks, score deals, and earn a goodie bag when you get Bingo!",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "availability": "https://schema.org/InStock",
+  "url": "https://getbuzzy.com/event/trick-treats-bingo-at-buzzy/"
+ },
+ "html": "<p>Learn new tricks, score deals, and earn a goodie bag when you get Bingo!</p>",
+ "adjacent": [
+  {
+   "text": "Atlantic Antic 2026",
+   "href": "https://getbuzzy.com/event/atlantic-antic-2026/"
+  },
+  {
+   "text": "Flower Friday: 10% Off TKS Sensei + Lead Farmer – Oct 2",
+   "href": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-2/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "trick-treats-bingo-at-buzzy",
+   "src": "4d8f4efa",
+   "heading": "Trick & Treats Bingo at BUZZY",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 1",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "October 31",
+     "role": "event-datetime"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy.bingoevent-1.png",
+     "alt": "tricks and treats bingo",
+     "w": 15973,
+     "h": 8785,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/BUZZY.BingoEvent-1.png"
+    },
+    {
+     "type": "p",
+     "html": "Learn new tricks, score deals, and earn a goodie bag when you get Bingo!"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "slug": "date-night-surround-society-buzzy",
+ "path": "/event/date-night-surround-society-buzzy/",
+ "url": "https://getbuzzy.com/event/date-night-surround-society-buzzy/",
+ "title": "Date Night, Upgraded: Surround Society × BUZZY - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/date-night-surround-society-buzzy/",
+ "ogImage": "/assets/photos/bz/buzzy-event-surround-society-date-night.png",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-event-surround-society-date-night.png",
+ "h1": "Date Night, Upgraded: Surround Society × BUZZY",
+ "postId": "2329",
+ "startISO": "2026-10-16T19:00:00+00:00",
+ "endISO": "2026-10-16T20:00:00+00:00",
+ "dateText": "October 16",
+ "timeText": "7:00 pm - 8:00 pm",
+ "venue": "Surround Society",
+ "address": "220 Atlantic Ave, Brooklyn, NY 11201",
+ "venueShown": [
+  "220 Atlantic Ave Brooklyn, NY 11201 United States",
+  "+ Google Map"
+ ],
+ "category": "Community Events",
+ "categorySlug": "community-events",
+ "categories": [
+  {
+   "name": "Community Events",
+   "slug": "community-events"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-event-surround-society-date-night.png",
+  "w": 1024,
+  "h": 578,
+  "alt": "Surround Society × BUZZY date night"
+ },
+ "eventDescription": "Date night, upgraded. Join Surround Society and BUZZY on Friday, October 16 for a one-hour reset built for two, with snacks, sips, a guided sound experience, and a special BUZZY […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "111",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/date-night-surround-society-buzzy/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-07T00:00:00+00:00"
+ },
+ "html": "<p>Date night, upgraded. Join Surround Society and BUZZY on Friday, October 16 for a one-hour reset built for two, with snacks, sips, a guided sound experience, and a special BUZZY treat.</p>\n<h3>What to expect</h3>\n<ul><li>A warm welcome with drinks, tea, and canapés</li><li>Guided breathwork and an energy reset with Deena</li><li>A live sound bath with Linsey</li><li>A short guided close to share with your person</li><li>A few goodies from BUZZY to take with you</li></ul>\n<p>Bring your partner, your best friend, whoever. No experience needed. Wear something comfy and Surround Society has the rest covered.</p>\n<h3>Details</h3>\n<ul><li><strong>When:</strong> Friday, October 16, 7:00 to 8:00 pm</li><li><strong>Where:</strong> Surround Society, 220 Atlantic Ave, Brooklyn, just down the street from the shop</li><li><strong>Tickets:</strong> $111 per pair</li><li><strong>Space:</strong> Only 10 couples</li></ul>\n<p><a href=\"https://surroundsociety.com/#schedule\" target=\"_blank\"><strong>Reserve your spot at Surround Society →</strong></a></p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Off Hours Pop-Up",
+   "href": "https://getbuzzy.com/event/off-hours-pop-up/"
+  },
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-oct-19/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "date-night-upgraded-surround-society-buzzy",
+   "src": "4d8f4efa",
+   "heading": "Date Night, Upgraded: Surround Society × BUZZY",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 16",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "8:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "$111",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-event-surround-society-date-night.png",
+     "alt": "Surround Society × BUZZY date night",
+     "w": 1024,
+     "h": 578,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-event-surround-society-date-night.png"
+    },
+    {
+     "type": "p",
+     "html": "Date night, upgraded. Join Surround Society and BUZZY on Friday, October 16 for a one-hour reset built for two, with snacks, sips, a guided sound experience, and a special BUZZY treat."
+    },
+    {
+     "type": "h3",
+     "text": "What to expect"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "A warm welcome with drinks, tea, and canapés",
+      "Guided breathwork and an energy reset with Deena",
+      "A live sound bath with Linsey",
+      "A short guided close to share with your person",
+      "A few goodies from BUZZY to take with you"
+     ]
+    },
+    {
+     "type": "p",
+     "html": "Bring your partner, your best friend, whoever. No experience needed. Wear something comfy and Surround Society has the rest covered."
+    },
+    {
+     "type": "h3",
+     "text": "Details"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "<strong>When:</strong> Friday, October 16, 7:00 to 8:00 pm",
+      "<strong>Where:</strong> Surround Society, 220 Atlantic Ave, Brooklyn, just down the street from the shop",
+      "<strong>Tickets:</strong> $111 per pair",
+      "<strong>Space:</strong> Only 10 couples"
+     ]
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://surroundsociety.com/#schedule\" target=\"_blank\"><strong>Reserve your spot at Surround Society →</strong></a>"
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/community-events/\">Community Events</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Website:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://surroundsociety.com/\">https://surroundsociety.com/</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Surround Society"
+    },
+    {
+     "type": "p",
+     "html": "220 Atlantic Ave<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=220+Atlantic+Ave+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=220+Atlantic+Ave+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Surround Society"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

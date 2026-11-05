@@ -1,0 +1,6 @@
+/* fonts.css - self-hosted OFL faces (main session). Geist stands in for BUZZY's licensed Aeonik on this pitch;
+   Geist Mono for the utilitarian labels (BUZZY's DIN role); Instrument Serif italic for the surreal accent word. */
+@font-face { font-family: 'Geist'; font-style: normal; font-weight: 300 800; font-display: swap; src: url('/assets/fonts/geist-var-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Geist Mono'; font-style: normal; font-weight: 400 600; font-display: swap; src: url('/assets/fonts/geist-mono-var-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Instrument Serif'; font-style: italic; font-weight: 400; font-display: swap; src: url('/assets/fonts/instrument-serif-italic-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Instrument Serif'; font-style: normal; font-weight: 400; font-display: swap; src: url('/assets/fonts/instrument-serif-normal-latin.woff2') format('woff2'); }

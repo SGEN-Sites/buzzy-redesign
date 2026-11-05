@@ -1,0 +1,51 @@
+{
+ "slug": "product",
+ "path": "/product/",
+ "url": "https://getbuzzy.com/product/",
+ "title": "Rove Cannabis Products in Brooklyn, NY | BUZZY",
+ "description": "Shop Rove cannabis products at BUZZY, Brooklyn’s trusted dispensary in Cobble Hill. Browse our premium selection and order online for convenient delivery.",
+ "canonical": "https://getbuzzy.com/product/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Rove Cannabis Products: Curated Selection at Buzzy Brooklyn",
+ "postId": "250",
+ "sections": [
+  {
+   "id": "rove-cannabis-products-curated-selection-at-buzzy-brooklyn",
+   "src": "cf83867",
+   "heading": "Rove Cannabis Products: Curated Selection at Buzzy Brooklyn",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Highly Curated",
+     "wasH1": true
+    },
+    {
+     "type": "h2",
+     "text": "$24.00 USD",
+     "wasH1": true
+    },
+    {
+     "type": "button",
+     "text": "−",
+     "href": ""
+    },
+    {
+     "type": "p",
+     "html": "1pc"
+    },
+    {
+     "type": "button",
+     "text": "+",
+     "href": ""
+    },
+    {
+     "type": "button",
+     "text": "add to cart",
+     "href": "#"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

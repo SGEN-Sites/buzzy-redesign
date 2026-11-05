@@ -1,0 +1,179 @@
+{
+ "slug": "umamii-pop-up-concentrate-bundle-deal",
+ "path": "/event/umamii-pop-up-concentrate-bundle-deal/",
+ "url": "https://getbuzzy.com/event/umamii-pop-up-concentrate-bundle-deal/",
+ "title": "Umamii Pop-Up + Concentrate Bundle Deal - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/umamii-pop-up-concentrate-bundle-deal/",
+ "ogImage": "/assets/photos/bz/buzzy-bingo-event-umamii-pop-up.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-umamii-pop-up.webp",
+ "h1": "Umamii Pop-Up + Concentrate Bundle Deal",
+ "postId": "1934",
+ "startISO": "2026-10-10T16:00:00-04:00",
+ "endISO": "2026-10-10T19:00:00-04:00",
+ "dateText": "October 10",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-bingo-event-umamii-pop-up.webp",
+  "w": 1550,
+  "h": 875,
+  "alt": "Umamii pop-up at BUZZY"
+ },
+ "eventDescription": "",
+ "html": "<p>Umamii is popping up at BUZZY on Saturday, October 10th from 4pm to 7pm. Meet the team, learn what makes their concentrates stand out, and find the right pick for you.</p>\n<p><strong>The deals:</strong></p>\n<ul><li>Save 10% on all Umamii products</li><li>Concentrate bundle: buy any 2 Umamii products and get the 3rd for 30% off</li></ul>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+   "href": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-9/"
+  },
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-oct-12/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "umamii-pop-up-concentrate-bundle-deal",
+   "src": "4d8f4efa",
+   "heading": "Umamii Pop-Up + Concentrate Bundle Deal",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 10",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-bingo-event-umamii-pop-up.webp",
+     "alt": "Umamii pop-up at BUZZY",
+     "w": 1550,
+     "h": 875,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-umamii-pop-up.webp"
+    },
+    {
+     "type": "p",
+     "html": "Umamii is popping up at BUZZY on Saturday, October 10th from 4pm to 7pm. Meet the team, learn what makes their concentrates stand out, and find the right pick for you."
+    },
+    {
+     "type": "p",
+     "html": "<strong>The deals:</strong>"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Save 10% on all Umamii products",
+      "Concentrate bundle: buy any 2 Umamii products and get the 3rd for 30% off"
+     ]
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

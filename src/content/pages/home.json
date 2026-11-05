@@ -1,0 +1,701 @@
+{
+ "slug": "home",
+ "path": "/",
+ "url": "https://getbuzzy.com/",
+ "title": "BUZZY Brooklyn Dispensary | Curated Cannabis in Cobble Hill",
+ "description": "Shop BUZZY, Cobble Hill's curated cannabis dispensary — order online for pickup or delivery, with guidance from our trusted local team.",
+ "canonical": "https://getbuzzy.com/",
+ "ogImage": "/assets/photos/bz/buzzy-exterior-banner-home-copy-scaled.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/Buzzy-Exterior-Banner-Home-copy-scaled.webp",
+ "h1": "Highly Curated Cannabis in Brooklyn",
+ "postId": "15",
+ "sections": [
+  {
+   "id": "highly-curated-cannabis-in-brooklyn",
+   "src": "4b6be59",
+   "heading": "Highly Curated Cannabis in Brooklyn",
+   "blocks": [
+    {
+     "type": "img",
+     "role": "background",
+     "src": "/assets/photos/bz/buzzy.webhome-scaled.webp",
+     "alt": "",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/Buzzy.WebHome-scaled.webp",
+     "w": 1920,
+     "h": 1016
+    },
+    {
+     "type": "img",
+     "role": "background",
+     "src": "/assets/photos/bz/buzzy.webhome.back_.mobile-scaled.webp",
+     "alt": "",
+     "media": "mobile",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/Buzzy.WebHome.Back_.Mobile-scaled.webp",
+     "w": 1920,
+     "h": 1016
+    },
+    {
+     "type": "p",
+     "html": "YOUR NEIGHBORHOOD DISPENSARY",
+     "hiddenOn": [
+      "mobile"
+     ],
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "Visit BUZZY on Court Street in Cobble Hill. Shop thoughtfully selected cannabis in store, order ahead for pickup, or get it delivered across Brooklyn."
+    },
+    {
+     "type": "button",
+     "text": "Shop Now",
+     "href": "https://getbuzzy.com/menu/"
+    },
+    {
+     "type": "button",
+     "text": "VISIT BUZZY",
+     "href": "https://getbuzzy.com/visit-us/"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "s2",
+   "src": "35ea8f1",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "cards",
+     "role": "image-box",
+     "items": [
+      {
+       "img": {
+        "src": "/assets/photos/bz/tinctures.webp",
+        "alt": "Shop tinctures",
+        "w": 80,
+        "h": 80,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/TINCTURES.webp"
+       },
+       "title": "TINCTURES",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=tinctures",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/topicals.webp",
+        "alt": "Shop topicals",
+        "w": 80,
+        "h": 80,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/TOPICALS.webp"
+       },
+       "title": "TOPICALS",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=topicals",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/pre-rolls.webp",
+        "alt": "Shop pre-rolls",
+        "w": 83,
+        "h": 80,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/PRE-ROLLS.png"
+       },
+       "title": "PRE-ROLLS",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=pre-rolls",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/flower.webp",
+        "alt": "Shop flower",
+        "w": 80,
+        "h": 80,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/FLOWER.webp"
+       },
+       "title": "FLOWER",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=flower",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/edibles.webp",
+        "alt": "Shop edibles",
+        "w": 80,
+        "h": 80,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/EDIBLES.png"
+       },
+       "title": "EDIBLES",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=edibles",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/vapes.webp",
+        "alt": "Shop vapes",
+        "w": 80,
+        "h": 82,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/VAPES.webp"
+       },
+       "title": "VAPES",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=vaporizers",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/concentrates.webp",
+        "alt": "Shop concentrates",
+        "w": 100,
+        "h": 72,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/CONCENTRATES.png"
+       },
+       "title": "CONCENTRATES",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=concentrates",
+       "label": "Click here"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/accessories.webp",
+        "alt": "Shop accessories",
+        "w": 80,
+        "h": 80,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/ACCESSORIES.webp"
+       },
+       "title": "ACCESSORIES",
+       "href": "https://getbuzzy.com/menu/",
+       "label": "Click here"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "src": "46a2dd4",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "cards",
+     "role": "slider",
+     "items": [
+      {
+       "title": "TRICKS & TREATS BINGO AT BUZZY",
+       "html": "Learn new tricks, score deals, &amp; earn a goodie bag when you get BINGO!",
+       "label": "PLAY BINGO",
+       "href": "https://getbuzzy.com/bingo",
+       "img": {
+        "src": "/assets/photos/bz/october-home-banners-1026-1-1.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/October-Home-Banners-1026-1-1.webp",
+        "w": 1920,
+        "h": 960
+       },
+       "repeaterId": "a2f73f2"
+      },
+      {
+       "title": "EATON BOTANICALS",
+       "html": "Cannabis meets adaptogenic mushrooms, supplements, and herbs for wellness you can feel.",
+       "label": "SHOP EATON",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Featon-botanicals",
+       "img": {
+        "src": "/assets/photos/bz/oct.homebanner.eaton_.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/Oct.HomeBanner.Eaton_.webp",
+        "w": 1920,
+        "h": 960
+       },
+       "repeaterId": "d684485"
+      },
+      {
+       "title": "RUBY FARMS",
+       "html": "Sun-grown flower rooted in the land, with nostalgic cultivars and small-batch quality.",
+       "label": "SHOP RUBY FARMS",
+       "href": "https://dutchie.com/embedded-menu/buzzy-ny/brands/ruby-farms",
+       "img": {
+        "src": "/assets/photos/bz/ruby-farms-artisan-pre-roll-tin.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/Ruby-Farms-Artisan-Pre-Roll-Tin.webp",
+        "w": 1672,
+        "h": 941
+       },
+       "repeaterId": "23dd26c"
+      },
+      {
+       "title": "JAUNTY",
+       "html": "Live resin vapes with strain-true flavor, full-spectrum character, and reliable hardware.",
+       "label": "SHOP JAUNTY",
+       "img": {
+        "src": "/assets/photos/bz/october-home-banners-1026-1-2.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/October-Home-Banners-1026-1-2.webp",
+        "w": 1920,
+        "h": 960
+       },
+       "repeaterId": "b0cd1bf"
+      },
+      {
+       "title": "WIZARD TREES",
+       "html": "Cult West Coast genetics. Limited drop. On our shelves now.",
+       "label": "SHOP THE MAGIC",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fwizard-trees",
+       "img": {
+        "src": "/assets/photos/bz/wizardtrees.homebanner-1.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/WizardTrees.HomeBanner-1.webp",
+        "w": 1920,
+        "h": 960
+       },
+       "repeaterId": "7f19da8"
+      },
+      {
+       "title": "UMAMII",
+       "html": "Single-source cannabis brand growing small-batch flower with a focus on exceptional flavor, aroma, and consistency.",
+       "label": "SHOP UMAMII",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fumamii",
+       "img": {
+        "src": "/assets/photos/bz/umami-home-banner-7500-x-2500-scaled.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/Umami-Home-Banner-7500-x-2500-scaled.webp",
+        "w": 1920,
+        "h": 640
+       },
+       "repeaterId": "2ea2a2f"
+      },
+      {
+       "title": "ITHACA ORGANICS",
+       "html": "Finger Lakes–grown cannabis brand crafting small-batch, terpene-rich flower with an organic, farm-driven approach.",
+       "label": "SHOP ITHACA",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fithaca-organics-cannabis-co",
+       "img": {
+        "src": "/assets/photos/bz/ithica-organics-home-banner-7500-x-2500-scaled.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/Ithica-Organics-Home-Banner-7500-x-2500-scaled.webp",
+        "w": 1920,
+        "h": 640
+       },
+       "repeaterId": "d9c19c4"
+      },
+      {
+       "title": "Puffco",
+       "html": "Innovative cannabis hardware brand creating premium devices that deliver cleaner flavor, smarter technology, and a better concentrate experience.",
+       "label": "Shop Puffco",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fpuffco",
+       "img": {
+        "src": "/assets/photos/bz/puff-co-home-banner-7500-x-2500-scaled.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/Puff-Co-Home-Banner-7500-x-2500-scaled.webp",
+        "w": 1920,
+        "h": 640
+       },
+       "repeaterId": "7ff0def"
+      }
+     ],
+     "hiddenOn": [
+      "mobile"
+     ]
+    },
+    {
+     "type": "cards",
+     "role": "slider",
+     "items": [
+      {
+       "title": "TRICKS & TREATS BINGO AT BUZZY",
+       "html": "Learn new tricks, score deals, and earn a goodie bag when you get BINGO!",
+       "label": "PLAY BINGO",
+       "img": {
+        "src": "/assets/photos/bz/october-mobile-banners-1026-2.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/October-Mobile-Banners-1026-2.webp",
+        "w": 248,
+        "h": 290
+       },
+       "repeaterId": "1f09cbd"
+      },
+      {
+       "title": "EATON BOTANICALS",
+       "html": "Cannabis meets adaptogenic mushroom, and herbs for wellness you can feel.",
+       "label": "SHOP EATON",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Featon-botanicals",
+       "img": {
+        "src": "/assets/photos/bz/oct.homebanner.eaton_-1.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/Oct.HomeBanner.Eaton_-1.webp",
+        "w": 248,
+        "h": 290
+       },
+       "repeaterId": "4e37534"
+      },
+      {
+       "title": "JAUNTY",
+       "html": "Jaunty live resin cannabis vape with strain-specific flavor and reliable hardware.",
+       "label": "SHOP JAUNTY",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fjaunty",
+       "img": {
+        "src": "/assets/photos/bz/october-home-banners-1026-1-2.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/October-Home-Banners-1026-1-2.webp",
+        "w": 1920,
+        "h": 960
+       },
+       "repeaterId": "d5b4ab6"
+      },
+      {
+       "title": "RUBY FARMS",
+       "html": "Sun-grown flower rooted in the land, with nostalgic cultivars and small-batch quality.",
+       "label": "SHOP RUBY FARMS",
+       "href": "https://dutchie.com/embedded-menu/buzzy-ny/brands/ruby-farms",
+       "img": {
+        "src": "/assets/photos/bz/ruby-farms-artisan-pre-roll-tin.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/Ruby-Farms-Artisan-Pre-Roll-Tin.webp",
+        "w": 1672,
+        "h": 941
+       },
+       "repeaterId": "78eae71"
+      },
+      {
+       "title": "Wizard Trees",
+       "html": "Cult West Coast genetics. Limited drop. On our shelves now.",
+       "label": "SHOP THE MAGIC",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fwizard-trees",
+       "img": {
+        "src": "/assets/photos/bz/wizardtrees.homebanner.mobile.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/WizardTrees.HomeBanner.Mobile.webp",
+        "w": 315,
+        "h": 365
+       },
+       "repeaterId": "42a32ce"
+      },
+      {
+       "title": "UMAMII",
+       "html": "Single-source cannabis brand growing small-batch flower with a focus on exceptional flavor, aroma, and consistency.",
+       "label": "SHOP UMAMII",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fumamii",
+       "img": {
+        "src": "/assets/photos/bz/umami-home-banner-7500-x-2500-scaled.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/Umami-Home-Banner-7500-x-2500-scaled.webp",
+        "w": 1920,
+        "h": 640
+       },
+       "repeaterId": "2ea2a2f"
+      },
+      {
+       "title": "ITHACA ORGANICS",
+       "html": "Finger Lakes–grown cannabis brand crafting small-batch, terpene-rich flower with an organic, farm-driven approach.",
+       "label": "SHOP ITHACA",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fithaca-organics-cannabis-co",
+       "img": {
+        "src": "/assets/photos/bz/ithica-organics-home-banner-7500-x-2500-scaled.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/Ithica-Organics-Home-Banner-7500-x-2500-scaled.webp",
+        "w": 1920,
+        "h": 640
+       },
+       "repeaterId": "d9c19c4"
+      },
+      {
+       "title": "Puffco",
+       "html": "Innovative cannabis hardware brand creating premium devices that deliver cleaner flavor, smarter technology, and a better concentrate experience.",
+       "label": "Shop Puffco",
+       "href": "https://getbuzzy.com/menu/?dtche%5Bpath%5D=brands%2Fpuffco",
+       "img": {
+        "src": "/assets/photos/bz/puff-co-home-banner-7500-x-2500-scaled.webp",
+        "alt": "",
+        "role": "background",
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/Puff-Co-Home-Banner-7500-x-2500-scaled.webp",
+        "w": 1920,
+        "h": 640
+       },
+       "repeaterId": "7ff0def"
+      }
+     ],
+     "hiddenOn": [
+      "desktop",
+      "tablet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "featured-cannabis",
+   "src": "ca3c428",
+   "heading": "FEATURED Cannabis",
+   "blocks": [
+    {
+     "type": "embed",
+     "kind": "dutchie",
+     "src": "https://dutchie.com/api/v3/embedded-menu/6797c6ee1a011d09d894c6f7/carousels/1d5ceff6-ad90-4b34-a92b-cd28cebb61ec.js?routeRoot=https%3A%2F%2Fgetbuzzy.com%2F%2Fmenu&hideTitle=true",
+     "note": "Dutchie embedded menu script"
+    },
+    {
+     "type": "p",
+     "html": "Handpicked for quality and vibe, our cannabis selection brings Brooklyn’s best to you."
+    },
+    {
+     "type": "button",
+     "text": "Shop All Cannabis",
+     "href": "https://getbuzzy.com/menu/"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "s5",
+   "src": "1178115",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "JOIN OUR REWARDS PROGRAM",
+     "role": "label"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy_rewards.white_-2048x955.png",
+     "alt": "Buzzy Rewards logo",
+     "w": 2048,
+     "h": 955,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/Buzzy_Rewards.White_-2048x955.png"
+    },
+    {
+     "type": "p",
+     "html": "<strong>Get BUZZY and elevate your Buzzy experience with our exclusive deals, rewards &amp; perks.</strong>"
+    },
+    {
+     "type": "button",
+     "text": "SIGN UP FOR REWARDS",
+     "href": "https://getbuzzy.com/rewards/"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy.phonewallet.crop_-2.webp",
+     "alt": "BUZZY Rewards card in a phone wallet showing a points balance",
+     "w": 1097,
+     "h": 992,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/Buzzy.PhoneWallet.Crop_-2.webp"
+    }
+   ]
+  },
+  {
+   "id": "upcoming-buzzy-events",
+   "src": "7f0308a",
+   "heading": "Upcoming BUZZY Events",
+   "blocks": [
+    {
+     "type": "cards",
+     "role": "events",
+     "items": [
+      {
+       "title": "PIXIE POP-UP",
+       "href": "https://getbuzzy.com/event/pixie-pop-up-2/",
+       "parts": [
+        "NOV",
+        "05",
+        "BRAND POP-UPS",
+        "4-7PM",
+        "PIXIE POP-UP",
+        "Buzzy Dispensary"
+       ],
+       "month": "NOV",
+       "day": "05",
+       "category": "BRAND POP-UPS",
+       "timeText": "4-7PM",
+       "venue": "Buzzy Dispensary",
+       "dateText": "NOV 05",
+       "label": "BRAND POP-UPS",
+       "eventSlug": "pixie-pop-up-2"
+      },
+      {
+       "title": "MONDAY TRIVIA NIGHT AT THE BRAZEN HEAD",
+       "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-9/",
+       "parts": [
+        "NOV",
+        "09",
+        "COMMUNITY EVENTS",
+        "7-9PM",
+        "MONDAY TRIVIA NIGHT AT THE BRAZEN HEAD",
+        "The Brazen Head"
+       ],
+       "month": "NOV",
+       "day": "09",
+       "category": "COMMUNITY EVENTS",
+       "timeText": "7-9PM",
+       "venue": "The Brazen Head",
+       "dateText": "NOV 09",
+       "label": "COMMUNITY EVENTS",
+       "eventSlug": "monday-trivia-night-at-the-brazen-head-nov-9"
+      },
+      {
+       "title": "OFF HOURS POP-UP",
+       "href": "https://getbuzzy.com/event/off-hours-pop-up-2/",
+       "parts": [
+        "NOV",
+        "14",
+        "BRAND POP-UPS",
+        "3-6PM",
+        "OFF HOURS POP-UP",
+        "Buzzy Dispensary"
+       ],
+       "month": "NOV",
+       "day": "14",
+       "category": "BRAND POP-UPS",
+       "timeText": "3-6PM",
+       "venue": "Buzzy Dispensary",
+       "dateText": "NOV 14",
+       "label": "BRAND POP-UPS",
+       "eventSlug": "off-hours-pop-up-2"
+      },
+      {
+       "title": "MONDAY TRIVIA NIGHT AT THE BRAZEN HEAD",
+       "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-16/",
+       "parts": [
+        "NOV",
+        "16",
+        "COMMUNITY EVENTS",
+        "7-9PM",
+        "MONDAY TRIVIA NIGHT AT THE BRAZEN HEAD",
+        "The Brazen Head"
+       ],
+       "month": "NOV",
+       "day": "16",
+       "category": "COMMUNITY EVENTS",
+       "timeText": "7-9PM",
+       "venue": "The Brazen Head",
+       "dateText": "NOV 16",
+       "label": "COMMUNITY EVENTS",
+       "eventSlug": "monday-trivia-night-at-the-brazen-head-nov-16"
+      },
+      {
+       "title": "MAJOR POP-UP",
+       "href": "https://getbuzzy.com/event/major-pop-up/",
+       "parts": [
+        "NOV",
+        "20",
+        "BRAND POP-UPS",
+        "4-7PM",
+        "MAJOR POP-UP",
+        "Buzzy Dispensary"
+       ],
+       "month": "NOV",
+       "day": "20",
+       "category": "BRAND POP-UPS",
+       "timeText": "4-7PM",
+       "venue": "Buzzy Dispensary",
+       "dateText": "NOV 20",
+       "label": "BRAND POP-UPS",
+       "eventSlug": "major-pop-up"
+      },
+      {
+       "title": "MONDAY TRIVIA NIGHT AT THE BRAZEN HEAD",
+       "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-23/",
+       "parts": [
+        "NOV",
+        "23",
+        "COMMUNITY EVENTS",
+        "7-9PM",
+        "MONDAY TRIVIA NIGHT AT THE BRAZEN HEAD",
+        "The Brazen Head"
+       ],
+       "month": "NOV",
+       "day": "23",
+       "category": "COMMUNITY EVENTS",
+       "timeText": "7-9PM",
+       "venue": "The Brazen Head",
+       "dateText": "NOV 23",
+       "label": "COMMUNITY EVENTS",
+       "eventSlug": "monday-trivia-night-at-the-brazen-head-nov-23"
+      }
+     ]
+    },
+    {
+     "type": "h2",
+     "text": "Cannabis News & Education"
+    },
+    {
+     "type": "p",
+     "html": "Stay informed with cannabis strain guides, industry updates"
+    },
+    {
+     "type": "cards",
+     "role": "posts",
+     "items": [
+      {
+       "title": "Dr. Dabber Switch² eRig: Features & Buying Guide | BUZZY",
+       "href": "https://getbuzzy.com/dr-dabber-switch-2-brooklyn/",
+       "img": {
+        "src": "/assets/photos/bz/chatgpt-image-sep-8-2026-10_17_01-pm.webp",
+        "alt": "Dr. Dabber Switch²™",
+        "w": 1672,
+        "h": 941,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_17_01-PM.webp"
+       },
+       "meta": [
+        "September 9"
+       ],
+       "categories": [
+        "reviews"
+       ]
+      },
+      {
+       "title": "What Is Ampersand™? Blue River Terps’ Dissolvable THC | BUZZY",
+       "href": "https://getbuzzy.com/what-is-ampersand-blue-river-terps/",
+       "img": {
+        "src": "/assets/photos/bz/chatgpt-image-sep-7-2026-11_05_04-pm.webp",
+        "alt": "Ampersand dissolvable THC powder in small dishes",
+        "w": 1536,
+        "h": 1024,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-7-2026-11_05_04-PM.png"
+       },
+       "meta": [
+        "September 8"
+       ],
+       "categories": [
+        "community"
+       ]
+      },
+      {
+       "title": "What Is Hash? Effects & Where to Buy in Brooklyn",
+       "href": "https://getbuzzy.com/what-is-hash/",
+       "img": {
+        "src": "/assets/photos/bz/image-2048x1365.jpg",
+        "alt": "Bubble hash in a glass jar, close-up top-down view",
+        "w": 2048,
+        "h": 1365,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/image-2048x1365.jpg"
+       },
+       "meta": [
+        "August 20"
+       ],
+       "categories": [
+        "education",
+        "guides"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "More Articles",
+     "href": "https://getbuzzy.com/news-events/"
+    }
+   ],
+   "headingLevel": 2
+  }
+ ]
+}

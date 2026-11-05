@@ -1,0 +1,43 @@
+{
+ "slug": "about",
+ "path": "/about/",
+ "url": "https://getbuzzy.com/about/",
+ "title": "About BUZZY | Brooklyn's Curated Cannabis Dispensary in Cobble Hill",
+ "description": "Meet the team behind BUZZY, a minority- and woman-owned cannabis dispensary in Cobble Hill, Brooklyn, offering curated products and expert guidance.",
+ "canonical": "https://getbuzzy.com/about/",
+ "ogImage": "/assets/photos/bz/mobile-sign.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/mobile-sign.webp",
+ "h1": "About Buzzy: Your Premier Cannabis Dispensary in Cobble Hill",
+ "postId": "20",
+ "sections": [
+  {
+   "id": "about-buzzy-your-premier-cannabis-dispensary-in-cobble-hill",
+   "src": "6940bed5",
+   "heading": "About Buzzy: Your Premier Cannabis Dispensary in Cobble Hill",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Buzzy is a premier retail cannabis dispensary located in Cobble Hill, Brooklyn, NY."
+    },
+    {
+     "type": "p",
+     "html": "Led by a local, minority and woman-owned team, we bring world-class expertise in cannabis operations and lifestyle brand development. We are committed to providing an approachable and highly curated cannabis experience, built on exceptional service and shared pride in being good neighbors."
+    },
+    {
+     "type": "button",
+     "text": "Visit us",
+     "href": "https://getbuzzy.com/visit-us/"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy.exterior.streetcrop-copy.webp",
+     "alt": "Exterior view of Buzzy cannabis dispensary in Cobble Hill, Brooklyn, featuring signage indicating a New",
+     "w": 800,
+     "h": 964,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/12/Buzzy.Exterior.StreetCrop-copy.webp"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

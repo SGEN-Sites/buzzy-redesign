@@ -1,0 +1,159 @@
+{
+ "slug": "preferred-gardens-runtz-doobie-labs-strain-gang-pop-up",
+ "path": "/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/",
+ "url": "https://getbuzzy.com/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/",
+ "title": "Preferred Gardens, Runtz, Doobie Labs + Strain Gang Pop-Up - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Preferred Gardens, Runtz, Doobie Labs + Strain Gang Pop-Up",
+ "postId": "2476",
+ "startISO": "2026-11-27T17:00:00-05:00",
+ "endISO": "2026-11-27T20:00:00-05:00",
+ "dateText": "November 27",
+ "timeText": "5:00 pm - 8:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/1off-pop-up-buzzy.webp",
+  "w": 988,
+  "h": 650,
+  "alt": ""
+ },
+ "eventDescription": "Preferred Gardens, Runtz, Doobie Labs and Strain Gang are popping up together at BUZZY on Friday, November 27th from 5pm to 8pm. Make it part of your post-Thanksgiving wander down […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-11-02T00:00:00+00:00"
+ },
+ "html": "<p>Preferred Gardens, Runtz, Doobie Labs and Strain Gang are popping up together at BUZZY on Friday, November 27th from 5pm to 8pm.</p>\n<p>Make it part of your post-Thanksgiving wander down Court Street: four brands under one roof, a chance to meet the teams, and plenty to pick from for the long weekend.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Green Wednesday Umamii Pop-Up",
+   "href": "https://getbuzzy.com/event/green-wednesday-umamii-pop-up/"
+  },
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-30/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "preferred-gardens-runtz-doobie-labs-strain-gang-pop-up",
+   "src": "4d8f4efa",
+   "heading": "Preferred Gardens, Runtz, Doobie Labs + Strain Gang Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "November 27",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "5:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "8:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/1off-pop-up-buzzy.webp",
+     "alt": "",
+     "w": 988,
+     "h": 650,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/11/1off-pop-up-buzzy.webp"
+    },
+    {
+     "type": "p",
+     "html": "Preferred Gardens, Runtz, Doobie Labs and Strain Gang are popping up together at BUZZY on Friday, November 27th from 5pm to 8pm."
+    },
+    {
+     "type": "p",
+     "html": "Make it part of your post-Thanksgiving wander down Court Street: four brands under one roof, a chance to meet the teams, and plenty to pick from for the long weekend."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

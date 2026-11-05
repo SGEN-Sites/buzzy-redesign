@@ -1,0 +1,267 @@
+{
+ "slug": "visit-us",
+ "path": "/visit-us/",
+ "url": "https://getbuzzy.com/visit-us/",
+ "title": "Visit BUZZY | Cobble Hill Cannabis Dispensary, Brooklyn",
+ "description": "Visit BUZZY at 137 Court St in Cobble Hill, Brooklyn — shop curated cannabis in store, or order ahead online for pickup.",
+ "canonical": "https://getbuzzy.com/visit-us/",
+ "ogImage": "/assets/photos/bz/buzzy-interior-drawing-10_17_25-1-1-scaled.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/buzzy-interior-drawing-10_17_25-1-1-scaled.webp",
+ "h1": "Visit Buzzy",
+ "postId": "19",
+ "sections": [
+  {
+   "id": "visit-buzzy",
+   "src": "42da12c",
+   "heading": "Visit Buzzy",
+   "blocks": [
+    {
+     "type": "img",
+     "role": "background",
+     "src": "/assets/photos/bz/buzzy-brooklyn-scaled.webp",
+     "alt": "",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/12/Buzzy-Brooklyn-scaled.webp",
+     "w": 1920,
+     "h": 322
+    },
+    {
+     "type": "img",
+     "role": "background",
+     "src": "/assets/photos/bz/buzzy-brooklyn-scaled.webp",
+     "alt": "",
+     "media": "mobile",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/12/Buzzy-Brooklyn-scaled.webp",
+     "w": 1920,
+     "h": 322
+    },
+    {
+     "type": "p",
+     "html": "A Brooklyn dispensary in Cobble Hill offering curated cannabis and trusted, welcoming service."
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "location",
+   "src": "6111dfb",
+   "heading": "LOCATION",
+   "blocks": [
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"https://share.google/wozTPwlBPddac5cLN\">137 Court Street, BK</a>",
+      "<a href=\"https://maps.app.goo.gl/rNLtqgw2xus2AY8n7\">Across From Trader Joes!</a>"
+     ]
+    },
+    {
+     "type": "button",
+     "text": "Get directions",
+     "href": "https://www.google.com/maps/dir//137+Court+St+Brooklyn,+NY+11201/@40.6894497,-73.9921856,15z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89c25bef7a0e1fc5:0x58ddba340ff47d78"
+    },
+    {
+     "type": "h4",
+     "text": "Contact",
+     "level": 5
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"mailto:hello@getbuzzy.com%20\">hello@getbuzzy.com</a>",
+      "<a href=\"tel:090%208343%204383\">718 BKBUZZY</a>"
+     ]
+    },
+    {
+     "type": "button",
+     "text": "contact us",
+     "href": "mailto:hello@getbuzzy.com%20"
+    },
+    {
+     "type": "h4",
+     "text": "Hours",
+     "level": 5
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#\">Store: 8 am – 10 pm</a>",
+      "Every Day"
+     ]
+    },
+    {
+     "type": "button",
+     "text": "View Our Menu",
+     "href": "https://getbuzzy.com/menu/"
+    },
+    {
+     "type": "h4",
+     "text": "PAYMENT",
+     "level": 5
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#\">Cash (ATM on site)</a>",
+      "<a href=\"#\">Debit Card</a>"
+     ]
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "s3",
+   "src": "808814d",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://maps.google.com/maps?q=137%20Court%20St%20Brooklyn%2C%20NY%2011201&t=m&z=15&output=embed&iwloc=near",
+     "note": "137 Court St Brooklyn, NY 11201"
+    }
+   ]
+  },
+  {
+   "id": "directions-to-buzzy",
+   "src": "ff36aba",
+   "heading": "Directions to BUZZY",
+   "blocks": [
+    {
+     "type": "cards",
+     "role": "image-box",
+     "items": [
+      {
+       "img": {
+        "src": "/assets/photos/bz/train.webp",
+        "alt": "",
+        "w": 60,
+        "h": 60,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/train.webp"
+       },
+       "title": "Public Transit",
+       "html": "<strong>Subway:</strong> Take the 2, 3, 4, 5, R, or F train to Borough Hall / Court Street Station. Our dispensary is just a short walk away.<br><br><strong>Bus:</strong> Multiple MTA bus routes stop within a block of our location."
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/car-handle.webp",
+        "alt": "",
+        "w": 60,
+        "h": 60,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/car-handle.webp"
+       },
+       "title": "Driving",
+       "html": "Street parking and nearby garages are available. For the easiest route, get directions to our Cobble Hill Brooklyn dispensary on Google Maps.",
+       "href": "https://www.google.com/maps/dir//137+Court+St+Brooklyn,+NY+11201/@40.6894497,-73.9921856,15z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89c25bef7a0e1fc5:0x58ddba340ff47d78"
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/accessibility.webp",
+        "alt": "",
+        "w": 60,
+        "h": 60,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/accessibility.webp"
+       },
+       "title": "Accessibility",
+       "html": "Our Brooklyn dispensary is wheelchair accessible, with wide entryways and ADA-compliant restrooms to ensure a comfortable visit for all guests."
+      }
+     ]
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "buzzy-faqs",
+   "src": "b4afefc",
+   "heading": "Buzzy FAQs",
+   "blocks": [
+    {
+     "type": "button",
+     "text": "Read More FAQs",
+     "href": "https://getbuzzy.com/faqs/"
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "Can I order online for pickup?",
+       "a_html": "<p>Yes! You can shop online, reserve your cannabis products, and pick them up at our Brooklyn dispensary during pickup hours. <a href=\"https://getbuzzy.com/menu/\">View our Menu.</a></p>"
+      },
+      {
+       "q": "Do NYC dispensaries check ID?",
+       "a_html": "<p>Yes. All NYC dispensaries, including ours, require a valid government-issued ID to prove you are 21 or older.</p>"
+      },
+      {
+       "q": "Can I pay with a credit card at a dispensary in NYC?",
+       "a_html": "<p>Most dispensaries accept debit cards and cash. Some locations also accept mobile payments. ATMs are usually available on-site.</p>"
+      }
+     ]
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "cannabis-dispensary-in-cobble-hill-brooklyn",
+   "src": "597646d",
+   "heading": "Cannabis dispensary in Cobble Hill Brooklyn",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Wander the 22 landmarked blocks of the <a href=\"https://en.wikipedia.org/wiki/Cobble_Hill_Historic_District\">Cobble Hill Historic District</a> and enjoy one of Brooklyn’s most charming neighborhoods — where historic brownstones meet modern convenience. Relax in nearby Cobble Hill Park or stroll to Brooklyn Bridge Park for stunning waterfront views."
+    },
+    {
+     "type": "p",
+     "html": "Explore the vibrant stretch of Court Street, known for boutique shopping and some of the best restaurants in Brooklyn — from family-run bakeries and Italian markets to coffee shops, bars, and neighborhood staples just around the corner."
+    },
+    {
+     "type": "p",
+     "html": "Whether you’re a local or visiting, Buzzy is your go-to destination for cannabis, marijuana, and weed in Cobble Hill, Brooklyn. <strong>Stop by our neighborhood dispensary and discover <a href=\"https://getbuzzy.com/menu/\">thoughtfully curated products</a> in a welcoming space.</strong>"
+    },
+    {
+     "type": "cards",
+     "role": "image-box",
+     "items": [
+      {
+       "img": {
+        "src": "/assets/photos/bz/foot-print.webp",
+        "alt": "",
+        "w": 60,
+        "h": 60,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/foot-print.webp"
+       },
+       "html": "Stroll along Court Street and Smith Street for boutique shopping and local eats."
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/relax.webp",
+        "alt": "",
+        "w": 60,
+        "h": 60,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/relax.webp"
+       },
+       "html": "Relax in nearby Cobble Hill Park or take a short walk to Brooklyn Bridge Park with stunning waterfront views."
+      },
+      {
+       "img": {
+        "src": "/assets/photos/bz/store.webp",
+        "alt": "",
+        "w": 60,
+        "h": 60,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/store.webp"
+       },
+       "html": "Enjoy some of the best coffee shops, restaurants, and bars in Brooklyn—all just around the corner."
+      }
+     ]
+    },
+    {
+     "type": "h4",
+     "text": "Whether you’re a local or visiting the neighborhood, Buzzy is your go-to destination for cannabis in Cobble Hill, Brooklyn.",
+     "level": 6
+    }
+   ],
+   "headingLevel": 2
+  }
+ ]
+}

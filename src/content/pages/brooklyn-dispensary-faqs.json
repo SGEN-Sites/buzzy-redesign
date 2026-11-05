@@ -1,0 +1,64 @@
+{
+ "slug": "brooklyn-dispensary-faqs",
+ "path": "/brooklyn-dispensary-faqs/",
+ "url": "https://getbuzzy.com/brooklyn-dispensary-faqs/",
+ "title": "Cannabis Dispensary FAQ: Policies & Delivery in Brooklyn | BUZZY",
+ "description": "Got questions about BUZZY? Find answers on delivery, pickup, ID requirements, and more for our Cobble Hill cannabis dispensary in Brooklyn.",
+ "canonical": "https://getbuzzy.com/brooklyn-dispensary-faqs/",
+ "ogImage": "/assets/photos/bz/buzzy-exterior-banner-home-copy-gigapixel-cgi-2x-copy-2-scaled.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/Buzzy-Exterior-Banner-Home-copy-gigapixel-cgi-2x-copy-2-scaled.webp",
+ "h1": "Buzzy Brooklyn Dispensary: Frequently Asked Questions",
+ "postId": "103",
+ "sections": [
+  {
+   "id": "buzzy-brooklyn-dispensary-frequently-asked-questions",
+   "src": "120f088",
+   "heading": "Buzzy Brooklyn Dispensary: Frequently Asked Questions",
+   "blocks": [
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "Is weed legal in NYC?",
+       "a_html": "<p>Yes. Cannabis is legal for adults 21+ in New York City. Adults can legally buy marijuana at licensed NYC dispensaries and consume it in private spaces or designated public areas where smoking tobacco is permitted.</p>"
+      },
+      {
+       "q": "What does your Brooklyn dispensary offer?",
+       "a_html": "<p>Our Brooklyn dispensary offers:<ul><li>Premium flower (indica, sativa, hybrid strains)</li><li>Pre-rolls and joints</li><li>Edibles and gummies</li><li>Vape pens and cartridges</li><li>Concentrates and extracts</li><li>Tinctures and topicals</li><li>Cannabis accessories</li></ul></p>"
+      },
+      {
+       "q": "Where is your dispensary located?",
+       "a_html": "<p>We are conveniently located in Brooklyn, NYC. Visit us in Cobble Hill across from the Trader Joe’s. Our shop is easily accessible by subway, bus, or car.</p>"
+      },
+      {
+       "q": "What are your dispensary hours?",
+       "a_html": "<p>We’re open 7 days a week, 8am – 10pm. Perfect for morning shoppers or evening pickups.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "Do NYC dispensaries deliver weed?",
+       "a_html": "<p>Yes. Licensed NYC dispensary delivery services are available in many neighborhoods. Depending on your location, you may qualify for weed delivery in NYC directly from our Brooklyn dispensary.</p>"
+      },
+      {
+       "q": "Can I order online for pickup?",
+       "a_html": "<p>Yes. You can shop online, reserve your cannabis products, and pick them up at our Brooklyn dispensary during store hours.</p>"
+      },
+      {
+       "q": "Do NYC dispensaries check ID?",
+       "a_html": "<p>Yes. All NYC dispensaries, including ours, require a valid government-issued ID to prove you are 21 or older.</p>"
+      },
+      {
+       "q": "Can I pay with a credit card at a dispensary in NYC?",
+       "a_html": "<p>Most dispensaries accept debit cards and cash. ATMs are usually available on-site. Buzzy accepts cash and debit at this time, an ATM is on site.</p>"
+      }
+     ]
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

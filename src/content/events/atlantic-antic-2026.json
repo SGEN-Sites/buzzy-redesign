@@ -1,0 +1,159 @@
+{
+ "slug": "atlantic-antic-2026",
+ "path": "/event/atlantic-antic-2026/",
+ "url": "https://getbuzzy.com/event/atlantic-antic-2026/",
+ "title": "Atlantic Antic 2026: Event Details & Community Celebration | BUZZY",
+ "description": "Join BUZZY in Brooklyn for the Atlantic Antic 2026 street festival! Stop by our Cobble Hill dispensary on Sept 27 for local celebrations.",
+ "canonical": "https://getbuzzy.com/event/atlantic-antic-2026/",
+ "ogImage": "/assets/photos/bz/e93dd10c-7535-41d3-ad59-a13b88be3d8e.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/e93dd10c-7535-41d3-ad59-a13b88be3d8e.webp",
+ "h1": "Join Buzzy at the Atlantic Antic 2026 Street Festival",
+ "postId": "1459",
+ "startISO": "2026-09-27T12:00:00-04:00",
+ "endISO": "2026-09-27T18:00:00-04:00",
+ "dateText": "September 27",
+ "timeText": "12:00 pm - 6:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Community Events",
+ "categorySlug": "community-events",
+ "categories": [
+  {
+   "name": "Community Events",
+   "slug": "community-events"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/e93dd10c-7535-41d3-ad59-a13b88be3d8e.webp",
+  "w": 1717,
+  "h": 916,
+  "alt": "Atlantic Antic"
+ },
+ "eventDescription": "",
+ "html": "<p>Join BUZZY and the Cobble Hill community at the 2026 Atlantic Antic, Brooklyn’s oldest and largest street festival! On Sunday, September 27th from 12pm to 6pm, Atlantic Avenue comes alive with food, music, artisan vendors, and family-friendly fun. We’ll be onsite at our Court Street location all day, welcoming neighbors and visitors into the store. Stop by and say hello!</p>",
+ "adjacent": [
+  {
+   "text": "Minny Grown Pop-Up",
+   "href": "https://getbuzzy.com/event/minny-grown-pop-up-2/"
+  },
+  {
+   "text": "Trick & Treats Bingo at BUZZY",
+   "href": "https://getbuzzy.com/event/trick-treats-bingo-at-buzzy/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "join-buzzy-at-the-atlantic-antic-2026-street-festival",
+   "src": "4d8f4efa",
+   "heading": "Join Buzzy at the Atlantic Antic 2026 Street Festival",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "September 27",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "12:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "6:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/e93dd10c-7535-41d3-ad59-a13b88be3d8e.webp",
+     "alt": "Atlantic Antic",
+     "w": 1717,
+     "h": 916,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/e93dd10c-7535-41d3-ad59-a13b88be3d8e.webp"
+    },
+    {
+     "type": "p",
+     "html": "Join BUZZY and the Cobble Hill community at the 2026 Atlantic Antic, Brooklyn’s oldest and largest street festival! On Sunday, September 27th from 12pm to 6pm, Atlantic Avenue comes alive with food, music, artisan vendors, and family-friendly fun. We’ll be onsite at our Court Street location all day, welcoming neighbors and visitors into the store. Stop by and say hello!"
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/community-events/\">Community Events</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "Visit Buzzy Dispensary at Atlantic Antic 2026"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

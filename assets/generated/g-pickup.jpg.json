@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-pickup",
+  "file": "assets/generated/g-pickup.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A plain kraft paper shopping bag with folded paper handles, completely blank and unmarked, floats on a small soft white cloud just above a short flight of brownstone steps with black iron railings; soft morning light; pale sky blue to warm peach sky behind; the bag is centred; calm space above, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "3:4"
+  },
+  "seed": 1130046919,
+  "requestId": "01a1a972-32dd-7450-99c0-8fa7c9d440d7",
+  "cutout": null,
+  "width": 1792,
+  "height": 2240,
+  "sha256": "14ab61e21671a6041541ea4dbfb8c3dec3fc9810f3a53a14f69baea1e5c09b61",
+  "raw": "tmp/img/raw/g-pickup.1793844204701.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:03:26.703Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation; generated at 3:4 and centre-cropped to 4:5",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

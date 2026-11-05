@@ -1,0 +1,567 @@
+{
+ "slug": "brooklyn-dispensary-for-tourists",
+ "path": "/brooklyn-dispensary-for-tourists/",
+ "url": "https://getbuzzy.com/brooklyn-dispensary-for-tourists/",
+ "title": "Brooklyn Dispensary for Tourists & Hotel Guests | BUZZY",
+ "description": "Visiting Brooklyn? BUZZY is a licensed cannabis dispensary in Cobble Hill near Brooklyn Heights and Downtown Brooklyn. See what you need to shop and visit us at 137 Court Street.",
+ "canonical": "https://getbuzzy.com/brooklyn-dispensary-for-tourists/",
+ "ogImage": "/assets/photos/bz/buzzy.exterior.0826.2-scaled.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/BUZZY.Exterior.0826.2-scaled.webp",
+ "h1": "Welcome to Brooklyn.",
+ "postId": "2095",
+ "sections": [
+  {
+   "id": "welcome-to-brooklyn",
+   "src": "container_efkhoaw6h",
+   "heading": "Welcome to Brooklyn.",
+   "blocks": [
+    {
+     "type": "h4",
+     "text": "VISITING NEW YORK?"
+    },
+    {
+     "type": "p",
+     "html": "BUZZY is a licensed cannabis dispensary in Cobble Hill, Brooklyn, welcoming New Yorkers and visitors alike. Whether you’re staying nearby, visiting for the weekend, or exploring the borough, we’re here to make shopping simple."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/menu/\"> Shop the Menu </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/\"> Get It Delivered </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://www.google.com/maps/dir//137+Court+St+Brooklyn,+NY+11201/\"> Get Directions </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "• 21+ with a valid government-issued photo ID. No New York residency required."
+    },
+    {
+     "type": "p",
+     "html": "• Travelers save 10% with a hotel key or hotel delivery, and 20% in store every Friday."
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "s2",
+   "src": "container_x3uk0d8sa",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "HOURS",
+       "level": 3,
+       "html": "8am to 10pm, every day"
+      },
+      {
+       "title": "FIND US",
+       "level": 3,
+       "html": "137 Court St, Cobble Hill"
+      },
+      {
+       "title": "CALL",
+       "level": 3,
+       "html": "718-BKBUZZY"
+      },
+      {
+       "title": "PAY WITH",
+       "level": 3,
+       "html": "Cash or debit. ATM on-site."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "travelers-save-at-buzzy",
+   "src": "container_ednl353em",
+   "heading": "TRAVELERS SAVE AT BUZZY",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Visiting Brooklyn? Two ways to save."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/menu/\"> SHOP OUR MENU </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "Hotel guests"
+    },
+    {
+     "type": "p",
+     "html": "10% off"
+    },
+    {
+     "type": "p",
+     "html": "Show a current hotel room key at checkout, or have your order delivered to your hotel.*"
+    },
+    {
+     "type": "p",
+     "html": "Traveler Fridays"
+    },
+    {
+     "type": "p",
+     "html": "20% off"
+    },
+    {
+     "type": "p",
+     "html": "Show your out-of-state ID in store and save on all purchases, every Friday.*"
+    },
+    {
+     "type": "p",
+     "html": "*10% off with a current hotel room key in store, or on delivery to a hotel. 20% off on Fridays in store only, with a valid out-of-state ID. Discounts cannot be combined. Adults 21+ with valid ID."
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "hotel-delivery",
+   "src": "6d4e3ef",
+   "heading": "HOTEL DELIVERY",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Stay in. We’ll come to you."
+    },
+    {
+     "type": "p",
+     "html": "Free cannabis delivery to your Brooklyn hotel, 9am to 9pm daily, and 10% off when we deliver to your hotel."
+    },
+    {
+     "type": "p",
+     "html": "Long flight, late check-in, or a view you don’t want to leave? Order from the full BUZZY menu and our own drivers will bring it to you, with live tracking from our door to yours. We deliver to ZIP codes 11201, 11215, 11217 and 11231. Have your photo ID ready: you must be 21+ and the person who placed the order."
+    },
+    {
+     "type": "p",
+     "html": "Delivery fee"
+    },
+    {
+     "type": "p",
+     "html": "Free"
+    },
+    {
+     "type": "p",
+     "html": "Hours"
+    },
+    {
+     "type": "p",
+     "html": "9am to 9pm, every day"
+    },
+    {
+     "type": "p",
+     "html": "Arrives in"
+    },
+    {
+     "type": "p",
+     "html": "60–90 minutes, with live tracking"
+    },
+    {
+     "type": "p",
+     "html": "Minimum"
+    },
+    {
+     "type": "p",
+     "html": "$80 order minimum"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/\"> Order Delivery </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:7182542899\"> Call to Order </a>",
+     "role": "link"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy.exterior.0826.2-scaled.webp",
+     "alt": "",
+     "w": 1483,
+     "h": 1920,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/BUZZY.Exterior.0826.2-scaled.webp"
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "shop-cannabis-in-brooklyn",
+   "src": "9be99a3",
+   "heading": "Shop Cannabis in Brooklyn",
+   "blocks": [
+    {
+     "type": "embed",
+     "kind": "dutchie",
+     "src": "https://dutchie.com/api/v3/embedded-menu/6797c6ee1a011d09d894c6f7/carousels/1d5ceff6-ad90-4b34-a92b-cd28cebb61ec.js?routeRoot=https%3A%2F%2Fgetbuzzy.com%2F%2Fmenu&hideTitle=true",
+     "note": "Dutchie embedded menu script"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "cannabis-in-new-york",
+   "src": "container_b14nb7vtf",
+   "heading": "CANNABIS IN NEW YORK",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Visiting from somewhere else? Here’s how it works here."
+    },
+    {
+     "type": "p",
+     "html": "Cannabis is legal in New York for adults 21 and over, and visitors are welcome to shop at licensed dispensaries. Here’s what to know before you stop by."
+    },
+    {
+     "type": "h3",
+     "text": "01"
+    },
+    {
+     "type": "h3",
+     "text": "Bring your ID"
+    },
+    {
+     "type": "p",
+     "html": "You must be 21 or older with a valid government-issued photo ID. You do not need to be a New York resident."
+    },
+    {
+     "type": "h3",
+     "text": "02"
+    },
+    {
+     "type": "h3",
+     "text": "Buy from a licensed shop"
+    },
+    {
+     "type": "p",
+     "html": "New York has a regulated cannabis market. Shop with licensed dispensaries like BUZZY so you know what you’re getting."
+    },
+    {
+     "type": "h3",
+     "text": "03"
+    },
+    {
+     "type": "h3",
+     "text": "Cash or debit"
+    },
+    {
+     "type": "p",
+     "html": "Dispensaries can’t take credit cards. We accept cash and debit, and there’s an ATM in the store if you need one."
+    },
+    {
+     "type": "h3",
+     "text": "04"
+    },
+    {
+     "type": "h3",
+     "text": "Know how much you can buy"
+    },
+    {
+     "type": "p",
+     "html": "Adults can legally purchase and carry up to 3 ounces of cannabis flower or 24 grams of concentrated cannabis at any one time."
+    },
+    {
+     "type": "h3",
+     "text": "05"
+    },
+    {
+     "type": "h3",
+     "text": "Know where to enjoy it"
+    },
+    {
+     "type": "p",
+     "html": "Hotels and private properties set their own smoking and cannabis policies. Check the rules wherever you’re staying before using cannabis."
+    },
+    {
+     "type": "h3",
+     "text": "06"
+    },
+    {
+     "type": "h3",
+     "text": "Keep it in New York"
+    },
+    {
+     "type": "p",
+     "html": "Cannabis can’t legally cross state lines, even if it’s legal where you’re headed. Plan to enjoy your purchase while you’re in New York."
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "where-to-start",
+   "src": "container_d7lj5iwpt",
+   "heading": "WHERE TO START",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Not sure what to get? Tell us about your trip."
+    },
+    {
+     "type": "p",
+     "html": "Beach day, museum marathon, dinner plans or a quiet night back at the hotel: tell our team what you’re looking for and we’ll help you explore the menu."
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "Gummies",
+       "level": 3,
+       "html": "Portable, discreet and easy to bring along while exploring Brooklyn.<br><a href=\"https://getbuzzy.com/categories/gummies/\"> Shop Gummies → </a>"
+      },
+      {
+       "title": "Drinks",
+       "level": 3,
+       "html": "A familiar format with cannabis-infused options for something a little different.<br><a href=\"https://getbuzzy.com/categories/drinks/\"> Shop Drinks → </a>"
+      },
+      {
+       "title": "Pre-rolls",
+       "level": 3,
+       "html": "Ready to go, with no rolling required. Ask us what fits your plans.<br><a href=\"https://getbuzzy.com/categories/pre-rolls/\"> Shop Pre-rolls → </a>"
+      },
+      {
+       "title": "Vapes",
+       "level": 3,
+       "html": "Compact and convenient, with a wide range of brands and formats to explore.<br><a href=\"https://getbuzzy.com/categories/vapes/\"> Shop Vapes → </a>"
+      }
+     ]
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "visit-buzzy",
+   "src": "container_pebsqtc93",
+   "heading": "VISIT BUZZY",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Your Brooklyn dispensary in Cobble Hill"
+    },
+    {
+     "type": "p",
+     "html": "Find BUZZY on Court Street in Cobble Hill, convenient to Brooklyn Heights, Downtown Brooklyn, Boerum Hill and Carroll Gardens."
+    },
+    {
+     "type": "p",
+     "html": "Address"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street, Brooklyn, NY. Across from Trader Joe’s."
+    },
+    {
+     "type": "p",
+     "html": "Subway"
+    },
+    {
+     "type": "p",
+     "html": "2, 3, 4, 5, R or F to Borough Hall / Court Street"
+    },
+    {
+     "type": "p",
+     "html": "Bus"
+    },
+    {
+     "type": "p",
+     "html": "MTA bus routes stop within a block"
+    },
+    {
+     "type": "p",
+     "html": "Parking"
+    },
+    {
+     "type": "p",
+     "html": "Street parking and garages nearby"
+    },
+    {
+     "type": "p",
+     "html": "Hours"
+    },
+    {
+     "type": "p",
+     "html": "8am to 10pm, seven days a week"
+    },
+    {
+     "type": "p",
+     "html": "Access"
+    },
+    {
+     "type": "p",
+     "html": "Wheelchair accessible, with wide entryways"
+    },
+    {
+     "type": "p",
+     "html": "Phone"
+    },
+    {
+     "type": "p",
+     "html": "718-BKBUZZY (718-254-2899)"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://www.google.com/maps/dir//137+Court+St+Brooklyn,+NY+11201/\"> Get Directions </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:7182542899\"> Call Now </a>",
+     "role": "link"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://maps.google.com/maps?q=137%20Court%20St%20Brooklyn%2C%20NY%2011201&t=m&z=15&output=embed&iwloc=near",
+     "note": "137 Court St Brooklyn, NY 11201"
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "about-buzzy",
+   "src": "container_jzbyyiaea",
+   "heading": "ABOUT BUZZY",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "The Brooklyn dispensary where locals shop."
+    },
+    {
+     "type": "p",
+     "html": "BUZZY is locally owned and led by a minority and woman-owned team with deep roots in cannabis and in Brooklyn. It’s where the neighborhood actually shops: a tight, carefully chosen menu and people who know it inside out."
+    },
+    {
+     "type": "p",
+     "html": "Cobble Hill is one of Brooklyn’s most walkable neighborhoods, surrounded by restaurants, shops, brownstone-lined streets and some of the borough’s best-known neighborhoods. BUZZY is just a short walk from Brooklyn Heights, Boerum Hill and Downtown Brooklyn."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/about/\"> More about us → </a>",
+     "role": "link"
+    },
+    {
+     "type": "h4",
+     "text": "WHILE YOU’RE IN THE NEIGHBORHOOD"
+    },
+    {
+     "type": "p",
+     "html": "Make an afternoon of it: stroll Court and Smith Streets for shops and food, unwind in Cobble Hill Park, or walk to Brooklyn Bridge Park for waterfront views."
+    },
+    {
+     "type": "p",
+     "html": "A few of BUZZY’s Besties, the local spots we send our own friends to."
+    },
+    {
+     "type": "p",
+     "html": "Brooklyn Roasting Company"
+    },
+    {
+     "type": "p",
+     "html": "Pronto Pizza"
+    },
+    {
+     "type": "p",
+     "html": "Someday Bar"
+    },
+    {
+     "type": "p",
+     "html": "Goose Barnacle"
+    },
+    {
+     "type": "p",
+     "html": "Surround Society"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/brooklyn-map/\"> Explore the neighborhood map → </a>",
+     "role": "link"
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "faqs",
+   "src": "76c02e2",
+   "heading": "FAQS",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Visiting a Brooklyn Dispensary: FAQs"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/is-cannabis-legal-in-new-york/\"> Is cannabis legal in New York? Read the guide → </a>",
+     "role": "link"
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "Can tourists buy cannabis in New York?",
+       "level": 3,
+       "html": "Yes. Adults 21 and older can purchase cannabis from licensed New York dispensaries with a valid government-issued photo ID. You don’t need to be a New York resident."
+      },
+      {
+       "title": "Do I need a medical card to shop at BUZZY?",
+       "level": 3,
+       "html": "No. BUZZY is an adult-use cannabis dispensary for customers 21+."
+      },
+      {
+       "title": "What ID do I need to buy cannabis in New York?",
+       "level": 3,
+       "html": "Bring a valid government-issued photo ID showing that you are 21 or older."
+      },
+      {
+       "title": "Can I bring cannabis home after my trip?",
+       "level": 3,
+       "html": "Cannabis cannot legally be transported across state lines, even when traveling between states where adult-use cannabis is legal."
+      },
+      {
+       "title": "Can I use cannabis in my hotel?",
+       "level": 3,
+       "html": "Hotels and property owners set their own policies. Check with your hotel or accommodation before smoking, vaping or otherwise consuming cannabis on the property."
+      },
+      {
+       "title": "Where is BUZZY in Brooklyn?",
+       "level": 3,
+       "html": "BUZZY is located at 137 Court Street in Cobble Hill, close to Brooklyn Heights, Downtown Brooklyn, Boerum Hill and Carroll Gardens."
+      }
+     ]
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "see-you-on-court-street",
+   "src": "container_quv3ra6js",
+   "heading": "See you on Court Street.",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Walk in any day until 10pm, order ahead online for in-store pickup, or stay put and let us deliver to your hotel until 9pm."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/menu/\"> Shop the Menu </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/\"> Order Delivery </a>",
+     "role": "link"
+    }
+   ],
+   "headingLevel": 2
+  }
+ ]
+}

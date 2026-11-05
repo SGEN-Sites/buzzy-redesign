@@ -1,0 +1,62 @@
+{
+  "slug": "recreational-cannabis",
+  "path": "/education/recreational-cannabis/",
+  "order": 2,
+  "title": "Recreational Cannabis | BUZZY",
+  "description": "BUZZY's own explanations of adult-use cannabis in New York, quoted with links to each source article.",
+  "h1": "Recreational Cannabis",
+  "kicker": "Adult use in New York",
+  "lede": "What BUZZY has written about buying adult-use cannabis in Brooklyn, with a link to each article.",
+  "sections": [
+    {
+      "id": "is-it-legal",
+      "heading": "Is it legal?",
+      "blocks": [
+        { "type": "quote", "html": "Cannabis is legal for adults 21+ in New York City.", "source": "/brooklyn-dispensary-faqs/", "sourceTitle": "Buzzy Brooklyn Dispensary: Frequently Asked Questions" },
+        { "type": "quote", "html": "Brooklyn follows the same adult-use cannabis laws as the rest of New York State.", "source": "/is-weed-legal-in-new-york-brooklyn-guide/", "sourceTitle": "Is Weed Legal in New York? A Brooklyn Guide to Legal Cannabis" }
+      ]
+    },
+    {
+      "id": "id-and-age",
+      "heading": "ID and age",
+      "blocks": [
+        { "type": "quote", "html": "Adult-use cannabis can only be sold to people who are 21 or older. Licensed dispensary staff are required to check identification before completing a cannabis purchase.", "source": "/what-do-you-need-to-buy-weed-brooklyn/", "sourceTitle": "What Do You Need to Buy Weed in Brooklyn? ID, Age & Dispensary Basics" },
+        { "type": "quote", "html": "The simplest approach is to bring a current government-issued photo ID that clearly shows your date of birth.", "source": "/what-do-you-need-to-buy-weed-brooklyn/", "sourceTitle": "What Do You Need to Buy Weed in Brooklyn? ID, Age & Dispensary Basics" }
+      ]
+    },
+    {
+      "id": "limits",
+      "heading": "Purchase and possession limits",
+      "blocks": [
+        { "type": "quote", "html": "For adults 21 and older, New York’s headline possession limit is easy to remember: up to 3 ounces of cannabis and up to 24 grams of concentrated cannabis outside the home.", "source": "/how-much-weed-can-you-buy-new-york/", "sourceTitle": "New York Cannabis Limits: A Guide to Possession and Purchase" },
+        { "type": "quote", "html": "A dispensary cannot legally sell you an amount that would put the transaction outside applicable state limits.", "source": "/what-do-you-need-to-buy-weed-brooklyn/", "sourceTitle": "What Do You Need to Buy Weed in Brooklyn? ID, Age & Dispensary Basics" }
+      ]
+    },
+    {
+      "id": "where-to-consume",
+      "heading": "Where you can consume",
+      "blocks": [
+        { "type": "quote", "html": "Cannabis is legal for adults 21 and older in New York, but that does not mean you can smoke or vape it everywhere in Brooklyn or New York City.", "source": "/where-can-you-smoke-weed-brooklyn-nyc/", "sourceTitle": "Where Can You Smoke Weed in Brooklyn & NYC?" },
+        { "type": "quote", "html": "Smoking and vaping cannabis are prohibited in New York City parks.", "source": "/where-can-you-smoke-weed-brooklyn-nyc/", "sourceTitle": "Where Can You Smoke Weed in Brooklyn & NYC?" },
+        { "type": "quote", "html": "Cannabis smoking and vaping are prohibited in motor vehicles, even if the vehicle is parked.", "source": "/where-can-you-smoke-weed-brooklyn-nyc/", "sourceTitle": "Where Can You Smoke Weed in Brooklyn & NYC?" }
+      ]
+    },
+    {
+      "id": "visitors",
+      "heading": "Visiting Brooklyn",
+      "blocks": [
+        { "type": "quote", "html": "If you are visiting Brooklyn or New York City and are 21 or older, you can purchase adult-use cannabis from a licensed New York dispensary.", "source": "/can-tourists-buy-weed-brooklyn-nyc/", "sourceTitle": "Can Tourists Buy Weed in Brooklyn? What NYC Visitors Should Know" },
+        { "type": "quote", "html": "Do not take cannabis across state lines or international borders.", "source": "/can-tourists-buy-weed-brooklyn-nyc/", "sourceTitle": "Can Tourists Buy Weed in Brooklyn? What NYC Visitors Should Know" }
+      ]
+    },
+    {
+      "id": "delivery",
+      "heading": "Delivery rules",
+      "blocks": [
+        { "type": "quote", "html": "Adult-use cannabis delivery is limited to customers 21+. New York requires age verification as part of the order process and an additional identification check when the delivery is completed.", "source": "/cannabis-delivery-brooklyn-nyc-rules/", "sourceTitle": "Cannabis Delivery in Brooklyn: What You Need to Know" },
+        { "type": "quote", "html": "New York OCM guidance states that delivery orders must be prepaid online or by phone and that cash cannot be accepted by a delivery employee at the time of delivery.", "source": "/cannabis-delivery-brooklyn-nyc-rules/", "sourceTitle": "Cannabis Delivery in Brooklyn: What You Need to Know" }
+      ]
+    }
+  ],
+  "related": ["is-weed-legal-in-new-york-brooklyn-guide", "is-cannabis-legal-in-new-york", "what-do-you-need-to-buy-weed-brooklyn", "how-much-weed-can-you-buy-new-york", "where-can-you-smoke-weed-brooklyn-nyc", "can-tourists-buy-weed-brooklyn-nyc"]
+}

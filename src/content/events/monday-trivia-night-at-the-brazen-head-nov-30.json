@@ -1,0 +1,174 @@
+{
+ "slug": "monday-trivia-night-at-the-brazen-head-nov-30",
+ "path": "/event/monday-trivia-night-at-the-brazen-head-nov-30/",
+ "url": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-30/",
+ "title": "Monday Trivia Night at The Brazen Head - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-30/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Monday Trivia Night at The Brazen Head",
+ "postId": "2507",
+ "startISO": "2026-11-30T19:30:00-05:00",
+ "endISO": "2026-11-30T21:30:00-05:00",
+ "dateText": "November 30",
+ "timeText": "7:30 pm - 9:30 pm",
+ "venue": "The Brazen Head",
+ "address": "228 Atlantic Ave, Brooklyn, NY 11201",
+ "venueShown": [
+  "228 Atlantic Ave Brooklyn, NY 11201 United States",
+  "+ Google Map"
+ ],
+ "category": "Community Events",
+ "categorySlug": "community-events",
+ "categories": [
+  {
+   "name": "Community Events",
+   "slug": "community-events"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-event-brazen-head-monday-trivia-night.webp",
+  "w": 1024,
+  "h": 578,
+  "alt": "Monday Trivia Night at The Brazen Head with BUZZY"
+ },
+ "eventDescription": "Join BUZZY for trivia night at The Brazen Head every Monday. Come play, meet the team, and take home some BUZZY goodies. What you can win 1st round winners: Shots […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-nov-30/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-11-02T00:00:00+00:00"
+ },
+ "html": "<p>Join BUZZY for trivia night at The Brazen Head every Monday. Come play, meet the team, and take home some BUZZY goodies.</p>\n<h3>What you can win</h3>\n<ul><li><strong>1st round winners:</strong> Shots on us</li><li><strong>Grand prize:</strong> $40 Brazen Head gift card + a BUZZY prize bag</li></ul>\n<p>Trivia starts at 7:30 pm.</p>\n<p>Find us at The Brazen Head, 228 Atlantic Ave, Brooklyn, a short walk from the shop.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Preferred Gardens, Runtz, Doobie Labs + Strain Gang Pop-Up",
+   "href": "https://getbuzzy.com/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monday-trivia-night-at-the-brazen-head",
+   "src": "4d8f4efa",
+   "heading": "Monday Trivia Night at The Brazen Head",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "November 30",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:30 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "9:30 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-event-brazen-head-monday-trivia-night.webp",
+     "alt": "Monday Trivia Night at The Brazen Head with BUZZY",
+     "w": 1024,
+     "h": 578,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-event-brazen-head-monday-trivia-night.webp"
+    },
+    {
+     "type": "p",
+     "html": "Join BUZZY for trivia night at The Brazen Head every Monday. Come play, meet the team, and take home some BUZZY goodies."
+    },
+    {
+     "type": "h3",
+     "text": "What you can win"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "<strong>1st round winners:</strong> Shots on us",
+      "<strong>Grand prize:</strong> $40 Brazen Head gift card + a BUZZY prize bag"
+     ]
+    },
+    {
+     "type": "p",
+     "html": "Trivia starts at 7:30 pm."
+    },
+    {
+     "type": "p",
+     "html": "Find us at The Brazen Head, 228 Atlantic Ave, Brooklyn, a short walk from the shop."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/community-events/\">Community Events</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "The Brazen Head"
+    },
+    {
+     "type": "p",
+     "html": "228 Atlantic Ave<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=228+Atlantic+Ave+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=228+Atlantic+Ave+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to The Brazen Head"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "slug": "crafts-with-eaton-national-mushroom-day-at-buzzy",
+ "path": "/event/crafts-with-eaton-national-mushroom-day-at-buzzy/",
+ "url": "https://getbuzzy.com/event/crafts-with-eaton-national-mushroom-day-at-buzzy/",
+ "title": "Crafts with Eaton: National Mushroom Day at BUZZY - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/crafts-with-eaton-national-mushroom-day-at-buzzy/",
+ "ogImage": "/assets/photos/bz/buzzy-bingo-event-eaton-national-mushroom-day.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-eaton-national-mushroom-day.webp",
+ "h1": "Crafts with Eaton: National Mushroom Day at BUZZY",
+ "postId": "1935",
+ "startISO": "2026-10-15T16:00:00-04:00",
+ "endISO": "2026-10-15T19:15:00-04:00",
+ "dateText": "October 15",
+ "timeText": "4:00 pm - 7:15 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-bingo-event-eaton-national-mushroom-day.webp",
+  "w": 1550,
+  "h": 875,
+  "alt": "Eaton Botanicals at BUZZY"
+ },
+ "eventDescription": "Celebrate National Mushroom Day with Eaton Botanicals at BUZZY on Thursday, October 15th from 4pm to 7:15pm. Meet Golden Ticket: Get to know Eaton’s Golden Ticket Live Rosin and chat […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/crafts-with-eaton-national-mushroom-day-at-buzzy/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-02T00:00:00+00:00"
+ },
+ "html": "<p>Celebrate National Mushroom Day with Eaton Botanicals at BUZZY on Thursday, October 15th from 4pm to 7:15pm.</p>\n<p><strong>Meet Golden Ticket:</strong> Get to know Eaton’s Golden Ticket Live Rosin and chat with the team about the entourage effect, the idea that cannabinoids and terpenes work together to shape how a product feels.</p>\n<p><strong>Crafts with Eaton:</strong> Stick around to make a friendship bracelet or bedazzle something to take home.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Tuesday Treats at BUZZY",
+   "href": "https://getbuzzy.com/event/tuesday-treats-at-buzzy-oct-13/"
+  },
+  {
+   "text": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+   "href": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-16/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "crafts-with-eaton-national-mushroom-day-at-buzzy",
+   "src": "4d8f4efa",
+   "heading": "Crafts with Eaton: National Mushroom Day at BUZZY",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 15",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:15 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-bingo-event-eaton-national-mushroom-day.webp",
+     "alt": "Eaton Botanicals at BUZZY",
+     "w": 1550,
+     "h": 875,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-eaton-national-mushroom-day.webp"
+    },
+    {
+     "type": "p",
+     "html": "Celebrate National Mushroom Day with Eaton Botanicals at BUZZY on Thursday, October 15th from 4pm to 7:15pm."
+    },
+    {
+     "type": "p",
+     "html": "<strong>Meet Golden Ticket:</strong> Get to know Eaton’s Golden Ticket Live Rosin and chat with the team about the entourage effect, the idea that cannabinoids and terpenes work together to shape how a product feels."
+    },
+    {
+     "type": "p",
+     "html": "<strong>Crafts with Eaton:</strong> Stick around to make a friendship bracelet or bedazzle something to take home."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

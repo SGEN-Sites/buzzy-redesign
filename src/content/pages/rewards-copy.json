@@ -1,0 +1,139 @@
+{
+ "slug": "rewards-copy",
+ "path": "/rewards-copy/",
+ "url": "https://getbuzzy.com/rewards-copy/",
+ "title": "Cannabis Rewards Program: Earn Points & Perks | BUZZY",
+ "description": "Join BUZZY Rewards in Brooklyn to earn points on every cannabis purchase. Unlock exclusive perks, special product drops, and member-only events. Sign up today!",
+ "canonical": "https://getbuzzy.com/rewards-copy/",
+ "ogImage": "/assets/photos/bz/buzzy.phonewallet.crop_.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/Buzzy.PhoneWallet.Crop_.webp",
+ "h1": "GET BUZZY",
+ "postId": "885",
+ "sections": [
+  {
+   "id": "get-buzzy",
+   "src": "52b02966",
+   "heading": "GET BUZZY",
+   "blocks": [
+    {
+     "type": "img",
+     "role": "background",
+     "src": "/assets/photos/bz/rewardspagebanner3-2-scaled.webp",
+     "alt": "",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/04/RewardsPageBanner3-2-scaled.webp",
+     "w": 1920,
+     "h": 450
+    },
+    {
+     "type": "img",
+     "role": "background",
+     "src": "/assets/photos/bz/buzzy-brooklyn-scaled.webp",
+     "alt": "",
+     "media": "mobile",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/12/Buzzy-Brooklyn-scaled.webp",
+     "w": 1920,
+     "h": 322
+    },
+    {
+     "type": "h4",
+     "text": "REWARDS PROGRAM",
+     "level": 5
+    },
+    {
+     "type": "p",
+     "html": "Join Buzzy Rewards to earn points on every purchase and elevate your cannabis shopping experience with exclusive perks and offers."
+    },
+    {
+     "type": "button",
+     "text": "SIGN UP",
+     "href": "https://getbuzzy.com/menu/"
+    },
+    {
+     "type": "button",
+     "text": "LOGIN TO REWARDS",
+     "href": "https://getbuzzy.com/menu/"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "join-buzzy-rewards-elevate-your-buzzy-experience",
+   "src": "e4cc788",
+   "heading": "Join Buzzy Rewards & elevate your Buzzy experience.",
+   "blocks": [
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "Free to join — plus bonus points just for signing up",
+      "$1 = 1 Point - Earn points on every pre-tax purchase, redeemable for select products.",
+      "Be the first to hear about new drops, premiere bundles, and signature events.",
+      "No cards needed — rewards live in your mobile wallet."
+     ]
+    },
+    {
+     "type": "button",
+     "text": "Sign Up Now",
+     "href": "#reward-form"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy.phonewallet.crop_.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1372,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/Buzzy.PhoneWallet.Crop_.webp"
+    }
+   ],
+   "headingLevel": 4
+  },
+  {
+   "id": "start-earning-with-buzzy",
+   "src": "f21bfc5",
+   "heading": "Start Earning with Buzzy",
+   "blocks": [],
+   "headingLevel": 4
+  },
+  {
+   "id": "join-in-seconds",
+   "src": "fb34b54",
+   "heading": "Join in Seconds",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Fill out the quick form on this page from your phone to join Buzzy Rewards."
+    },
+    {
+     "type": "h3",
+     "text": "Add to YOUR Mobile Wallet"
+    },
+    {
+     "type": "p",
+     "html": "Save your Buzzy pass to Apple Wallet or Google Wallet — no physical card needed."
+    },
+    {
+     "type": "h3",
+     "text": "Shop & Unlock Perks"
+    },
+    {
+     "type": "p",
+     "html": "Earn points every time you shop and redeem them for rewards on select products at Buzzy."
+    }
+   ],
+   "headingLevel": 3
+  },
+  {
+   "id": "s5",
+   "src": "72b1458",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "embed",
+     "kind": "stickycards",
+     "src": "https://app.stickycards.co/getpass/954132?hideHeader=true",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

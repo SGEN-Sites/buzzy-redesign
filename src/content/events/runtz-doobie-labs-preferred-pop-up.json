@@ -1,0 +1,163 @@
+{
+ "slug": "runtz-doobie-labs-preferred-pop-up",
+ "path": "/event/runtz-doobie-labs-preferred-pop-up/",
+ "url": "https://getbuzzy.com/event/runtz-doobie-labs-preferred-pop-up/",
+ "title": "Runtz, Doobie Labs & Preferred Pop-Up in Brooklyn, NY | BUZZY",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/runtz-doobie-labs-preferred-pop-up/",
+ "ogImage": "/assets/photos/bz/image-2.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/image-2.webp",
+ "h1": "Runtz, Doobie Labs & Preferred Pop-Up",
+ "postId": "1449",
+ "startISO": "2026-09-09T12:00:00-04:00",
+ "endISO": "2026-09-09T15:00:00-04:00",
+ "dateText": "September 9",
+ "timeText": "12:00 pm - 3:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/image-2.webp",
+  "w": 1600,
+  "h": 800,
+  "alt": "Logos for Runtz, Doobie Labs, and Preferred Gardens, featured brands at a pop-up event hosted"
+ },
+ "eventDescription": "",
+ "html": "<p>Three brands, one pop-up. Meet the teams behind Runtz — the iconic Zkittlez x Gelato #33 cross that grew from a Los Angeles favorite into a cannabis culture phenomenon — Doobie Labs, the NY-rooted brand built on rigorously lab-tested flower, vapes, and pre-rolls, and Preferred Gardens, the family-owned California original known for mixed-light cultivation and a genetics library of 260+ strains.</p>\n<p>Stop by to explore all three lineups and connect with the crews in Brooklyn.</p>",
+ "adjacent": [
+  {
+   "text": "Minny Grown Pop-Up",
+   "href": "https://getbuzzy.com/event/minny-grown-pop-up/"
+  },
+  {
+   "text": "Wizard Trees Pop-Up",
+   "href": "https://getbuzzy.com/event/wizard-trees-pop-up-2/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "runtz-doobie-labs-preferred-pop-up",
+   "src": "4d8f4efa",
+   "heading": "Runtz, Doobie Labs & Preferred Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "September 9",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "12:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "3:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/image-2.webp",
+     "alt": "Logos for Runtz, Doobie Labs, and Preferred Gardens, featured brands at a pop-up event hosted",
+     "w": 1600,
+     "h": 800,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/image-2.webp"
+    },
+    {
+     "type": "p",
+     "html": "Three brands, one pop-up. Meet the teams behind Runtz — the iconic Zkittlez x Gelato #33 cross that grew from a Los Angeles favorite into a cannabis culture phenomenon — Doobie Labs, the NY-rooted brand built on rigorously lab-tested flower, vapes, and pre-rolls, and Preferred Gardens, the family-owned California original known for mixed-light cultivation and a genetics library of 260+ strains."
+    },
+    {
+     "type": "p",
+     "html": "Stop by to explore all three lineups and connect with the crews in Brooklyn."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "Visit Buzzy Dispensary in Brooklyn"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

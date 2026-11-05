@@ -1,0 +1,460 @@
+{
+ "slug": "south-slope",
+ "path": "/cannabis-delivery-brooklyn/south-slope/",
+ "url": "https://getbuzzy.com/cannabis-delivery-brooklyn/south-slope/",
+ "name": "South Slope",
+ "title": "South Slope Weed Delivery — Fast Legal Cannabis | BUZZY",
+ "description": "BUZZY provides fast cannabis delivery in South Slope, Brooklyn. Order online for top-tier flower, vapes, and edibles with live GPS tracking. Shop today!",
+ "canonical": "https://getbuzzy.com/cannabis-delivery-brooklyn/south-slope/",
+ "ogImage": "/assets/photos/bz/chatgpt-image-jun-22-2026-06_19_37-pm.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/07/ChatGPT-Image-Jun-22-2026-06_19_37-PM.webp",
+ "h1": "Cannabis Delivery in South Slope, Brooklyn",
+ "postId": "1636",
+ "sections": [
+  {
+   "id": "cannabis-delivery-in-south-slope-brooklyn",
+   "src": "container_n4anu7hbg",
+   "heading": "Cannabis Delivery in South Slope, Brooklyn",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Same-day cannabis delivery to South Slope, Brooklyn. Free delivery, $80 minimum, live tracking."
+    },
+    {
+     "type": "button",
+     "text": "Order for Delivery",
+     "href": "#order"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "how-buzzy-delivery-works",
+   "src": "container_z29onklet",
+   "heading": "HOW BUZZY DELIVERY WORKS",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "FAST &amp; DIRECT",
+     "role": "kicker"
+    },
+    {
+     "type": "steps",
+     "items": [
+      {
+       "num": "1",
+       "title": "Shop",
+       "text": "01 Browse full menu",
+       "titleRaw": "1. Shop",
+       "html": "01<br>Browse full menu"
+      },
+      {
+       "num": "2",
+       "title": "Choose Delivery",
+       "text": "02 Select at checkout",
+       "titleRaw": "2. Choose Delivery",
+       "html": "02<br>Select at checkout"
+      },
+      {
+       "num": "3",
+       "title": "We Confirm",
+       "text": "03 Real-time status updates",
+       "titleRaw": "3. We Confirm",
+       "html": "03<br>Real-time status updates"
+      },
+      {
+       "num": "4",
+       "title": "Track Your Driver",
+       "text": "04 Live GPS link",
+       "titleRaw": "4. Track Your Driver",
+       "html": "04<br>Live GPS link"
+      },
+      {
+       "num": "5",
+       "title": "RECEIVE YOUR ORDER",
+       "text": "05 Show 21+ ID",
+       "titleRaw": "5. RECEIVE YOUR ORDER",
+       "html": "05<br>Show 21+ ID"
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "Shop for Delivery",
+     "href": "#"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "everything-on-the-buzzy-menu-delivered",
+   "src": "container_4llc5pva9",
+   "heading": "Everything on the BUZZY Menu, Delivered",
+   "blocks": [
+    {
+     "type": "embed",
+     "kind": "dutchie",
+     "src": "https://dutchie.com/api/v3/embedded-menu/6797c6ee1a011d09d894c6f7/carousels/1d5ceff6-ad90-4b34-a92b-cd28cebb61ec.js?routeRoot=https%3A%2F%2Fgetbuzzy.com%2F%2Fmenu&hideTitle=true",
+     "note": "Dutchie embedded menu script"
+    },
+    {
+     "type": "p",
+     "html": "Brooklyn's Finest Selection",
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "Explore our curated catalog of premium craft cannabis, artisanal concentrates, and design-forward accessories.<br>Hand-delivered straight to your door, fast and discreet."
+    },
+    {
+     "type": "button",
+     "text": "Browse the Full Menu",
+     "href": "#menu"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "cannabis-delivery-across-south-slope",
+   "src": "container_q2j3cr2jt",
+   "heading": "Cannabis Delivery Across South Slope",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "NOW DISPATCHING",
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "BUZZY delivers to eligible addresses throughout South Slope, including areas around 5th Avenue and 7th Avenue, roughly from 15th Street south toward Green-Wood Cemetery. Enter your address during checkout to confirm current delivery availability."
+    },
+    {
+     "type": "h3",
+     "text": "South Slope Streets We Deliver To:"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "5th Avenue",
+      "7th Avenue"
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Nearby delivery areas:"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/park-slope/\">Park Slope</a>",
+      "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/gowanus/\">Gowanus</a>",
+      "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/prospect-heights/\">Prospect Heights</a>",
+      "<a href=\"https://getbuzzy.com/cannabis-delivery-brooklyn/\">All Brooklyn delivery areas</a>"
+     ]
+    },
+    {
+     "type": "button",
+     "text": "View Delivery Zone Map",
+     "href": "https://getbuzzy.com/cannabis-delivery-brooklyn-map/"
+    },
+    {
+     "type": "h4",
+     "text": "DELIVERY ZONE EXPANDING SOON",
+     "level": 5
+    },
+    {
+     "type": "p",
+     "html": "Our service area is expanding rapidly across Brooklyn. If you’re located outside our current limits, sign up for notifications to be alerted the moment we open delivery in your area."
+    },
+    {
+     "type": "form",
+     "fields": [
+      "Email"
+     ],
+     "fieldTypes": [
+      {
+       "input": "email"
+      }
+     ],
+     "button": "Submit",
+     "consent": "I consent to receiving marketing communications.",
+     "messages": [
+      "Great! We’ve received your information.",
+      "We couldn’t process your submission. Please retry"
+     ]
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "everything-you-need-to-know",
+   "src": "container_254v05ehd",
+   "heading": "EVERYTHING YOU NEED TO KNOW",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Our transparent, straight-to-the-point Brooklyn delivery breakdown."
+    },
+    {
+     "type": "p",
+     "html": "SERVICE",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "DETAILS",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "Delivery Hours",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "9am–9pm, daily"
+    },
+    {
+     "type": "p",
+     "html": "Order Minimum",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "$80"
+    },
+    {
+     "type": "p",
+     "html": "Delivery Fee",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "Free"
+    },
+    {
+     "type": "p",
+     "html": "Live Tracking",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "Onfleet GPS link via SMS"
+    },
+    {
+     "type": "p",
+     "html": "Order Status",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "Dutchie updates"
+    },
+    {
+     "type": "p",
+     "html": "Payment",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "Pay by Bank"
+    },
+    {
+     "type": "p",
+     "html": "Tips",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "Cash or Pay by Bank"
+    },
+    {
+     "type": "p",
+     "html": "ID Verification",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "21+ government-issued photo ID required"
+    },
+    {
+     "type": "p",
+     "html": "Delivered By",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "BUZZY Team"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "why-choose-buzzy-for-cannabis-delivery-in-brooklyn",
+   "src": "container_iwwcyha0l",
+   "heading": "Why Choose BUZZY for Cannabis Delivery in Brooklyn",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "THE BUZZY STANDARD",
+     "role": "kicker"
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "BUZZY Team at Your Door",
+       "level": 3,
+       "html": "01<br>No random gig workers. Every delivery is handled by our own in-house, background-checked professional drivers who value your safety, timing, and absolute privacy."
+      },
+      {
+       "title": "Same Curation & Care",
+       "level": 3,
+       "html": "02<br>Get exclusive access to the exact same premium, highly curated menu we offer in-store. We store, handle, and deliver with maximum preservation so your product arrives fresh."
+      },
+      {
+       "title": "Live Order Tracking",
+       "level": 3,
+       "html": "03<br>No more staring at empty streets. From the second our driver steps out of our storefront to the moment they buzz your door, track your delivery with real-time GPS updates."
+      },
+      {
+       "title": "Free Delivery Every Time",
+       "level": 3,
+       "html": "04<br>Transparency is everything. We offer a straightforward $80 flat order minimum with completely free delivery. No convenience charges, fuel surcharges, or hidden platform fees."
+      },
+      {
+       "title": "A Neighborhood Delivery",
+       "level": 3,
+       "html": "05<br>We’re not a faceless tech platform operating from a remote office. We live, work, and support the community right here in Brooklyn. Delivering to neighbors, from neighbors."
+      }
+     ]
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/chatgpt-image-jun-22-2026-06_19_37-pm.webp",
+     "alt": "Buzzy Cannabis Delivery in Cobble Hill, Brooklyn",
+     "w": 1672,
+     "h": 941,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/ChatGPT-Image-Jun-22-2026-06_19_37-PM.webp"
+    },
+    {
+     "type": "p",
+     "html": "Cobble Hill, Williamsburg, Greenpoint, and beyond. Real local service with real store curated stock."
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "is-cannabis-delivery-legal-in-brooklyn-ny",
+   "src": "container_5io4gffhw",
+   "heading": "Is Cannabis Delivery Legal in Brooklyn, NY?",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "NYS OCM COMPLIANT DISPENSARY",
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "Yes, cannabis delivery is fully legal for adult use (ages 21+) in Brooklyn and across New York State. Under the landmark Marihuana Regulation and Taxation Act (MRTA), licensed dispensaries are legally authorized to bring safe, lab-tested cannabis products directly to your doorstep. Our operations are fully compliant, audited, and strictly governed by the New York State Office of Cannabis Management (OCM)."
+    },
+    {
+     "type": "h3",
+     "text": "OFFICIAL NEW YORK STATE LICENSE NUMBER"
+    },
+    {
+     "type": "p",
+     "html": "OCM-RETL-25-000285",
+     "role": "label"
+    },
+    {
+     "type": "p",
+     "html": "This unique certification confirms our authorization by the OCM to process, transport, and hand-deliver premium cannabis to your home, office, or private residence in Kings County. Always ensure you are buying from a licensed delivery provider with a verified OCM decal."
+    },
+    {
+     "type": "h2",
+     "text": "CANNABIS Delivery FAQs — Brooklyn"
+    },
+    {
+     "type": "p",
+     "html": "Get all the details about neighborhoods, limits, ID verification, payment methods, tipping, and legality in our clean-cut, non-nonsense urban guide."
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "1. Is cannabis delivery actually legal in Brooklyn, NY?",
+       "a_html": "<p>Yes, absolutely! Under New York State’s Marihuana Regulation and Taxation Act (MRTA), adults 21 and older are legally permitted to buy and order cannabis products for delivery. We are certified by the NYS Office of Cannabis Management (OCM) and operate under Retail Dispensary License OCM-RETL-25-000285. This guarantees that all delivered flower, edibles, vapes, and concentrates are authentic, highly compliant, and laboratory-tested for absolute purity.</p>"
+      },
+      {
+       "q": "2. Which Brooklyn neighborhoods and zip codes do you deliver to?",
+       "a_html": "<p>We proudly cover all of Brooklyn (Kings County), including Williamsburg, Bushwick, Greenpoint, Bedford-Stuyvesant, Crown Heights, Park Slope, DUMBO, Brooklyn Heights, Fort Greene, Clinton Hill, Flatbush, Prospect Lefferts Gardens, Sunset Park, Bay Ridge, and beyond. In general, if you have a Brooklyn zip code (ranging from 11201 through 11256), our compliance couriers can deliver right to your location. Simply type your exact street address at checkout to confirm instant availability.</p>"
+      },
+      {
+       "q": "3. Is there a minimum order amount or extra delivery fee?",
+       "a_html": "<p>To maintain reliable, compliant dispatch operations, we require a minimum order value of $50 (before tax) for standard delivery. The good news? There are absolutely no hidden delivery fees or premium surcharges added at payment. The price you see on our menu is the exact price you pay.</p>"
+      },
+      {
+       "q": "4. How fast is delivery & can I track my order in real-time?",
+       "a_html": "<p>Most same-day deliveries arrive within 1 to 3 hours of order placement, depending on peak traffic conditions. Once your order has been packed, verified, and loaded into our secure vehicle, you will receive a confirmation text containing a secure tracking link. You can track your driver’s ETA on a live map as they approach your address.</p>"
+      },
+      {
+       "q": "5. What are the payment methods and physical ID requirements?",
+       "a_html": "<p>We accept cash, select mobile apps, or secure debit card transactions at handoff. According to strict state regulations, you must present a physical, government-issued photo ID (driver’s license, passport, or non-driver state ID card) proving you are 21 or older at delivery. Digital IDs, photocopies, or secondary representations are not accepted. The customer placing the order must be the person who receives it and presents ID.</p>"
+      },
+      {
+       "q": "6. What happens if I miss my scheduled delivery window?",
+       "a_html": "<p>If you are not available when our compliance driver arrives, we will make every effort to reach you via call or text. If we are unable to verify your physical presence and identity, your package must be returned to our licensed facility. You can easily schedule an alternative delivery slot later in the day or the following morning, subject to a standard re-delivery queue.</p>"
+      },
+      {
+       "q": "7. Who is delivering my order & do I tip them?",
+       "a_html": "<p>All orders are carried out by our highly trained, thoroughly vetted dispensary employees in unmarked, secure, climate-controlled vehicles to ensure ultimate privacy. Drivers are never third-party gig workers. While tips are never mandatory, they are deeply appreciated by our hard-working Brooklyn road couriers who brave local traffic to get you legal product safe and sound.</p>"
+      },
+      {
+       "q": "8. What are your delivery hours and what can I legally order?",
+       "a_html": "<p>Our legal delivery operations run from 9:00 AM to 10:00 PM daily. You can legally purchase up to 3 ounces of standard cannabis flower or up to 24 grams of concentrated cannabis (such as vapes, concentrates, or edibles) per day. Our complete menu is thoroughly compliant under license number OCM-RETL-25-000285.</p>"
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "ORDER LEGAL BROOKLYN DELIVERY NOW",
+     "href": "#order"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "brooklyns-most-curated-dispensary-now-comes-to-you",
+   "src": "container_wjxybyzzr",
+   "heading": "Brooklyn's most curated dispensary now comes to you.",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "READY? WE DELIVER.",
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "Order BUZZY delivery and get flower, edibles, vapes, and more delivered to your South Brooklyn door — no fee, 60–90 minutes, live tracking."
+    },
+    {
+     "type": "button",
+     "text": "Order for Delivery",
+     "href": "#order-delivery"
+    },
+    {
+     "type": "p",
+     "html": "9am–9pm daily · Free delivery · $80 minimum · Delivered by the BUZZY team"
+    },
+    {
+     "type": "p",
+     "html": "Cobble Hill · Brooklyn Heights · Boerum Hill · Carroll Gardens · Downtown Brooklyn · Gowanus"
+    }
+   ],
+   "headingLevel": 2
+  }
+ ]
+}

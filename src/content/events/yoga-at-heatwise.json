@@ -1,0 +1,154 @@
+{
+ "slug": "yoga-at-heatwise",
+ "path": "/event/yoga-at-heatwise/",
+ "url": "https://getbuzzy.com/event/yoga-at-heatwise/",
+ "title": "Yoga Event with Papa & Barkley at Heatwise: Community Yoga in Brooklyn | BUZZY",
+ "description": "Join BUZZY and Papa & Barkley for a 7PM Yin Yoga class at Heatwise Yoga in Brooklyn, featuring gummies and a topical to take home.",
+ "canonical": "https://getbuzzy.com/event/yoga-at-heatwise/",
+ "ogImage": "/assets/photos/bz/690d3a2c534a52a54b544966_heatwise_bowery-12-scaled.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/690d3a2c534a52a54b544966_Heatwise_Bowery-12-scaled.webp",
+ "h1": "Join BUZZY + Papa & Barkley for Hot at Heatwise 🧘",
+ "postId": "188",
+ "startISO": "2026-08-12T19:00:00-04:00",
+ "endISO": "2026-08-12T20:00:00-04:00",
+ "dateText": "August 12",
+ "timeText": "7:00 pm - 8:00 pm",
+ "venue": "Heatwise Yoga Brooklyn Heights",
+ "address": "163 Remsen St., Brooklyn, NY 11201",
+ "venueShown": [
+  "163 Remsen St. Brooklyn, NY 11201 United States",
+  "+ Google Map"
+ ],
+ "category": "Community Events",
+ "categorySlug": "community-events",
+ "categories": [
+  {
+   "name": "Community Events",
+   "slug": "community-events"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/690d3a2c534a52a54b544966_heatwise_bowery-12-scaled.webp",
+  "w": 1920,
+  "h": 1440,
+  "alt": "Heatwise Yoga"
+ },
+ "eventDescription": "Join BUZZY for Hot Yoga at Heatwise 🔥 We’re popping up at Heatwise Yoga with Papa & Barkley for a 7PM Hot Yoga Feels Good® (Candlelit) class. Flow through Heatwise’s […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "availability": "https://schema.org/InStock",
+  "url": "https://getbuzzy.com/event/yoga-at-heatwise/"
+ },
+ "html": "<p><strong>Join BUZZY for Hot Yoga at Heatwise 🔥</strong></p>\n<p>We’re popping up at Heatwise Yoga with Papa &amp; Barkley for a 7PM <strong>Hot Yoga Feels Good® (Candlelit)</strong> class.</p>\n<p>Flow through Heatwise’s signature heated sequence in a cozy, candlelit room warmed to 98°F, with an intentional focus on deep breath, balance, and restoration.</p>\n<p><strong>Try gummies from Papa &amp; Barkley before class, then take home a topical to restore afterward.</strong></p>",
+ "adjacent": [
+  {
+   "text": "Foy Pop-Up",
+   "href": "https://getbuzzy.com/event/foy-pop-up-2/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "join-buzzy-papa-barkley-for-hot-at-heatwise",
+   "src": "4d8f4efa",
+   "heading": "Join BUZZY + Papa & Barkley for Hot at Heatwise 🧘",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "August 12",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "8:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/690d3a2c534a52a54b544966_heatwise_bowery-12-scaled.webp",
+     "alt": "Heatwise Yoga",
+     "w": 1920,
+     "h": 1440,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/690d3a2c534a52a54b544966_Heatwise_Bowery-12-scaled.webp"
+    },
+    {
+     "type": "p",
+     "html": "<strong>Join BUZZY for Hot Yoga at Heatwise 🔥</strong>"
+    },
+    {
+     "type": "p",
+     "html": "We’re popping up at Heatwise Yoga with Papa &amp; Barkley for a 7PM <strong>Hot Yoga Feels Good® (Candlelit)</strong> class."
+    },
+    {
+     "type": "p",
+     "html": "Flow through Heatwise’s signature heated sequence in a cozy, candlelit room warmed to 98°F, with an intentional focus on deep breath, balance, and restoration."
+    },
+    {
+     "type": "p",
+     "html": "<strong>Try gummies from Papa &amp; Barkley before class, then take home a topical to restore afterward.</strong>"
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/community-events/\">Community Events</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Website:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://www.heatwise-studio.com/booking/book-a-class?_mt=%2Fschedule%2Fdaily%2F48541%3FactiveDate%3D2026-08-14%26locations%3D48718\">https://www.heatwise-studio.com/booking/book-a-class?_mt=%2Fschedule%2Fdaily%2F48541%3FactiveDate%3D2026-08-14%26locations%3D48718</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Heatwise Yoga Brooklyn Heights"
+    },
+    {
+     "type": "p",
+     "html": "163 Remsen St.<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=163+Remsen+St.+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=163+Remsen+St.+Brooklyn+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Heatwise Yoga Brooklyn Heights"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

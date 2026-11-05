@@ -1,0 +1,164 @@
+{
+ "slug": "pixie-pop-up",
+ "path": "/event/pixie-pop-up/",
+ "url": "https://getbuzzy.com/event/pixie-pop-up/",
+ "title": "Pixie Pop-Up - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/pixie-pop-up/",
+ "ogImage": "/assets/photos/bz/pixie.10.24.jpg",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/Pixie.10.24.jpg",
+ "h1": "Pixie Pop-Up",
+ "postId": "2454",
+ "startISO": "2026-10-24T17:00:00-04:00",
+ "endISO": "2026-10-24T20:00:00-04:00",
+ "dateText": "October 24",
+ "timeText": "5:00 pm - 8:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/pixie.10.24.webp",
+  "w": 988,
+  "h": 650,
+  "alt": ""
+ },
+ "eventDescription": "Pixie is popping up at BUZZY on Saturday, October 24th from 5pm to 8pm. Swing by Court Street to meet the team, get a closer look at the lineup, and […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/pixie-pop-up/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-21T00:00:00+00:00"
+ },
+ "html": "<p>Pixie is popping up at BUZZY on Saturday, October 24th from 5pm to 8pm.</p>\n<p>Swing by Court Street to meet the team, get a closer look at the lineup, and talk through what might suit your Saturday night.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Rolling Green Pop-Up + 15% Off",
+   "href": "https://getbuzzy.com/event/rolling-green-pop-up-bogo-50-off-3-5g/"
+  },
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-oct-26/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "pixie-pop-up",
+   "src": "4d8f4efa",
+   "heading": "Pixie Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 24",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "5:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "8:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/pixie.10.24.webp",
+     "alt": "",
+     "w": 988,
+     "h": 650,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/Pixie.10.24.webp"
+    },
+    {
+     "type": "p",
+     "html": "Pixie is popping up at BUZZY on Saturday, October 24th from 5pm to 8pm."
+    },
+    {
+     "type": "p",
+     "html": "Swing by Court Street to meet the team, get a closer look at the lineup, and talk through what might suit your Saturday night."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

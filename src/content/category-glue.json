@@ -1,0 +1,82 @@
+{
+  "flower": {
+    "label": "Flower",
+    "intro": "Flower is the dried and cured bud of the cannabis plant, sold loose by weight. It is ground and then smoked in a pipe or rolled paper, or heated in a dry herb vaporizer.",
+    "alt": "A surreal still life of cannabis flower buds floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Premium flower (indica, sativa, hybrid strains)", "source": "/brooklyn-dispensary-faqs/" },
+      { "quote": "Flower is loose cannabis intended to be smoked or vaporized with appropriate equipment.", "source": "/first-time-brooklyn-dispensary-what-to-expect/" },
+      { "quote": "Let’s get straight to the point: an eighth of cannabis is 3.5 grams.", "source": "/how-many-grams-in-an-eighth/" }
+    ],
+    "related": ["how-many-grams-in-an-eighth", "what-is-living-soil-cannabis", "understanding-indica", "runtz-strain", "jet-fuel-strain", "pineapple-express-strain"]
+  },
+  "pre-rolls": {
+    "label": "Pre-Rolls",
+    "intro": "A pre-roll is ground cannabis flower already rolled in paper and ready to light. It is smoked like a joint, with no grinding or rolling needed.",
+    "alt": "A surreal still life of a single cone shaped pre-roll floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Pre-rolls and joints", "source": "/brooklyn-dispensary-faqs/" },
+      { "quote": "Pre-rolls are ready-made joints and may be infused or non-infused.", "source": "/first-time-brooklyn-dispensary-what-to-expect/" }
+    ],
+    "related": ["first-time-brooklyn-dispensary-what-to-expect", "pride-at-buzzy-meet-pixie-a-queer-and-woman-owned-cannabis-brand"]
+  },
+  "vapes": {
+    "label": "Vapes",
+    "intro": "A vape heats cannabis oil or extract into an inhalable vapor without burning it. Most use a cartridge or pod that attaches to a rechargeable battery.",
+    "alt": "A surreal still life of a plain vape pen and cartridge floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Vape pens and cartridges", "source": "/brooklyn-dispensary-faqs/" },
+      { "quote": "Our menu rotates daily with fresh, locally-sourced flower, artisanal edibles, and premium vapes.", "source": "/brands/" }
+    ],
+    "related": ["cannabis-vape-recycling-why-it-matters", "rosin-vs-live-resin", "first-time-brooklyn-dispensary-what-to-expect"]
+  },
+  "edibles": {
+    "label": "Edibles",
+    "intro": "Edibles are foods, confections and drinks made with cannabis, such as gummies, chocolates and beverages. They are eaten or sipped rather than inhaled, and come portioned into servings.",
+    "alt": "A surreal still life of round gummies and a square of chocolate floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Edibles and gummies", "source": "/brooklyn-dispensary-faqs/" },
+      { "quote": "Edibles are foods or confections containing cannabis and can take longer to be felt than inhaled products.", "source": "/first-time-brooklyn-dispensary-what-to-expect/" },
+      { "quote": "For edibles and beverages, serving information is one of the most useful parts of the package.", "source": "/how-to-read-new-york-cannabis-label/" }
+    ],
+    "related": ["how-to-dose-edibles", "10-mg-edible-effects", "the-rise-of-thc-drinks-in-brooklyn", "meet-space-poppers-the-women-owned-lgbtqia-owned-cannabis-popcorn-brand", "how-to-read-new-york-cannabis-label"]
+  },
+  "concentrates": {
+    "label": "Concentrates",
+    "intro": "Concentrates are extracts that collect the resin of the cannabis plant in forms such as rosin, hash, wax and live resin. They are usually vaporized in a dab rig or a dedicated device.",
+    "alt": "A surreal still life of a small glass jar of golden rosin floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Concentrates and extracts", "source": "/brooklyn-dispensary-faqs/" },
+      { "quote": "Explore our curated catalog of premium craft cannabis, artisanal concentrates, and design-forward accessories.", "source": "/cannabis-delivery-brooklyn/" }
+    ],
+    "related": ["rosin-vs-live-resin", "what-is-hash", "what-is-a-rosin-thumbprint", "dr-dabber-switch-2-brooklyn", "what-is-ampersand-blue-river-terps", "what-is-full-spectrum-cannabis"]
+  },
+  "tinctures": {
+    "label": "Tinctures",
+    "intro": "A tincture is a liquid cannabis extract in a small bottle with a dropper. It is measured out by the dropper and taken under the tongue or mixed into food and drinks.",
+    "alt": "A surreal still life of an amber dropper bottle floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Tinctures and topicals", "source": "/brooklyn-dispensary-faqs/" }
+    ],
+    "related": ["what-is-thca-vs-thc", "what-is-full-spectrum-cannabis"]
+  },
+  "topicals": {
+    "label": "Topicals",
+    "intro": "Topicals are cannabis infused balms, lotions and creams. They are applied to the skin rather than inhaled or eaten.",
+    "alt": "A surreal still life of an open tin of balm floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Tinctures and topicals", "source": "/brooklyn-dispensary-faqs/" }
+    ],
+    "related": ["what-is-thca-vs-thc"]
+  },
+  "accessories": {
+    "label": "Accessories",
+    "intro": "Accessories are the tools used with cannabis, such as grinders, rolling papers, pipes, batteries and vaporizers. They are used to prepare, consume or store cannabis.",
+    "alt": "A surreal still life of a grinder and rolling papers floating above a white plinth on a pale sky ground",
+    "buzzy": [
+      { "quote": "Cannabis accessories", "source": "/brooklyn-dispensary-faqs/" },
+      { "quote": "Explore our curated catalog of premium craft cannabis, artisanal concentrates, and design-forward accessories.", "source": "/cannabis-delivery-brooklyn/" }
+    ],
+    "related": ["dr-dabber-switch-2-brooklyn", "cannabis-vape-recycling-why-it-matters"]
+  }
+}

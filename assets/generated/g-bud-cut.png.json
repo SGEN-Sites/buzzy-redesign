@@ -1,0 +1,34 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-bud-cut",
+  "file": "assets/generated/g-bud-cut.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A single whole cured cannabis flower bud, dense and frosty with sparkling white trichomes and curly orange pistils, sage and olive green, photographed whole and isolated in the centre of a plain seamless flat light grey studio backdrop, nothing else in frame, wide margins all round, crisp edges, soft even light, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "1:1"
+  },
+  "seed": 2227924715,
+  "requestId": "01a1a971-d72e-7ca1-ab48-2ace233c6038",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a1a971-fa9f-73b1-b80b-2d3327cdb202"
+  },
+  "width": 916,
+  "height": 1509,
+  "sha256": "5f71aa3ed1804601877915699aa579c9109d30ff3e26aaa4fd132dd9a4abcafd",
+  "raw": "tmp/img/raw/g-bud-cut.1793844179039.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:03:05.029Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation; trimmed to the alpha box + 4% padding",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra + BiRefNet v2 matting"
+}

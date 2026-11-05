@@ -1,0 +1,173 @@
+{
+ "slug": "off-hours-pop-up",
+ "path": "/event/off-hours-pop-up/",
+ "url": "https://getbuzzy.com/event/off-hours-pop-up/",
+ "title": "Off Hours Pop-Up - Buzzy",
+ "description": "Explore Off Hours and meet the team creating unique blends of terpenes and cannabinoids for every experience you desire.",
+ "canonical": "https://getbuzzy.com/event/off-hours-pop-up/",
+ "ogImage": "/assets/photos/bz/brand-promotion-dutchie-menu-banner-desktop-1024x341.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/09/Brand-Promotion-Dutchie-Menu-Banner-Desktop-1024x341.webp",
+ "h1": "Off Hours Pop-Up",
+ "postId": "1749",
+ "startISO": "2026-10-16T16:00:00+00:00",
+ "endISO": "2026-10-16T19:00:00+00:00",
+ "dateText": "October 16",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Brand Pop-Ups",
+ "categorySlug": "pop-ups",
+ "categories": [
+  {
+   "name": "Brand Pop-Ups",
+   "slug": "pop-ups"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/offhours.webp",
+  "w": 1920,
+  "h": 1080,
+  "alt": "off hours infused gummies"
+ },
+ "eventDescription": "",
+ "html": "<p>Meet the team behind Off Hours! Off Hours focuses on developing unique blends of terpenes and minor cannabinoids to target a wide range of effects from high energy, social, and bright to relaxing and ready for bed—the full human experience.</p>",
+ "adjacent": [
+  {
+   "text": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+   "href": "https://getbuzzy.com/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-16/"
+  },
+  {
+   "text": "Date Night, Upgraded: Surround Society × BUZZY",
+   "href": "https://getbuzzy.com/event/date-night-surround-society-buzzy/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "off-hours-pop-up",
+   "src": "4d8f4efa",
+   "heading": "Off Hours Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 16",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/offhours.webp",
+     "alt": "off hours infused gummies",
+     "w": 1920,
+     "h": 1080,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/offhours.webp"
+    },
+    {
+     "type": "p",
+     "html": "Meet the team behind Off Hours! Off Hours focuses on developing unique blends of terpenes and minor cannabinoids to target a wide range of effects from high energy, social, and bright to relaxing and ready for bed—the full human experience."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/pop-ups/\">Brand Pop-Ups</a>",
+     "role": "link"
+    },
+    {
+     "type": "h3",
+     "text": "Website:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">https://getbuzzy.com/</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

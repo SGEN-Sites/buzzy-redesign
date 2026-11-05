@@ -1,0 +1,78 @@
+{
+ "slug": "menu",
+ "path": "/menu/",
+ "url": "https://getbuzzy.com/menu/",
+ "title": "Cannabis Menu in Brooklyn, NY | BUZZY",
+ "description": "Shop BUZZY's online cannabis menu in Cobble Hill, Brooklyn. Browse premium flower, edibles, vapes, and pre-rolls. Order now for fast local delivery or pickup.",
+ "canonical": "https://getbuzzy.com/menu/",
+ "ogImage": "/assets/photos/bz/buzzy_rewards.black_-scaled-rptlsienlgzljqrric6j50gyb0lpix1y7m0h845jzs.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/elementor/thumbs/Buzzy_Rewards.Black_-scaled-rptlsienlgzljqrric6j50gyb0lpix1y7m0h845jzs.webp",
+ "h1": "",
+ "postId": "415",
+ "sections": [
+  {
+   "id": "s1",
+   "src": "7c302df1",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "cards",
+     "role": "slider",
+     "items": [
+      {
+       "html": "When you can't make it in, we deliver - $80 order minimum. See you soon!",
+       "repeaterId": "0a5e731"
+      },
+      {
+       "html": "Shop the best cannabis in Brooklyn — with taxes included on all prices listed.",
+       "repeaterId": "9746360"
+      }
+     ]
+    },
+    {
+     "type": "embed",
+     "kind": "dutchie",
+     "src": "https://dutchie.com/api/v2/embedded-menu/6797c6ee1a011d09d894c6f7.js",
+     "note": "Dutchie embedded menu script (id dutchie--embed__script)"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "src": "900b0cb",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "JOIN OUR REWARDS PROGRAM",
+     "role": "label"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy_rewards.black_-scaled-rptlsienlgzljqrric6j50gyb0lpix1y7m0h845jzs.webp",
+     "alt": "Buzzy_Rewards.Black",
+     "orig": "https://getbuzzy.com/wp-content/uploads/elementor/thumbs/Buzzy_Rewards.Black_-scaled-rptlsienlgzljqrric6j50gyb0lpix1y7m0h845jzs.webp",
+     "w": 300,
+     "h": 140
+    },
+    {
+     "type": "p",
+     "html": "<strong>Get BUZZY and elevate your Buzzy experience with our exclusive deals, rewards &amp; perks.</strong>"
+    },
+    {
+     "type": "button",
+     "text": "SIGN UP FOR REWARDS",
+     "href": "https://getbuzzy.com/rewards/"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy.phonewallet.crop_-2.webp",
+     "alt": "Smartphone displaying the Buzzy Rewards mobile wallet pass, showing a balance of 1000 points and",
+     "w": 1097,
+     "h": 992,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/Buzzy.PhoneWallet.Crop_-2.webp"
+    }
+   ]
+  }
+ ]
+}

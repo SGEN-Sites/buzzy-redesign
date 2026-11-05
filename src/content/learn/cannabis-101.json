@@ -1,0 +1,65 @@
+{
+  "slug": "cannabis-101",
+  "path": "/education/cannabis-101/",
+  "order": 1,
+  "title": "Cannabis 101 | BUZZY",
+  "description": "A beginner's guide to shopping for cannabis at BUZZY, assembled from BUZZY's own articles.",
+  "h1": "Cannabis 101",
+  "kicker": "The Buzzy Guide",
+  "lede": "New to cannabis, or coming back after a break? Start here, in BUZZY's own words.",
+  "sections": [
+    {
+      "id": "first-visit",
+      "heading": "Your first visit",
+      "blocks": [
+        { "type": "p", "html": "A first trip to a dispensary starts with a few questions. This is how BUZZY puts it." },
+        { "type": "quote", "html": "Think of this as your friendly neighborhood guide to stepping into the world of cannabis with confidence.", "source": "/your-first-cannabis-purchase-buzzys-tips/", "sourceTitle": "Your First Cannabis Purchase: Buzzy’s Guide to Feeling Confident, Curious & Completely At Ease" },
+        { "type": "quote", "html": "A good licensed dispensary should make cannabis easier to understand, not turn it into a test.", "source": "/first-time-brooklyn-dispensary-what-to-expect/", "sourceTitle": "Your First Time at a Brooklyn Dispensary: What to Expect" },
+        { "type": "quote", "html": "At BUZZY, we built the experience around curation rather than overload. If it is your first visit, tell us.", "source": "/first-time-brooklyn-dispensary-what-to-expect/", "sourceTitle": "Your First Time at a Brooklyn Dispensary: What to Expect" }
+      ]
+    },
+    {
+      "id": "formats",
+      "heading": "The main formats",
+      "blocks": [
+        { "type": "p", "html": "Cannabis comes in several formats. Here are the most common ones." },
+        { "type": "quote", "html": "Flower is loose cannabis intended to be smoked or vaporized with appropriate equipment. Pre-rolls are ready-made joints and may be infused or non-infused. Edibles are foods or confections containing cannabis and can take longer to be felt than inhaled products.", "source": "/first-time-brooklyn-dispensary-what-to-expect/", "sourceTitle": "Your First Time at a Brooklyn Dispensary: What to Expect" },
+        { "type": "quote", "html": "Not sure? Our budtenders will walk you through each option and help you pick the format that fits your lifestyle.", "source": "/your-first-cannabis-purchase-buzzys-tips/", "sourceTitle": "Your First Cannabis Purchase: Buzzy’s Guide to Feeling Confident, Curious & Completely At Ease" }
+      ]
+    },
+    {
+      "id": "eighth",
+      "heading": "How many grams in an eighth",
+      "blocks": [
+        { "type": "quote", "html": "Let’s get straight to the point: an eighth of cannabis is 3.5 grams.", "source": "/how-many-grams-in-an-eighth/", "sourceTitle": "How Many Grams in an Eighth" }
+      ]
+    },
+    {
+      "id": "labels",
+      "heading": "Reading a New York label",
+      "blocks": [
+        { "type": "p", "html": "Every regulated package carries the same kinds of information. These are the parts BUZZY points to first." },
+        { "type": "quote", "html": "Regulated adult-use cannabis products sold through licensed New York dispensaries carry the state’s universal cannabis symbol.", "source": "/how-to-read-new-york-cannabis-label/", "sourceTitle": "How to Read a New York Cannabis Label" },
+        { "type": "quote", "html": "For anything portioned into servings, pay close attention to the difference between one serving and the entire container. A package containing multiple servings is not necessarily intended to be consumed all at once.", "source": "/how-to-read-new-york-cannabis-label/", "sourceTitle": "How to Read a New York Cannabis Label" }
+      ]
+    },
+    {
+      "id": "dosing",
+      "heading": "Dosing basics",
+      "blocks": [
+        { "type": "quote", "html": "The Golden Rule of Dosing Edibles: Start Low, Go Slow", "source": "/how-to-dose-edibles/", "sourceTitle": "How to Dose Edibles Safely A Beginner’s Guide" },
+        { "type": "quote", "html": "If you are new to a product, follow the label directions and give the product adequate time before considering more. Ingested cannabis can take longer to be felt than inhaled cannabis, and individual response varies.", "source": "/how-to-read-new-york-cannabis-label/", "sourceTitle": "How to Read a New York Cannabis Label" }
+      ]
+    },
+    {
+      "id": "thca-terpenes",
+      "heading": "THCA, THC and terpenes",
+      "blocks": [
+        { "type": "p", "html": "Two terms show up on almost every label. BUZZY explains them like this." },
+        { "type": "quote", "html": "The THCA it contains just doesn’t have the right key to unlock the psychoactive feelings we associate with cannabis. The real change happens when you add a little heat.", "source": "/what-is-thca-vs-thc/", "sourceTitle": "THCA vs. THC: Understanding the Differences and Effects" },
+        { "type": "quote", "html": "They’re the aromatic compounds that give cannabis its signature scent.", "source": "/the-buzzy-terpene-guide/", "sourceTitle": "👃 The Buzzy Terpene Guide: Understanding the Aromas, Effects & Science Behind Your Cannabis Experience" }
+      ]
+    }
+  ],
+  "related": ["your-first-cannabis-purchase-buzzys-tips", "first-time-brooklyn-dispensary-what-to-expect", "how-many-grams-in-an-eighth", "how-to-read-new-york-cannabis-label", "how-to-dose-edibles", "what-is-thca-vs-thc", "the-buzzy-terpene-guide"]
+}

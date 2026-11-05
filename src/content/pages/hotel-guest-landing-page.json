@@ -1,0 +1,25 @@
+{
+ "slug": "hotel-guest-landing-page",
+ "path": "/hotel-guest-landing-page/",
+ "url": "https://getbuzzy.com/hotel-guest-landing-page/",
+ "title": "Hotel Guest Landing Page - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/hotel-guest-landing-page/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "",
+ "postId": "2097",
+ "sections": [
+  {
+   "id": "s1",
+   "src": "",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Welcome to Brooklyn. BUZZY is Cobble Hill’s licensed cannabis dispensary."
+    }
+   ]
+  }
+ ]
+}

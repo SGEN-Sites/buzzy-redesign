@@ -1,0 +1,467 @@
+{
+  "about": "The adopted information architecture (top link bar with Delivery / Pickup service pills, a seven-item main bar with dropdown groups, a Shop CTA, hub-and-child URL patterns, inner pages of alternating content sections, the local-areas band and the newsletter band above every footer, the footer layout, a Yes/No age gate) mapped onto BUZZY. Labels are BUZZY's own where BUZZY names the thing, neutral otherwise. BUZZY's existing URLs are kept; new pages follow the adopted patterns.",
+  "topbar": {
+    "line": "SHOP ONLINE FOR DELIVERY + PICKUP | OPEN 8AM-10PM EVERYDAY",
+    "services": [
+      {
+        "label": "Delivery",
+        "href": "https://getbuzzy.com/menu/",
+        "icon": "truck",
+        "info": "/cannabis-delivery-brooklyn/",
+        "fact": "Free delivery · 9am–9pm daily"
+      },
+      {
+        "label": "Pickup",
+        "href": "https://getbuzzy.com/menu/",
+        "icon": "bag",
+        "info": "/in-store-pickup/",
+        "fact": "Open 8am – 10pm Everyday"
+      }
+    ],
+    "links": [
+      {
+        "label": "Deals",
+        "href": "/deals/"
+      },
+      {
+        "label": "Rewards",
+        "href": "/rewards/"
+      },
+      {
+        "label": "Events",
+        "href": "/events/"
+      },
+      {
+        "label": "Visit Us",
+        "href": "/visit-us/"
+      }
+    ],
+    "note": "line = BUZZY's own announcement bar; service facts are BUZZY's own words (delivery hub + footer)"
+  },
+  "cta": {
+    "label": "Shop Now",
+    "href": "https://getbuzzy.com/menu/"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Deals",
+      "href": "/deals/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about/",
+      "feature": {
+        "photo": "/assets/photos/bz/buzzy.exterior.streetcrop-copy.webp",
+        "title": "Visit BUZZY on Court Street",
+        "href": "/visit-us/"
+      },
+      "children": [
+        {
+          "label": "About BUZZY",
+          "href": "/about/"
+        },
+        {
+          "label": "Visit Us",
+          "href": "/visit-us/"
+        },
+        {
+          "label": "Brands",
+          "href": "/brands/"
+        },
+        {
+          "label": "FAQs",
+          "href": "/brooklyn-dispensary-faqs/"
+        },
+        {
+          "label": "Rewards",
+          "href": "/rewards/"
+        },
+        {
+          "label": "Events",
+          "href": "/events/"
+        },
+        {
+          "label": "Careers",
+          "href": "/careers/"
+        },
+        {
+          "label": "Neighborhood Map",
+          "href": "/brooklyn-map/"
+        }
+      ]
+    },
+    {
+      "label": "Products",
+      "href": "/products/",
+      "children": [
+        {
+          "label": "Flower",
+          "href": "/products/flower/",
+          "gimg": "g-cat-flower",
+          "menu": "flower"
+        },
+        {
+          "label": "Pre-Rolls",
+          "href": "/products/pre-rolls/",
+          "gimg": "g-cat-prerolls",
+          "menu": "pre-rolls"
+        },
+        {
+          "label": "Vapes",
+          "href": "/products/vapes/",
+          "gimg": "g-cat-vapes",
+          "menu": "vapes"
+        },
+        {
+          "label": "Edibles",
+          "href": "/products/edibles/",
+          "gimg": "g-cat-edibles",
+          "menu": "edibles"
+        },
+        {
+          "label": "Concentrates",
+          "href": "/products/concentrates/",
+          "gimg": "g-cat-concentrates",
+          "menu": "concentrates"
+        },
+        {
+          "label": "Tinctures",
+          "href": "/products/tinctures/",
+          "gimg": "g-cat-tinctures",
+          "menu": "tinctures"
+        },
+        {
+          "label": "Topicals",
+          "href": "/products/topicals/",
+          "gimg": "g-cat-topicals",
+          "menu": "topicals"
+        },
+        {
+          "label": "Accessories",
+          "href": "/products/accessories/",
+          "gimg": "g-cat-accessories",
+          "menu": "accessories"
+        }
+      ]
+    },
+    {
+      "label": "Neighborhoods",
+      "href": "/cannabis-delivery-brooklyn-map/",
+      "children": [
+        {
+          "label": "Cobble Hill",
+          "href": "/cannabis-delivery-brooklyn/cobble-hill/"
+        },
+        {
+          "label": "Brooklyn Heights",
+          "href": "/cannabis-delivery-brooklyn/brooklyn-heights/"
+        },
+        {
+          "label": "Boerum Hill",
+          "href": "/cannabis-delivery-brooklyn/boerum-hill/"
+        },
+        {
+          "label": "Carroll Gardens",
+          "href": "/cannabis-delivery-brooklyn/carroll-gardens/"
+        },
+        {
+          "label": "Downtown Brooklyn",
+          "href": "/cannabis-delivery-brooklyn/downtown-brooklyn/"
+        },
+        {
+          "label": "Gowanus",
+          "href": "/cannabis-delivery-brooklyn/gowanus/"
+        },
+        {
+          "label": "Fort Greene",
+          "href": "/cannabis-delivery-brooklyn/fort-greene/"
+        },
+        {
+          "label": "Park Slope",
+          "href": "/cannabis-delivery-brooklyn/park-slope/"
+        },
+        {
+          "label": "Prospect Heights",
+          "href": "/cannabis-delivery-brooklyn/prospect-heights/"
+        },
+        {
+          "label": "South Slope",
+          "href": "/cannabis-delivery-brooklyn/south-slope/"
+        },
+        {
+          "label": "DUMBO",
+          "href": "/cannabis-delivery-brooklyn/dumbo/"
+        },
+        {
+          "label": "Delivery Zones & Map",
+          "href": "/cannabis-delivery-brooklyn-map/"
+        }
+      ]
+    },
+    {
+      "label": "Education",
+      "href": "/education/",
+      "feature": {
+        "gimg": "g-guide",
+        "title": "The Buzzy Guide",
+        "href": "/learn/"
+      },
+      "children": [
+        {
+          "label": "Cannabis 101",
+          "href": "/education/cannabis-101/"
+        },
+        {
+          "label": "Recreational Cannabis",
+          "href": "/education/recreational-cannabis/"
+        },
+        {
+          "label": "Medical Cannabis",
+          "href": "/education/medical-cannabis/"
+        },
+        {
+          "label": "The Buzzy Guide",
+          "href": "/learn/"
+        },
+        {
+          "label": "How to Dose Edibles",
+          "href": "/how-to-dose-edibles/"
+        },
+        {
+          "label": "Terpene Guide",
+          "href": "/the-buzzy-terpene-guide/"
+        },
+        {
+          "label": "How to Read a NY Label",
+          "href": "/how-to-read-new-york-cannabis-label/"
+        },
+        {
+          "label": "First Time at a Dispensary",
+          "href": "/first-time-brooklyn-dispensary-what-to-expect/"
+        }
+      ]
+    },
+    {
+      "label": "Services",
+      "href": "/cannabis-delivery-brooklyn/",
+      "children": [
+        {
+          "label": "Delivery",
+          "href": "/cannabis-delivery-brooklyn/",
+          "icon": "truck"
+        },
+        {
+          "label": "In-Store Pickup",
+          "href": "/in-store-pickup/",
+          "icon": "bag"
+        },
+        {
+          "label": "Delivery Rules",
+          "href": "/cannabis-delivery-brooklyn-nyc-rules/",
+          "icon": "id"
+        },
+        {
+          "label": "Delivery Zones & Map",
+          "href": "/cannabis-delivery-brooklyn-map/",
+          "icon": "pin"
+        },
+        {
+          "label": "Visiting Brooklyn",
+          "href": "/brooklyn-dispensary-for-tourists/",
+          "icon": "sun"
+        },
+        {
+          "label": "Hotel Guests",
+          "href": "/hotel-guest-landing-page/",
+          "icon": "moon"
+        },
+        {
+          "label": "Visit Us",
+          "href": "/visit-us/",
+          "icon": "clock"
+        }
+      ]
+    }
+  ],
+  "prefooter": {
+    "areas": {
+      "heading": "Where We Deliver in Brooklyn",
+      "line": "Currently delivering to select addresses in:",
+      "zipsHeading": "Brooklyn Zip Codes We Deliver To",
+      "note": "BUZZY's own delivery-hub words: the 11 neighborhood pages as chips + the 4 zip codes"
+    },
+    "newsletter": {
+      "heading": "Your first 5% is calling.",
+      "line": "Get BUZZY and elevate your Buzzy experience with our exclusive deals, rewards & perks.",
+      "fields": [
+        "Email"
+      ],
+      "consent": "I consent to receiving marketing communications.",
+      "button": "Submit",
+      "link": {
+        "label": "SIGN UP FOR REWARDS",
+        "href": "/rewards/"
+      },
+      "note": "BUZZY's own words: /rewards/ heading, home rewards line, the delivery page's sign-up form (Email, consent, Submit)"
+    }
+  },
+  "footer": {
+    "hoursLine": "Open 8am – 10pm Everyday",
+    "columns": [
+      {
+        "title": "SHOP",
+        "links": [
+          {
+            "label": "Shop All",
+            "href": "/products/"
+          },
+          {
+            "label": "Flower",
+            "href": "/products/flower/"
+          },
+          {
+            "label": "Vapes",
+            "href": "/products/vapes/"
+          },
+          {
+            "label": "Edibles",
+            "href": "/products/edibles/"
+          },
+          {
+            "label": "Gummies",
+            "href": "/products/edibles/"
+          },
+          {
+            "label": "Drinks",
+            "href": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=edibles&dtche%5Bsubcategory%5D=drinks"
+          },
+          {
+            "label": "Pre-Rolls",
+            "href": "/products/pre-rolls/"
+          },
+          {
+            "label": "Concentrates",
+            "href": "/products/concentrates/"
+          },
+          {
+            "label": "Tinctures",
+            "href": "/products/tinctures/"
+          },
+          {
+            "label": "Topicals",
+            "href": "/products/topicals/"
+          },
+          {
+            "label": "Accessories",
+            "href": "/products/accessories/"
+          }
+        ]
+      },
+      {
+        "title": "QUICK LINKS",
+        "links": [
+          {
+            "label": "Visit Us",
+            "href": "/visit-us/"
+          },
+          {
+            "label": "Rewards",
+            "href": "/rewards/"
+          },
+          {
+            "label": "About",
+            "href": "/about/"
+          },
+          {
+            "label": "Delivery",
+            "href": "/cannabis-delivery-brooklyn/"
+          },
+          {
+            "label": "FAQS",
+            "href": "/brooklyn-dispensary-faqs/"
+          },
+          {
+            "label": "Learn",
+            "href": "/learn/"
+          },
+          {
+            "label": "Careers",
+            "href": "/careers/"
+          }
+        ]
+      }
+    ],
+    "contactTitle": "CONTACT",
+    "locationTitle": "LOCATION",
+    "directionsLabel": "Get Directions",
+    "wordmark": "HIGHLY CURATED",
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy-policy/"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "/terms-of-service/"
+      },
+      {
+        "label": "Sitemap",
+        "href": "/sitemap/"
+      }
+    ],
+    "note": "BUZZY's own footer: columns, titles, hours line, wordmark, legal bar; Sitemap is the adopted structure's"
+  },
+  "pages": {
+    "HOME": [
+      "/"
+    ],
+    "SHOP": [
+      "/products/",
+      "/products/<8 categories>/",
+      "/deals/",
+      "/rewards/",
+      "/rewards-copy/",
+      "/rewards-signup-page/",
+      "/brands/",
+      "/menu/",
+      "/product/",
+      "/bingo/",
+      "/dabkitcontest26/"
+    ],
+    "SERVICES": [
+      "/cannabis-delivery-brooklyn/",
+      "/cannabis-delivery-brooklyn/<11 neighborhoods>/",
+      "/cannabis-delivery-brooklyn-map/",
+      "/cannabis-delivery-brooklyn-nyc-rules/",
+      "/in-store-pickup/",
+      "/brooklyn-dispensary-for-tourists/",
+      "/hotel-guest-landing-page/",
+      "/visit-us/"
+    ],
+    "LEARN": [
+      "/learn/",
+      "/category/<5 archives>/",
+      "/<post slug>/ (every post)",
+      "/education/",
+      "/education/<3 guides>/"
+    ],
+    "PAGES": [
+      "/about/",
+      "/brooklyn-dispensary-faqs/",
+      "/careers/",
+      "/events/",
+      "/events/category/pop-ups/",
+      "/events/category/community-events/",
+      "/event/<slug>/ (every event)",
+      "/brooklyn-map/",
+      "/privacy-policy/",
+      "/terms-of-service/",
+      "/sitemap/",
+      "/404.html"
+    ]
+  }
+}

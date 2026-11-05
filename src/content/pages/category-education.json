@@ -1,0 +1,228 @@
+{
+ "slug": "category-education",
+ "path": "/category/education/",
+ "url": "https://getbuzzy.com/category/education/",
+ "title": "Cannabis Education & Guides: Expert Insights | BUZZY",
+ "description": "BUZZY Education Hub: Explore cannabis guides, product insights, and consumption tips in Brooklyn. Discover expert advice today",
+ "canonical": "https://getbuzzy.com/category/education/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Cannabis Education & Guides: Learn About Products with Buzzy",
+ "postId": "",
+ "sections": [
+  {
+   "id": "cannabis-education-guides-learn-about-products-with-buzzy",
+   "src": "c5004e2",
+   "heading": "Cannabis Education & Guides: Learn About Products with Buzzy",
+   "blocks": [
+    {
+     "type": "h4",
+     "text": "Categories",
+     "level": 5
+    },
+    {
+     "type": "ul",
+     "role": "filters",
+     "items": [
+      "Community",
+      "Education",
+      "Guides",
+      "Product Reviews",
+      "All"
+     ]
+    },
+    {
+     "type": "cards",
+     "role": "posts",
+     "items": [
+      {
+       "title": "THC Drinks in Brooklyn: How They Work & What to Try at BUZZY",
+       "href": "https://getbuzzy.com/the-rise-of-thc-drinks-in-brooklyn/",
+       "img": {
+        "src": "/assets/photos/bz/chatgpt-image-sep-9-2026-09_43_02-am.webp",
+        "alt": "Tune THC Drinks in Brooklyn",
+        "w": 1672,
+        "h": 941,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/ChatGPT-Image-Sep-9-2026-09_43_02-AM.webp"
+       },
+       "meta": [
+        "Featured",
+        "Featured",
+        "Guides",
+        "July 1",
+        "THC drinks, explained: how fast they hit, how to dose, and the Ayrloom and TUNE cans on BUZZY’s Brooklyn menu now. Pickup or same-day delivery."
+       ],
+       "categories": [
+        "guides"
+       ]
+      }
+     ]
+    },
+    {
+     "type": "cards",
+     "role": "posts",
+     "items": [
+      {
+       "title": "Dr. Dabber Switch² eRig: Features & Buying Guide | BUZZY",
+       "href": "https://getbuzzy.com/dr-dabber-switch-2-brooklyn/",
+       "img": {
+        "src": "/assets/photos/bz/chatgpt-image-sep-8-2026-10_17_01-pm.webp",
+        "alt": "Dr. Dabber Switch²™",
+        "w": 1672,
+        "h": 941,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_17_01-PM.webp"
+       },
+       "meta": [
+        "September 9"
+       ],
+       "categories": [
+        "reviews"
+       ]
+      },
+      {
+       "title": "What Is Ampersand™? Blue River Terps’ Dissolvable THC | BUZZY",
+       "href": "https://getbuzzy.com/what-is-ampersand-blue-river-terps/",
+       "img": {
+        "src": "/assets/photos/bz/chatgpt-image-sep-7-2026-11_05_04-pm.webp",
+        "alt": "Close-up of cannabis hash in a black jar, illustrating the concentrate featured in a Buzzy",
+        "w": 1536,
+        "h": 1024,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-7-2026-11_05_04-PM.png"
+       },
+       "meta": [
+        "September 8"
+       ],
+       "categories": [
+        "community"
+       ]
+      },
+      {
+       "title": "What Is Hash? Effects & Where to Buy in Brooklyn",
+       "href": "https://getbuzzy.com/what-is-hash/",
+       "img": {
+        "src": "/assets/photos/bz/image-2048x1365.jpg",
+        "alt": "Bubble hash in a glass jar, close-up top-down view",
+        "w": 2048,
+        "h": 1365,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/09/image-2048x1365.jpg"
+       },
+       "meta": [
+        "August 20"
+       ],
+       "categories": [
+        "education",
+        "guides"
+       ]
+      },
+      {
+       "title": "BUZZY’s Besties: Brooklyn Roasting Company",
+       "href": "https://getbuzzy.com/buzzys-besties-brooklyn-roasting-company/",
+       "img": {
+        "src": "/assets/photos/bz/brc.horz1_-scaled.webp",
+        "alt": "Brooklyn Roasting Company's Brooklyn Heights Location",
+        "w": 1920,
+        "h": 1199,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/08/BRC.Horz1_-scaled.webp"
+       },
+       "meta": [
+        "BUZZY GUIDES",
+        "August 15"
+       ],
+       "categories": [
+        "community"
+       ]
+      },
+      {
+       "title": "Is Cannabis Legal in New York? A 2026 Guide to the Rules",
+       "href": "https://getbuzzy.com/is-cannabis-legal-in-new-york/",
+       "img": {
+        "src": "/assets/photos/bz/adobestock_663422989-2048x1365.jpg",
+        "alt": "Brooklyn cityscape featuring the iconic Manhattan Bridge, reflecting Buzzy's location and connection to the vibrant",
+        "w": 2048,
+        "h": 1365,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/04/AdobeStock_663422989-2048x1365.jpeg"
+       },
+       "meta": [
+        "August 14"
+       ],
+       "categories": [
+        "guides"
+       ]
+      },
+      {
+       "title": "Cannabis Vape Recycling: Why It Matters",
+       "href": "https://getbuzzy.com/cannabis-vape-recycling-why-it-matters/",
+       "img": {
+        "src": "/assets/photos/bz/fernwayrecycle.webp",
+        "alt": "Fernway Recycling Badge",
+        "w": 1145,
+        "h": 554,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/08/FernwayREcycle.webp"
+       },
+       "meta": [
+        "August 7"
+       ],
+       "categories": [
+        "community"
+       ]
+      },
+      {
+       "title": "Living Soil Cannabis 101: What It Is & Where to Buy in Brooklyn",
+       "href": "https://getbuzzy.com/what-is-living-soil-cannabis/",
+       "img": {
+        "src": "/assets/photos/bz/adobestock_189009899-scaled.webp",
+        "alt": "A small plant of cannabis seedlings at the stage of vegetation planted in the ground in the sun, a beautiful background, eceptions of cultivation in an indoor marijuana for medical purposes",
+        "w": 1920,
+        "h": 1280,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/AdobeStock_189009899-scaled.webp"
+       },
+       "meta": [
+        "Cannabis Guide",
+        "July 29"
+       ],
+       "categories": [
+        "education"
+       ]
+      },
+      {
+       "title": "What Is a Rosin Thumbprint? Inside Cannabis’s Most Coveted Concentrate Format",
+       "href": "https://getbuzzy.com/what-is-a-rosin-thumbprint/",
+       "img": {
+        "src": "/assets/photos/bz/chatgpt-image-jul-15-2026-09_53_29-am.webp",
+        "alt": "thumbprint rosin",
+        "w": 1672,
+        "h": 941,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-15-2026-09_53_29-AM.webp"
+       },
+       "meta": [
+        "Cannabis Guide",
+        "July 15"
+       ],
+       "categories": [
+        "education"
+       ]
+      },
+      {
+       "title": "Space Poppers: Women & LGBTQIA+-Owned Cannabis Popcorn at BUZZY",
+       "href": "https://getbuzzy.com/meet-space-poppers-the-women-owned-lgbtqia-owned-cannabis-popcorn-brand/",
+       "img": {
+        "src": "/assets/photos/bz/caramel-and-sweet-chili-1.webp",
+        "alt": "Two bags of Space Poppers cannabis popcorn, Sea Salt Caramel and Sweet Chili, displayed side-by-side,",
+        "w": 1844,
+        "h": 902,
+        "orig": "https://getbuzzy.com/wp-content/uploads/2026/06/caramel-and-sweet-chili-1.webp"
+       },
+       "meta": [
+        "June 26"
+       ],
+       "categories": [
+        "community"
+       ]
+      }
+     ]
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

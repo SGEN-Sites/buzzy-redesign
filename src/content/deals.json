@@ -1,0 +1,140 @@
+{
+  "deals": [
+    {
+      "title": "Your first 5% is calling.",
+      "line": "Join BUZZY Rewards for free and unlock 5% off your first visit. More savings and perks are just around the corner.",
+      "terms": "Must be 21+ with a valid ID. Rewards can’t be exchanged for cash. Program terms may change.",
+      "source": "/rewards/",
+      "kind": "rewards",
+      "date": null
+    },
+    {
+      "title": "First three visits",
+      "line": "Good things happen when you come back. Enjoy a little extra savings on each of your first three visits.",
+      "terms": "You get 5% off the day you join, 10% off your second visit and 15% off your third. In store, it's applied at checkout. Online, your 5% applies to your first order after you sign up. Rewards discounts can't be combined with other discounts or promotions.",
+      "source": "/rewards/",
+      "kind": "rewards",
+      "date": null
+    },
+    {
+      "title": "Your points. Your pick.",
+      "line": "Every dollar spent earns you a point. Save them up, cash them in, and treat yourself to something good.",
+      "terms": "100 points = $12 off, 300 points = $25 off, 500 points = $40 off and 750 points = a free product from our rewards selection. Redeem at checkout in store or on eligible pickup and delivery orders.",
+      "source": "/rewards/",
+      "kind": "rewards",
+      "date": null
+    },
+    {
+      "title": "Birthday love",
+      "line": "A free product to celebrate your birthday, picked from our birthday selection. Just add your birthday when you join.",
+      "terms": null,
+      "source": "/rewards/",
+      "kind": "rewards",
+      "date": null
+    },
+    {
+      "title": "Travelers: hotel key",
+      "line": "Free cannabis delivery to your Brooklyn hotel, 9am to 9pm daily, and 10% off when we deliver to your hotel.",
+      "terms": "10% off with a current hotel room key in store, or on delivery to a hotel. 20% off on Fridays in store only, with a valid out-of-state ID. Discounts cannot be combined. Adults 21+ with valid ID.",
+      "source": "/brooklyn-dispensary-for-tourists/",
+      "kind": "travel",
+      "date": null
+    },
+    {
+      "title": "Travelers: out-of-state ID Fridays",
+      "line": "Show your out-of-state ID in store and save on all purchases, every Friday.",
+      "terms": "20% off on Fridays in store only, with a valid out-of-state ID. Discounts cannot be combined. Adults 21+ with valid ID.",
+      "source": "/brooklyn-dispensary-for-tourists/",
+      "kind": "travel",
+      "date": null
+    },
+    {
+      "title": "Tricks & Treats Bingo",
+      "line": "Learn new tricks, score deals, and earn a goodie bag when you get BINGO!",
+      "terms": "21+ only. Limit 1 per customer. Goodie bags available while supplies last. Play 10/1–10/31. Redeem completed cards in-store 10/31–11/04. To validate a BUZZY’s Besties visit, show your receipt at BUZZY or on delivery.",
+      "source": "/bingo/",
+      "kind": "promo",
+      "date": null
+    },
+    {
+      "title": "Flower Friday: 10% Off TKS Sensei + Lead Farmer",
+      "line": "It’s Flower Friday at BUZZY! On Friday, October 30, save 10% on TKS Sensei and Lead Farmer flower at our Court Street shop.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/flower-friday-10-off-tks-sensei-lead-farmer-oct-30/",
+      "kind": "weekly",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "Lead Farmer Day: Save 20% on Lead Farmer",
+      "line": "It’s Lead Farmer day at BUZZY! On Friday, October 30th, save 20% on all Lead Farmer products at our Court Street shop.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/lead-farmer-day-save-20-on-lead-farmer/",
+      "kind": "event",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "High Priestess Pop-Up + Preroll Pack Deal",
+      "line": "Buy a High Priestess preroll pack and get your second pack for 50% off.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/high-priestess-pop-up-preroll-pack-deal/",
+      "kind": "event",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "Tuesday Treats at BUZZY",
+      "line": "Stop by our Court Street shop on Tuesday, October 27 to treat yourself to a special in-store deal, and pick up a stamp for your Tricks & Treats Bingo card while you’re here.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/tuesday-treats-at-buzzy-oct-27/",
+      "kind": "weekly",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Rolling Green Pop-Up + 15% Off",
+      "line": "Save 15% on all Rolling Green products during the pop-up.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/rolling-green-pop-up-bogo-50-off-3-5g/",
+      "kind": "event",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Thursday Tricks at BUZZY",
+      "line": "Every trick you learn earns you a stamp on your Tricks & Treats Bingo card. Get Bingo this month and take home a BUZZY goodie bag.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/thursday-tricks-at-buzzy-oct-22/",
+      "kind": "weekly",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Jaunty Pop-Up + Swag with Purchase",
+      "line": "Get Jaunty swag with your purchase, including cozy Jaunty slippers, while supplies last.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/jaunty-pop-up-swag-with-purchase/",
+      "kind": "event",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Umamii Pop-Up + Concentrate Bundle Deal",
+      "line": "Concentrate bundle: buy any 2 Umamii products and get the 3rd for 30% off",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/umamii-pop-up-concentrate-bundle-deal/",
+      "kind": "event",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Umamii Pop-Up: 10% off",
+      "line": "Save 10% on all Umamii products",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/umamii-pop-up-concentrate-bundle-deal/",
+      "kind": "event",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Hai. Pop-Up + Charm Craft Station",
+      "line": "Save 10% on all Hai. products.",
+      "terms": "Open to adults 21+ with valid ID.",
+      "source": "/event/hai-pop-up-charm-craft-station/",
+      "kind": "event",
+      "date": "2026-10-03"
+    }
+  ]
+}

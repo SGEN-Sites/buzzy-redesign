@@ -1,0 +1,152 @@
+{
+ "slug": "tuesday-treats-at-buzzy-oct-20",
+ "path": "/event/tuesday-treats-at-buzzy-oct-20/",
+ "url": "https://getbuzzy.com/event/tuesday-treats-at-buzzy-oct-20/",
+ "title": "Tuesday Treats at BUZZY - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/tuesday-treats-at-buzzy-oct-20/",
+ "ogImage": "/assets/photos/bz/buzzy-bingo-event-tuesday-treats-oct-20.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-tuesday-treats-oct-20.webp",
+ "h1": "Tuesday Treats at BUZZY",
+ "postId": "1919",
+ "startISO": "2026-10-20T00:00:00-04:00",
+ "endISO": "2026-10-20T00:00:00",
+ "dateText": "October 20",
+ "timeText": "",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street Brooklyn, NY 11201 United States",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "startSource": "calendar export link (no Event JSON-LD on past events)",
+ "category": "Community Events",
+ "categorySlug": "community-events",
+ "categories": [
+  {
+   "name": "Community Events",
+   "slug": "community-events"
+  }
+ ],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-bingo-event-tuesday-treats-oct-20.webp",
+  "w": 1550,
+  "h": 875,
+  "alt": "Tuesday Treats at BUZZY"
+ },
+ "eventDescription": "",
+ "html": "<p>Every Tuesday in October is Tuesday Treats at BUZZY. Stop by our Court Street shop on Tuesday, October 20 to treat yourself to a special in-store deal, and pick up a stamp for your Tricks &amp; Treats Bingo card while you’re here.</p>\n<p>Fill your card this month to earn a BUZZY goodie bag. Ask our budtenders for details on this week’s treat.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Monday Trivia Night at The Brazen Head",
+   "href": "https://getbuzzy.com/event/monday-trivia-night-at-the-brazen-head-oct-19/"
+  },
+  {
+   "text": "Thursday Tricks at BUZZY",
+   "href": "https://getbuzzy.com/event/thursday-tricks-at-buzzy-oct-22/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "tuesday-treats-at-buzzy",
+   "src": "4d8f4efa",
+   "heading": "Tuesday Treats at BUZZY",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 20",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-bingo-event-tuesday-treats-oct-20.webp",
+     "alt": "Tuesday Treats at BUZZY",
+     "w": 1550,
+     "h": 875,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-tuesday-treats-oct-20.webp"
+    },
+    {
+     "type": "p",
+     "html": "Every Tuesday in October is Tuesday Treats at BUZZY. Stop by our Court Street shop on Tuesday, October 20 to treat yourself to a special in-store deal, and pick up a stamp for your Tricks &amp; Treats Bingo card while you’re here."
+    },
+    {
+     "type": "p",
+     "html": "Fill your card this month to earn a BUZZY goodie bag. Ask our budtenders for details on this week’s treat."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Categories:"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/events/category/community-events/\">Community Events</a>",
+     "role": "link"
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-guide",
+  "file": "assets/generated/g-guide.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "An open hardcover book with completely blank pages floats in a pale morning sky; its pages lift and turn into soft white clouds that drift upward out of the book; pale sky blue at the top fading to warm peach at the bottom; the book sits in the lower middle of the frame; calm sky above, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "3:4"
+  },
+  "seed": 3615925518,
+  "requestId": "01a1a972-3269-7fe1-b10c-6789e8b9c59b",
+  "cutout": null,
+  "width": 1792,
+  "height": 2240,
+  "sha256": "17e2949be5043e8ec28ab1a44b1c7f87e7717a00160bb16ececdfdf04b2c4a07",
+  "raw": "tmp/img/raw/g-guide.1793844204044.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:03:25.867Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation; generated at 3:4 and centre-cropped to 4:5",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

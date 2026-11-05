@@ -1,0 +1,229 @@
+{
+  "about": "BUZZY's facts for the redesign chrome (main session). Every value is copied from the live getbuzzy.com pages captured 2026-11-05 (audit/raw/buzzy/, text in tmp/txt/). Where the live site contradicts itself, the chrome uses the delivery hub's own summary line; the conflicts are listed in docs/OPEN-DECISIONS.md.",
+  "name": "BUZZY",
+  "shortName": "BUZZY",
+  "altNames": [
+    "Buzzy",
+    "BUZZY Brooklyn Dispensary"
+  ],
+  "origin": "https://getbuzzy.com",
+  "tagline": "Highly Curated",
+  "taglineSource": "footer wordmark 'HIGHLY CURATED'; home H1 'Highly Curated Cannabis in Brooklyn'",
+  "kicker": "Your Neighborhood Dispensary",
+  "kickerSource": "home hero kicker 'YOUR NEIGHBORHOOD DISPENSARY'",
+  "identity": "Led by a local, minority and woman-owned team, we bring world-class expertise in cannabis operations and lifestyle brand development.",
+  "identitySource": "/about/",
+  "address": {
+    "street": "137 Court Street",
+    "streetShort": "137 Court St.",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11201",
+    "neighborhood": "Cobble Hill",
+    "landmark": "Across From Trader Joes!",
+    "landmarkSource": "/visit-us/ LOCATION block"
+  },
+  "mapUrl": "https://www.google.com/maps/dir//137+Court+St+Brooklyn,+NY+11201/@40.6894497,-73.9921856,15z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89c25bef7a0e1fc5:0x58ddba340ff47d78",
+  "mapEmbed": "https://maps.google.com/maps?q=137%20Court%20St.%2C%20Brooklyn%2C%20NY&t=m&z=15&output=embed&iwloc=near",
+  "phone": "718-BKBUZZY",
+  "phoneDigits": "(718) 252-8999",
+  "phoneHref": "tel:+17182528999",
+  "phoneSource": "footer shows 718-BKBUZZY; 67 page links print (718) 252-8999 (the footer tel link itself points at a different, broken number: OPEN-DECISIONS A2)",
+  "email": "hello@getbuzzy.com",
+  "hours": [
+    {
+      "days": "Every Day",
+      "open": "8am",
+      "close": "10pm"
+    }
+  ],
+  "hoursLine": "Open 8am – 10pm Everyday",
+  "hoursSource": "footer on every page; /brooklyn-dispensary-faqs/ 'We're open 7 days a week, 8am – 10pm.'",
+  "topbarLine": "SHOP ONLINE FOR DELIVERY + PICKUP | OPEN 8AM-10PM EVERYDAY",
+  "topbarSource": "live header announcement bar",
+  "deliveryHours": [
+    {
+      "days": "Daily",
+      "open": "9am",
+      "close": "9pm"
+    }
+  ],
+  "deliveryLine": "9am–9pm daily · Free delivery · $80 minimum · Delivered by the BUZZY team",
+  "deliveryLineSource": "/cannabis-delivery-brooklyn/ closing CTA band (verbatim)",
+  "delivery": {
+    "headline": "Fast Same-Day Cannabis Delivery Across Brooklyn, NY",
+    "lede": "Same-day cannabis delivery from Cobble Hill’s most curated dispensary. No delivery fee. Live tracking.",
+    "cta": "Order for Delivery",
+    "promise": "Brooklyn's most curated dispensary now comes to you.",
+    "facts": [
+      [
+        "Delivery Hours",
+        "9am–9pm, daily"
+      ],
+      [
+        "Order Minimum",
+        "$80"
+      ],
+      [
+        "Delivery Fee",
+        "Free"
+      ],
+      [
+        "Live Tracking",
+        "Onfleet GPS link via SMS"
+      ],
+      [
+        "Order Status",
+        "Dutchie updates"
+      ],
+      [
+        "Payment",
+        "Pay by Bank"
+      ],
+      [
+        "Tips",
+        "Cash or Pay by Bank"
+      ],
+      [
+        "ID Verification",
+        "21+ government-issued photo ID required"
+      ],
+      [
+        "Delivered By",
+        "BUZZY Team"
+      ]
+    ],
+    "steps": [
+      [
+        "1. Shop",
+        "Browse full menu"
+      ],
+      [
+        "2. Choose Delivery",
+        "Select at checkout"
+      ],
+      [
+        "3. We Confirm",
+        "Real-time status updates"
+      ],
+      [
+        "4. Track Your Driver",
+        "Live GPS link"
+      ],
+      [
+        "5. RECEIVE YOUR ORDER",
+        "Show 21+ ID"
+      ]
+    ],
+    "arrives": "60–90 minutes, with live tracking",
+    "arrivesSource": "/brooklyn-dispensary-for-tourists/ hotel delivery facts",
+    "neighborhoodsLine": "Currently delivering to select addresses in:",
+    "neighborhoods": [
+      "Cobble Hill",
+      "Brooklyn Heights",
+      "Boerum Hill",
+      "Carroll Gardens",
+      "Downtown Brooklyn",
+      "Gowanus",
+      "Fort Greene",
+      "Park Slope",
+      "Prospect Heights",
+      "South Slope",
+      "DUMBO"
+    ],
+    "zipsLine": "BUZZY currently delivers to eligible addresses within the following Brooklyn zip codes. Enter your address at checkout to confirm delivery to your exact location.",
+    "zips": [
+      "11201",
+      "11215",
+      "11217",
+      "11231"
+    ],
+    "source": "/cannabis-delivery-brooklyn/ (verbatim)"
+  },
+  "pickup": {
+    "line": "Shop thoughtfully selected cannabis in store, order ahead for pickup, or get it delivered across Brooklyn.",
+    "lineSource": "home hero (verbatim)",
+    "faq": "Yes. You can shop online, reserve your cannabis products, and pick them up at our Brooklyn dispensary during store hours.",
+    "faqSource": "/brooklyn-dispensary-faqs/ 'Can I order online for pickup?'",
+    "cta": "Shop Now"
+  },
+  "payment": [
+    "Cash (ATM on site)",
+    "Debit Card"
+  ],
+  "paymentSource": "/visit-us/ PAYMENT block",
+  "transit": "Take the 2, 3, 4, 5, R, or F train to Borough Hall / Court Street Station. Our dispensary is just a short walk away.",
+  "transitSource": "/visit-us/ Public Transit",
+  "menu": {
+    "base": "https://getbuzzy.com/menu/",
+    "categories": [
+      {
+        "slug": "flower",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=flower"
+      },
+      {
+        "slug": "pre-rolls",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=pre-rolls"
+      },
+      {
+        "slug": "vapes",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=vaporizers"
+      },
+      {
+        "slug": "edibles",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=edibles"
+      },
+      {
+        "slug": "concentrates",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=concentrates"
+      },
+      {
+        "slug": "tinctures",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=tinctures"
+      },
+      {
+        "slug": "topicals",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=topicals"
+      },
+      {
+        "slug": "accessories",
+        "url": "https://getbuzzy.com/menu/"
+      },
+      {
+        "slug": "drinks",
+        "url": "https://getbuzzy.com/menu/?dtche%5Bcategory%5D=edibles&dtche%5Bsubcategory%5D=drinks"
+      }
+    ],
+    "source": "Dutchie filter links used on the live site (accessories has no filter link there)"
+  },
+  "rewards": {
+    "name": "BUZZY Rewards",
+    "kicker": "JOIN OUR REWARDS PROGRAM",
+    "line": "Get BUZZY and elevate your Buzzy experience with our exclusive deals, rewards & perks.",
+    "cta": "SIGN UP FOR REWARDS",
+    "first": "Your first 5% is calling.",
+    "source": "home rewards band + /rewards/ (verbatim)"
+  },
+  "loyaltyLine": "Get BUZZY and elevate your Buzzy experience with our exclusive deals, rewards & perks.",
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/visitbuzzy/",
+      "handle": "@visitbuzzy"
+    }
+  ],
+  "disclaimer": "For use only by adults 21 years of age and older. Keep out of reach of children and pets. In case of accidental ingestion or overconsumption, contact the National Poison Control Center hotline 1-800-222-1222 or call 9-1-1. Please consume responsibly.",
+  "disclaimerSource": "footer yellow legal bar (verbatim)",
+  "licence": "NY LICENSE #OCM-RETL-25-000285",
+  "copyright": "© 2026 – BUZZY. All rights reserved.",
+  "ageGate": {
+    "question": "are you at least 21?",
+    "yes": "Yes - enter site",
+    "no": "No - leave now",
+    "denied": "Sorry, you must be 21 or older to visit this site.",
+    "source": "live age gate (question and buttons verbatim; the denied line is neutral glue)"
+  },
+  "reviews": null,
+  "reviewsNote": "The live site shows no customer reviews; the adopted structure's Reviews page is omitted (OPEN-DECISIONS A4).",
+  "mapUrlSource": "footer Get Directions link (verbatim)"
+}

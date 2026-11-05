@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-visitor",
+  "file": "assets/generated/g-visitor.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "An open vintage tan leather suitcase rests on a quiet tree-lined brownstone sidewalk in soft morning light, and soft white clouds spill out of it and drift up into the air; brownstone stoops with black iron railings softly out of focus behind; pale sky blue and warm peach light; the suitcase sits in the right third of the frame; calm soft space on the left; no tags, no stickers, no shop fronts, no signs, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "16:9"
+  },
+  "seed": 2340452494,
+  "requestId": "01a1a972-1700-74a0-a1cb-2c221f7320df",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "ef7f4f0d97606effccc89a6fb44e0fa027def3405eb1b43b9f95498674d9297f",
+  "raw": "tmp/img/raw/g-visitor.1793844197081.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:03:18.856Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

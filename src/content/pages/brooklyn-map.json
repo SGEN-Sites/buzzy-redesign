@@ -1,0 +1,48 @@
+{
+ "slug": "brooklyn-map",
+ "path": "/brooklyn-map/",
+ "url": "https://getbuzzy.com/brooklyn-map/",
+ "title": "Brooklyn Neighborhood Map: Local Guide | BUZZY",
+ "description": "Explore BUZZY's Brooklyn neighborhood map featuring favorite local shops, eats, and spots in Cobble Hill. Discover nearby gems and plan your visit today",
+ "canonical": "https://getbuzzy.com/brooklyn-map/",
+ "ogImage": "/assets/photos/bz/mobile-sign.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/mobile-sign.webp",
+ "h1": "BUZZY'S BROOKLYN BESTIES NEIGHBORHOOD MAP",
+ "postId": "1004",
+ "sections": [
+  {
+   "id": "buzzys-brooklyn-besties-neighborhood-map",
+   "src": "6940bed5",
+   "heading": "BUZZY'S BROOKLYN BESTIES NEIGHBORHOOD MAP",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Explore our favorite neighborhood spots — from standout restaurants and cocktail bars to local shops, art, culture, coffee, and community gems all around Brooklyn’s Cobble Hill. Whether you’re visiting Buzzy or spending the day in the neighborhood, use our community map to discover some of the best places to eat, drink, shop, and explore nearby."
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "s2",
+   "src": "89dd381",
+   "heading": "",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Categories"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Shopping &amp; Retail",
+      "Arts &amp; Culture",
+      "Bars and Restaurants",
+      "Coffee Shops &amp; Cafés",
+      "Fitness &amp; Wellness",
+      "Hotels"
+     ]
+    }
+   ]
+  }
+ ]
+}

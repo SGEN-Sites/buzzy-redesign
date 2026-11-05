@@ -1,0 +1,308 @@
+{
+ "slug": "brands",
+ "path": "/brands/",
+ "url": "https://getbuzzy.com/brands/",
+ "title": "Cannabis Brands at BUZZY in Brooklyn, NY - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/brands/",
+ "ogImage": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?q=80&#038;w=1200&#038;auto=format&#038;fit=crop",
+ "ogImageSrc": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?q=80&#038;w=1200&#038;auto=format&#038;fit=crop",
+ "h1": "Cannabis Brands at BUZZY in Brooklyn, NY",
+ "postId": "1703",
+ "sections": [
+  {
+   "id": "cannabis-brands-at-buzzy-in-brooklyn-ny",
+   "src": "container_wtmw8izcv",
+   "heading": "Cannabis Brands at BUZZY in Brooklyn, NY",
+   "blocks": [
+    {
+     "type": "h4",
+     "text": "Brooklyn's Premier Curation"
+    },
+    {
+     "type": "p",
+     "html": "Meet the brands behind BUZZY’s menu. We curate licensed New York cannabis alongside standout makers known for thoughtful cultivation, great flavor, quality ingredients, and products we’re genuinely excited to have on our shelves."
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "Licensed New York Cannabis",
+      "Tested &amp; Labeled",
+      "Pickup &amp; Brooklyn Delivery"
+     ]
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#directory\"> Explore Brand Directory </a>",
+     "role": "link"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "shop-brooklyns-finest-cannabis",
+   "src": "container_9tu39pf7b",
+   "heading": "Shop Brooklyn's Finest Cannabis",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Select a category to explore our curated dispensary menu and find your perfect vibe."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#gummies-edibles\"> Gummies &amp; Edibles </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#vapes-concentrates\"> Vapes &amp; Concentrates </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#flower-pre-rolls\"> Flower &amp; Pre-Rolls </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#cannabis-beverages\"> Cannabis Beverages </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#tinctures-topicals\"> Tinctures &amp; Topicals </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#vaporizers-accessories\"> Vaporizers &amp; Accessories </a>",
+     "role": "link"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "good-stuff-carefully-chosen",
+   "src": "container_wgwacoc85",
+   "heading": "Good Stuff, Carefully Chosen.",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "OUR CURATION STANDARD",
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "We hand-select every product on our shelves with a strict eye for clean production, pure experiences, and outstanding execution. If it doesn't meet our exacting standards for ingredients, craftsmanship, and overall delight, it doesn't make the cut."
+    },
+    {
+     "type": "p",
+     "html": "Quality &amp; Consistency"
+    },
+    {
+     "type": "p",
+     "html": "Thoughtful Ingredients"
+    },
+    {
+     "type": "p",
+     "html": "Interesting Products &amp; Formats"
+    },
+    {
+     "type": "p",
+     "html": "New York Makers"
+    },
+    {
+     "type": "p",
+     "html": "Great Flavor"
+    },
+    {
+     "type": "p",
+     "html": "Brands Doing Something Different"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "find-your-kind-of-cannabis",
+   "src": "container_3jbkaskw3",
+   "heading": "Find Your Kind of Cannabis",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Navigate our curated catalog of Brooklyn’s finest craft cultivators, hand-pressed concentrates, and award-winning formulations designed to elevate your routine."
+    },
+    {
+     "type": "h3",
+     "text": "Artisanal Edibles"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#wyld\">Wyld — Real Fruit Gummies</a>",
+      "<a href=\"#kiva\">Kiva — Artisanal Chocolates</a>",
+      "<a href=\"#camino\">Camino — Mood-Enhancing Chews</a>"
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Boutique Flower"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#lowell\">Lowell Herb Co. — Organic Flights</a>",
+      "<a href=\"#710labs\">710 Labs — Exotic Small Batch</a>",
+      "<a href=\"#jeeter\">Jeeter — Premium Infused Joints</a>"
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Vape & Live Resin"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#pax\">Pax — Smart Pod Systems</a>",
+      "<a href=\"#sherbinskis\">Sherbinskis — Signature Orange Strain</a>",
+      "<a href=\"#rawgarden\">Raw Garden — Clean Terpene Vapes</a>"
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Concentrates"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#710extracts\">710 Labs — Pure Solventless Hash</a>",
+      "<a href=\"#bearlabs\">Bear Labs — High Terpene Extracts</a>",
+      "<a href=\"#stiiizy\">Stiiizy — Curated Live Rosin &amp; Wax</a>"
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Wellness & Topicals"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#papabarkley\">Papa &amp; Barkley — Fast Relief Balms</a>",
+      "<a href=\"#yula\">Yula — Botanical Restorative Drops</a>",
+      "<a href=\"#marys\">Mary's Medicinals — Active Patches</a>"
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Social Beverages"
+    },
+    {
+     "type": "ul",
+     "role": "icon-list",
+     "items": [
+      "<a href=\"#cann\">Cann — Microdosed Social Seltzers</a>",
+      "<a href=\"#wunder\">Wunder — Effervescent Sparklers</a>",
+      "<a href=\"#breez\">Breez — Fast-Acting THC Mints</a>"
+     ]
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "made-in-new-york",
+   "src": "container_rey0b9vna",
+   "heading": "Made in New York",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Crafted with passion from the Empire State's finest soil. From local independent greenhouses in the Hudson Valley to highly sophisticated Brooklyn indoor cultivations, our network of New York growers is redefining premium cannabis. Experience exceptional purity, vibrant terpene profiles, and deep local heritage in every select strain."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#\"> Explore New York Brands </a>",
+     "role": "link"
+    },
+    {
+     "type": "img",
+     "src": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?q=80&w=1200&auto=format&fit=crop",
+     "alt": "Clean premium cannabis packaging on a modern marble countertop in New York"
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "why-shop-brands-at-buzzy",
+   "src": "container_m5zgvq4m8",
+   "heading": "Why Shop Brands at BUZZY?",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "THE BUZZY STANDARD",
+     "role": "kicker"
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "Licensed in New York",
+       "level": 3,
+       "html": "Fully compliant, state-licensed dispensary offering verified, premium-grade New York cannabis brands."
+      },
+      {
+       "title": "Tested & Labeled",
+       "level": 3,
+       "html": "Every product is laboratory tested. Scan the QR code on any brand we carry for real-time dosage and potency profiles."
+      },
+      {
+       "title": "Curated in Cobble Hill",
+       "level": 3,
+       "html": "Our gorgeous flagship dispensary in Brooklyn is designed to make shopping local craft brands relaxing and approachable."
+      },
+      {
+       "title": "Pickup or Brooklyn Delivery",
+       "level": 3,
+       "html": "Skip the line with express in-store pickup, or schedule fast, discreet delivery right to your home in Brooklyn."
+      }
+     ]
+    }
+   ],
+   "headingLevel": 2
+  },
+  {
+   "id": "brooklyns-native-dispensary",
+   "src": "container_y35zy52fd",
+   "heading": "Brooklyn's Native Dispensary",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "See What’s on the Shelf"
+    },
+    {
+     "type": "p",
+     "html": "Our menu rotates daily with fresh, locally-sourced flower, artisanal edibles, and premium vapes. Grown by master cultivators and curated for the Brooklyn lifestyle, there's always something new waiting for you in Cobble Hill."
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#\"> Shop the BUZZY Menu </a>",
+     "role": "link"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#\"> Visit BUZZY in Cobble Hill </a>",
+     "role": "link"
+    },
+    {
+     "type": "img",
+     "src": "https://images.unsplash.com/photo-1536882240095-0379873feb4e?auto=format&fit=crop&w=1000&q=80",
+     "alt": "Premium curated botanical herbs on an aesthetic shelf"
+    }
+   ],
+   "headingLevel": 4
+  }
+ ]
+}

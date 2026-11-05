@@ -1,0 +1,19 @@
+{
+  "tool": "tmp/img (composite)",
+  "slot": "g-cat-prerolls",
+  "file": "assets/generated/g-cat-prerolls.jpg",
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra (empty plinth) + the g-preroll-cut cut-out",
+  "sha256": "a459e06c92ea9489a15287d1e98c2141b03b7b8f01782800f520e43a850b21c3",
+  "width": 2048,
+  "height": 2048,
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempts 1 and 2 rejected (FLUX drew a straight cigarette with a filter-like tip); final = an empty-plinth tile from the same series with the accepted cone pre-roll cut-out composited above it and a soft shadow",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "prompt": "composite: tmp/img/plinth/empty-plinth.jpg (FLUX 1.1 pro ultra, empty white plinth, same series ground) + assets/generated/g-preroll-cut.png"
+}

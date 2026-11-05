@@ -1,0 +1,10 @@
+audit export-ignore
+crawl export-ignore
+docs/BUILD-CONTRACT.md export-ignore
+docs/OPEN-DECISIONS.md export-ignore
+docs/QA.md export-ignore
+docs/RESUME.md export-ignore
+facts export-ignore
+project.json export-ignore
+tmp export-ignore
+fonts-src export-ignore

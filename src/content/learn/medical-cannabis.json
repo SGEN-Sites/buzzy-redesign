@@ -1,0 +1,49 @@
+{
+  "slug": "medical-cannabis",
+  "path": "/education/medical-cannabis/",
+  "order": 3,
+  "title": "Medical Cannabis | BUZZY",
+  "description": "What BUZZY says about medical cards and adult-use shopping, with a pointer to the state medical cannabis program.",
+  "h1": "Medical Cannabis",
+  "kicker": "Medical cards and adult use",
+  "lede": "BUZZY is an adult-use dispensary. Here is what BUZZY says about medical cards, in its own words.",
+  "sections": [
+    {
+      "id": "two-programs",
+      "heading": "Adult use and medical use",
+      "blocks": [
+        { "type": "quote", "html": "Cannabis is legal in New York for medical use and for adult use.", "source": "/is-cannabis-legal-in-new-york/", "sourceTitle": "Is Cannabis Legal in New York? A 2026 Guide to the Rules" }
+      ]
+    },
+    {
+      "id": "medical-card",
+      "heading": "Do I need a medical card to shop at BUZZY?",
+      "blocks": [
+        { "type": "quote", "html": "No. BUZZY is an adult-use cannabis dispensary for customers 21+.", "source": "/brooklyn-dispensary-for-tourists/", "sourceTitle": "Welcome to Brooklyn." },
+        { "type": "quote", "html": "If you are 21 or older, you do not need to be enrolled in New York’s Medical Cannabis Program to shop at an adult-use dispensary. Medical cannabis operates as a separate program with different patient requirements.", "source": "/what-do-you-need-to-buy-weed-brooklyn/", "sourceTitle": "What Do You Need to Buy Weed in Brooklyn? ID, Age & Dispensary Basics" }
+      ]
+    },
+    {
+      "id": "testing",
+      "heading": "Testing before sale",
+      "blocks": [
+        { "type": "quote", "html": "OCM requires cannabis products to pass applicable laboratory testing before sale through licensed adult-use or medical dispensaries.", "source": "/how-to-read-new-york-cannabis-label/", "sourceTitle": "How to Read a New York Cannabis Label" }
+      ]
+    },
+    {
+      "id": "not-medical-advice",
+      "heading": "Not medical advice",
+      "blocks": [
+        { "type": "quote", "html": "We are not healthcare providers. Always consult a qualified healthcare professional before using cannabis, especially if you have a medical condition, are pregnant or nursing, or are taking other medications.", "source": "/terms-of-service/", "sourceTitle": "Terms of Service" }
+      ]
+    },
+    {
+      "id": "state-program",
+      "heading": "The state medical program",
+      "blocks": [
+        { "type": "p", "html": "For the medical cannabis program, see the <a href=\"https://cannabis.ny.gov/medical-cannabis\">New York State Office of Cannabis Management</a>." }
+      ]
+    }
+  ],
+  "related": ["what-do-you-need-to-buy-weed-brooklyn", "is-weed-legal-in-new-york-brooklyn-guide", "is-cannabis-legal-in-new-york", "how-to-read-new-york-cannabis-label", "first-time-brooklyn-dispensary-what-to-expect"]
+}

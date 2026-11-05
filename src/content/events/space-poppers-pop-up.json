@@ -1,0 +1,150 @@
+{
+ "slug": "space-poppers-pop-up",
+ "path": "/event/space-poppers-pop-up/",
+ "url": "https://getbuzzy.com/event/space-poppers-pop-up/",
+ "title": "Space Poppers Pop-Up - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/space-poppers-pop-up/",
+ "ogImage": "/assets/photos/bz/b_2.png",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/B_2.png",
+ "h1": "Space Poppers Pop-Up",
+ "postId": "2360",
+ "startISO": "2026-10-28T16:00:00-04:00",
+ "endISO": "2026-10-28T19:00:00-04:00",
+ "dateText": "October 28",
+ "timeText": "4:00 pm - 7:00 pm",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "",
+ "categorySlug": "",
+ "categories": [],
+ "image": {
+  "src": "/assets/photos/bz/b_2.webp",
+  "w": 988,
+  "h": 650,
+  "alt": ""
+ },
+ "eventDescription": "Space Poppers is landing at BUZZY on Wednesday, October 28th from 4pm to 7pm. Stop by to meet the team, hear what goes into their lineup, and get a few […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/space-poppers-pop-up/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-21T00:00:00+00:00"
+ },
+ "html": "<p>Space Poppers is landing at BUZZY on Wednesday, October 28th from 4pm to 7pm.</p>\n<p>Stop by to meet the team, hear what goes into their lineup, and get a few pointers on finding your pick.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "Tuesday Treats at BUZZY",
+   "href": "https://getbuzzy.com/event/tuesday-treats-at-buzzy-oct-27/"
+  },
+  {
+   "text": "High Priestess Pop-Up + Preroll Pack Deal",
+   "href": "https://getbuzzy.com/event/high-priestess-pop-up-preroll-pack-deal/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "space-poppers-pop-up",
+   "src": "4d8f4efa",
+   "heading": "Space Poppers Pop-Up",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 28",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "@",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "4:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "-",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "7:00 pm",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/b_2.webp",
+     "alt": "",
+     "w": 988,
+     "h": 650,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/B_2.webp"
+    },
+    {
+     "type": "p",
+     "html": "Space Poppers is landing at BUZZY on Wednesday, October 28th from 4pm to 7pm."
+    },
+    {
+     "type": "p",
+     "html": "Stop by to meet the team, hear what goes into their lineup, and get a few pointers on finding your pick."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

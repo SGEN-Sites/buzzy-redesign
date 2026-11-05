@@ -1,0 +1,59 @@
+{
+ "slug": "careers",
+ "path": "/careers/",
+ "url": "https://getbuzzy.com/careers/",
+ "title": "Careers: Join Our Team in Brooklyn | BUZZY",
+ "description": "Join the team at BUZZY, a minority- and woman-owned cannabis dispensary in Cobble Hill, Brooklyn. Explore open career opportunities and apply today.",
+ "canonical": "https://getbuzzy.com/careers/",
+ "ogImage": "/assets/photos/bz/buzzy-interior-drawingcrop.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2025/11/buzzy-interior-drawingCrop.webp",
+ "h1": "Careers at Buzzy: Join Our Brooklyn Cannabis Dispensary Team",
+ "postId": "113",
+ "sections": [
+  {
+   "id": "careers-at-buzzy-join-our-brooklyn-cannabis-dispensary-team",
+   "src": "f5ae938",
+   "heading": "Careers at Buzzy: Join Our Brooklyn Cannabis Dispensary Team",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "Buzzy is a premier retail cannabis dispensary<br>located in Cobble Hill, Brooklyn, NY."
+    },
+    {
+     "type": "p",
+     "html": "Led by a local team with world-class expertise in cannabis operations and lifestyle and hospitality brand development, Buzzy is committed to providing an approachable and highly curated cannabis experience, setting the bar for cannabis retail in NY. With deeply embedded relationships in its neighborhood and as a minority/woman-owned business, Buzzy is dedicated to contributing positively to the communities it serves."
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-interior-drawingcrop.webp",
+     "alt": "Interior drawing of Buzzy dispensary in Cobble Hill, Brooklyn, showcasing a curated selection of cannabis",
+     "w": 511,
+     "h": 616,
+     "orig": "https://getbuzzy.com/wp-content/uploads/2025/11/buzzy-interior-drawingCrop.webp"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "open-positions-at-buzzy",
+   "src": "01aec2c",
+   "heading": "OPEN POSITIONS AT BUZZY",
+   "blocks": [
+    {
+     "type": "h3",
+     "text": "Dispensary Associate"
+    },
+    {
+     "type": "p",
+     "html": "BUZZY is an independently owned dispensary located in Cobble Hill, Brooklyn. We are focused on curating positive experiences for the surrounding area, developing a quality-driven menu assortment and building a team that is passionate about cannabis. Fostering a positive environment is our primary goal. Join our team!"
+    },
+    {
+     "type": "button",
+     "text": "APPLY NOW",
+     "href": "https://docs.google.com/forms/d/e/1FAIpQLSe6vnxCGz1JvBRxdXFwPHnCbHY6QQdiD--NR16E7ukC2NGcFQ/viewform?usp=header"
+    }
+   ],
+   "headingLevel": 3
+  }
+ ]
+}

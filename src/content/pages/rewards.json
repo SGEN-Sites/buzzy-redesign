@@ -1,0 +1,351 @@
+{
+ "slug": "rewards",
+ "path": "/rewards/",
+ "url": "https://getbuzzy.com/rewards/",
+ "title": "Buzzy Rewards Program & Loyalty Perks in Brooklyn, NY",
+ "description": "Join BUZZY Rewards at our Cobble Hill dispensary to earn points on every purchase and unlock exclusive perks, discounts, and member events. Sign up today.",
+ "canonical": "https://getbuzzy.com/rewards/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Get BUZZY. Get rewarded.",
+ "postId": "18",
+ "sections": [
+  {
+   "id": "get-buzzy-get-rewarded",
+   "src": "a5cd687",
+   "heading": "Get BUZZY. Get rewarded.",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "BUZZY Rewards · Free to join",
+     "role": "kicker"
+    },
+    {
+     "type": "p",
+     "html": "<strong>Get Buzzy and elevate your BUZZY experience with our exclusive deals, rewards &amp; perks.</strong>"
+    },
+    {
+     "type": "button",
+     "text": "Join & save 5%",
+     "href": "#reward-form"
+    },
+    {
+     "type": "button",
+     "text": "Explore the perks",
+     "href": "#welcome"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Takes 30 seconds",
+      "No card. It lives in your phone wallet",
+      "In store + online"
+     ]
+    },
+    {
+     "type": "p",
+     "html": "First three visits"
+    },
+    {
+     "type": "h2",
+     "text": "Three visits. Three reasons to love BUZZY."
+    },
+    {
+     "type": "p",
+     "html": "Good things happen when you come back. Enjoy a little extra savings on each of your first three visits."
+    },
+    {
+     "type": "p",
+     "html": "1st Purchase"
+    },
+    {
+     "type": "p",
+     "html": "5% off"
+    },
+    {
+     "type": "p",
+     "html": "The day you join, in store or on your first online order."
+    },
+    {
+     "type": "p",
+     "html": "2nd Purchase"
+    },
+    {
+     "type": "p",
+     "html": "10% off"
+    },
+    {
+     "type": "p",
+     "html": "Your next visit to Court St., or your next pickup or delivery."
+    },
+    {
+     "type": "p",
+     "html": "3rd Purchase"
+    },
+    {
+     "type": "p",
+     "html": "15% off"
+    },
+    {
+     "type": "p",
+     "html": "The biggest one. Then your points take over."
+    },
+    {
+     "type": "p",
+     "html": "The more you shop, the more you get"
+    },
+    {
+     "type": "h2",
+     "text": "Your points. Your pick."
+    },
+    {
+     "type": "p",
+     "html": "<strong>$1 spent = 1 point.</strong> Every dollar spent earns you a point. Save them up, cash them in, and treat yourself to something good."
+    },
+    {
+     "type": "p",
+     "html": "100PTS"
+    },
+    {
+     "type": "p",
+     "html": "Spend $100, take $12 off. Your first reward comes fast."
+    },
+    {
+     "type": "p",
+     "html": "$12 off"
+    },
+    {
+     "type": "p",
+     "html": "300PTS"
+    },
+    {
+     "type": "p",
+     "html": "Stock up for the month and save on the next one."
+    },
+    {
+     "type": "p",
+     "html": "$25 off"
+    },
+    {
+     "type": "p",
+     "html": "500PTS"
+    },
+    {
+     "type": "p",
+     "html": "For the regulars who know the menu by heart."
+    },
+    {
+     "type": "p",
+     "html": "$40 off"
+    },
+    {
+     "type": "p",
+     "html": "750PTS"
+    },
+    {
+     "type": "p",
+     "html": "Pick anything from our rewards selection."
+    },
+    {
+     "type": "p",
+     "html": "Free product"
+    },
+    {
+     "type": "button",
+     "text": "Start earning",
+     "href": "#reward-form"
+    },
+    {
+     "type": "h2",
+     "text": "A little extra love from BUZZY."
+    },
+    {
+     "type": "p",
+     "html": "Because being part of the neighborhood should come with perks."
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "Birthday love",
+       "level": 3,
+       "html": "🎂<br>A free product to celebrate your birthday, picked from our birthday selection. Just add your birthday when you join."
+      },
+      {
+       "hiddenOn": [
+        "desktop",
+        "mobile",
+        "tablet"
+       ],
+       "title": "Good friends. Good perks.",
+       "level": 3,
+       "html": "🤝<br>Bring a friend into the BUZZY family and get 25 points as a thank-you."
+      },
+      {
+       "title": "Be first in the know",
+       "level": 3,
+       "html": "⚡<br>Fresh drops, special events and neighborhood happenings, straight to you."
+      },
+      {
+       "title": "Perks in your pocket",
+       "level": 3,
+       "html": "📱<br>Add BUZZY Rewards to Apple Wallet or Google Wallet. No extra app, no extra hassle."
+      }
+     ]
+    },
+    {
+     "type": "h2",
+     "text": "Start earning with BUZZY"
+    },
+    {
+     "type": "cards",
+     "items": [
+      {
+       "title": "Join in seconds",
+       "level": 3,
+       "html": "Fill out the quick form on this page from your phone to join BUZZY Rewards."
+      },
+      {
+       "title": "Add to your mobile wallet",
+       "level": 3,
+       "html": "Save your BUZZY pass to Apple Wallet or Google Wallet. No physical card needed."
+      },
+      {
+       "title": "Shop & unlock perks",
+       "level": 3,
+       "html": "Earn points every time you shop and redeem them for rewards on select products at BUZZY."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "html": "Free · 21+"
+    },
+    {
+     "type": "h2",
+     "text": "Your first 5% is calling."
+    },
+    {
+     "type": "p",
+     "html": "Join BUZZY Rewards for free and unlock 5% off your first visit. More savings and perks are just around the corner."
+    },
+    {
+     "type": "embed",
+     "kind": "alpineiq",
+     "src": "https://lab.alpineiq.com/join/c/5058/111458",
+     "note": "",
+     "w": 600,
+     "h": 800
+    },
+    {
+     "type": "p",
+     "html": "Must be 21+ with a valid ID. Rewards can’t be exchanged for cash. Program terms may change."
+    },
+    {
+     "type": "h2",
+     "text": "Questions, answered"
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "How do I join?",
+       "a_html": "<p>Fill out the form on this page, or ask any budtender at 137 Court St. It's free and takes about 30 seconds. You must be 21+.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "How do the welcome discounts work?",
+       "a_html": "<p>You get 5% off the day you join, 10% off your second visit and 15% off your third. In store, it's applied at checkout. Online, your 5% applies to your first order after you sign up. Rewards discounts can't be combined with other discounts or promotions.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "How do I earn points?",
+       "a_html": "<p>Every $1 you spend before tax earns 1 point, in store and online. Points build automatically on eligible cannabis purchases.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "What can I redeem points for?",
+       "a_html": "<p>100 points = $12 off, 300 points = $25 off, 500 points = $40 off and 750 points = a free product from our rewards selection. Redeem at checkout in store or on eligible pickup and delivery orders.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "What's the birthday reward?",
+       "a_html": "<p>A free product from our birthday selection. Add your birthday when you sign up and we'll email you when it's time to pick yours.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "How does refer-a-friend work?",
+       "a_html": "<p>Share your referral link with a friend. When they join BUZZY Rewards, you get 50 points.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "How do I check my points?",
+       "a_html": "<p>Open your BUZZY Rewards pass in Apple Wallet or Google Wallet. It shows your balance and your next reward. Any budtender can look it up too.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "Do points expire?",
+       "a_html": "<p>Your points stay active as long as you make a qualifying purchase at least once every 12 months.</p>"
+      }
+     ]
+    },
+    {
+     "type": "faq",
+     "items": [
+      {
+       "q": "Can I combine rewards with other deals?",
+       "a_html": "<p>Usually, yes. Some brand specials and clearance deals have redemption limits, and your budtender will let you know at checkout.</p>"
+      }
+     ]
+    },
+    {
+     "type": "h2",
+     "text": "Good perks. Great company. All BUZZY."
+    },
+    {
+     "type": "p",
+     "html": "Join for free. Save on your first three visits. Keep earning every time you shop."
+    },
+    {
+     "type": "button",
+     "text": "Join & save 5%",
+     "href": "#reward-form"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"#reward-form\">Join &amp; save 5%</a>",
+     "role": "link"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

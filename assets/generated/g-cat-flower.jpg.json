@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "g-cat-flower",
+  "file": "assets/generated/g-cat-flower.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of BUZZY, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Square studio still life, one of a consistent series: a single cured cannabis flower bud, dense and frosty with sparkling white trichomes and curly orange pistils, sage and olive green, floats in mid-air above a plain white cylindrical plinth, casting a long soft shadow across the plinth top; seamless pale sky blue ground warming to soft peach at the bottom; object centred, plinth in the lower third, wide even margins all round, Photoreal high-end render with the finish of a fine art photograph, surreal yet calm and quiet, soft diffuse morning light, crisp focus, clean modern minimal composition, generous negative space. Absolutely no text, no letters, no numbers, no writing, no labels, no logos, no brand marks, no signage anywhere in the image. No people, no faces, no hands, no animals.",
+  "input": {
+    "output_format": "jpeg",
+    "safety_tolerance": "5",
+    "aspect_ratio": "1:1"
+  },
+  "seed": 1433887609,
+  "requestId": "01a1a971-a65f-7122-ae83-d71dad1f0aa8",
+  "cutout": null,
+  "width": 2048,
+  "height": 2048,
+  "sha256": "f35ba655729790d845d8126cf90a9640efb9553f251ace343c2a7cd06c96b071",
+  "raw": "tmp/img/raw/g-cat-flower.1793844169956.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-11-05T02:02:52.189Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "accepted on first generation",
+    "reviewedBy": "IMAGERY lane, by eye (full frame and contact sheets)",
+    "at": "2026-11-05T03:00:53.476042+00:00"
+  },
+  "provider": "fal.ai",
+  "modelFamily": "FLUX 1.1 pro ultra"
+}

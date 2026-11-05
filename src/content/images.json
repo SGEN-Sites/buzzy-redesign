@@ -1,0 +1,23 @@
+{
+  "photos": {},
+  "media": {
+    "hero-dream": {
+      "mp4": "/assets/media/hero-dream.mp4",
+      "mp4Small": "/assets/media/hero-dream-sm.mp4",
+      "poster": "/assets/media/hero-dream.webp",
+      "posterSmall": "/assets/media/hero-dream-sm.webp",
+      "posterJpg": "/assets/media/hero-dream.jpg",
+      "posterSmallJpg": "/assets/media/hero-dream-sm.jpg",
+      "w": 1920,
+      "h": 1072,
+      "wSmall": 720,
+      "hSmall": 1080,
+      "duration": 5.0,
+      "fps": 24,
+      "audio": false,
+      "alt": "",
+      "use": "Home hero: muted autoplay loop, playsinline, aria-hidden, the still (g-hero-dream) under it first, hidden under reduced motion, visible pause toggle, start after window load. Poster = frame 0.",
+      "note": "AI-generated illustrative motion (fal.ai Kling 2.1 standard image-to-video from g-hero-dream): clouds drift around a floating brownstone stoop. Not footage of BUZZY or any real place. The phone file is a 2:3 crop (x 49.5% to 86.7%) chosen on the motion."
+    }
+  }
+}

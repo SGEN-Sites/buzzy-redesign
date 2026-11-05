@@ -1,0 +1,146 @@
+{
+ "slug": "lead-farmer-day-save-20-on-lead-farmer",
+ "path": "/event/lead-farmer-day-save-20-on-lead-farmer/",
+ "url": "https://getbuzzy.com/event/lead-farmer-day-save-20-on-lead-farmer/",
+ "title": "Lead Farmer Day: Save 20% on Lead Farmer - Buzzy",
+ "description": "",
+ "canonical": "https://getbuzzy.com/event/lead-farmer-day-save-20-on-lead-farmer/",
+ "ogImage": "/assets/photos/bz/buzzy-bingo-event-lead-farmer-day.webp",
+ "ogImageSrc": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-lead-farmer-day.webp",
+ "h1": "Lead Farmer Day: Save 20% on Lead Farmer",
+ "postId": "1939",
+ "startISO": "2026-10-30T00:00:00-04:00",
+ "endISO": "2026-10-30T23:59:59-04:00",
+ "dateText": "October 30",
+ "timeText": "",
+ "venue": "Buzzy Dispensary",
+ "address": "137 Court Street, Brooklyn, NY 11201",
+ "venueShown": [
+  "137 Court Street Brooklyn, NY 11201 United States",
+  "+ Google Map",
+  "(718) 252-8999",
+  "View Venue Website"
+ ],
+ "category": "",
+ "categorySlug": "",
+ "categories": [],
+ "image": {
+  "src": "/assets/photos/bz/buzzy-bingo-event-lead-farmer-day.webp",
+  "w": 1550,
+  "h": 875,
+  "alt": "Lead Farmer Day at BUZZY"
+ },
+ "eventDescription": "It’s Lead Farmer day at BUZZY! On Friday, October 30th, save 20% on all Lead Farmer products at our Court Street shop. Stock up before Halloween weekend and ask our […]",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD",
+  "url": "https://getbuzzy.com/event/lead-farmer-day-save-20-on-lead-farmer/",
+  "category": "primary",
+  "availability": "inStock",
+  "validFrom": "2026-10-02T00:00:00+00:00"
+ },
+ "html": "<p>It’s Lead Farmer day at BUZZY! On Friday, October 30th, save 20% on all Lead Farmer products at our Court Street shop.</p>\n<p>Stock up before Halloween weekend and ask our budtenders for their favorite picks.</p>\n<p>Open to adults 21+ with valid ID.</p>",
+ "adjacent": [
+  {
+   "text": "High Priestess Pop-Up + Preroll Pack Deal",
+   "href": "https://getbuzzy.com/event/high-priestess-pop-up-preroll-pack-deal/"
+  },
+  {
+   "text": "Halloween at BUZZY with Umamii",
+   "href": "https://getbuzzy.com/event/halloween-at-buzzy-with-umamii/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "lead-farmer-day-save-20-on-lead-farmer",
+   "src": "4d8f4efa",
+   "heading": "Lead Farmer Day: Save 20% on Lead Farmer",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "This event has passed.",
+     "role": "event-status"
+    },
+    {
+     "type": "p",
+     "html": "October 30",
+     "role": "event-datetime"
+    },
+    {
+     "type": "p",
+     "html": "Free",
+     "role": "event-cost"
+    },
+    {
+     "type": "img",
+     "src": "/assets/photos/bz/buzzy-bingo-event-lead-farmer-day.webp",
+     "alt": "Lead Farmer Day at BUZZY",
+     "w": 1550,
+     "h": 875,
+     "role": "featured",
+     "orig": "https://getbuzzy.com/wp-content/uploads/2026/10/buzzy-bingo-event-lead-farmer-day.webp"
+    },
+    {
+     "type": "p",
+     "html": "It’s Lead Farmer day at BUZZY! On Friday, October 30th, save 20% on all Lead Farmer products at our Court Street shop."
+    },
+    {
+     "type": "p",
+     "html": "Stock up before Halloween weekend and ask our budtenders for their favorite picks."
+    },
+    {
+     "type": "p",
+     "html": "Open to adults 21+ with valid ID."
+    },
+    {
+     "type": "h2",
+     "text": "BUZZY"
+    },
+    {
+     "type": "h4",
+     "text": "Phone:"
+    },
+    {
+     "type": "h4",
+     "text": "Website:"
+    },
+    {
+     "type": "h4",
+     "text": "Email:"
+    },
+    {
+     "type": "h3",
+     "text": "Buzzy Dispensary"
+    },
+    {
+     "type": "p",
+     "html": "137 Court Street<br>Brooklyn, NY 11201 United States",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=137+Court+Street+Brooklyn+NY+11201+United+States\" target=\"_blank\">+ Google Map</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"tel:(718)252-8999\"> (718) 252-8999 </a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "p",
+     "html": "<a href=\"https://getbuzzy.com/\">View Venue Website</a>",
+     "role": "event-venue"
+    },
+    {
+     "type": "embed",
+     "kind": "map",
+     "src": "https://www.google.com/maps/embed/v1/place?q=137+Court+Street+Brooklyn+NY+NY+11201+United+States+&zoom=15",
+     "note": "Google maps iframe displaying the address to Buzzy Dispensary"
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

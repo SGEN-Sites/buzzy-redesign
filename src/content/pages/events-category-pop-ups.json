@@ -1,0 +1,40 @@
+{
+ "slug": "events-category-pop-ups",
+ "path": "/events/category/pop-ups/",
+ "url": "https://getbuzzy.com/events/category/pop-ups/",
+ "title": "Cannabis Brand Pop-Ups & Events in Brooklyn, NY | BUZZY",
+ "description": "BUZZY Brand Pop-Ups in Brooklyn: Discover upcoming events, meet cannabis brand reps, and explore exclusive product showcases.",
+ "canonical": "https://getbuzzy.com/events/category/pop-ups/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Upcoming Cannabis Brand Pop-Up Events at Buzzy Brooklyn",
+ "postId": "",
+ "sections": [
+  {
+   "id": "upcoming-cannabis-brand-pop-up-events-at-buzzy-brooklyn",
+   "src": "",
+   "heading": "Upcoming Cannabis Brand Pop-Up Events at Buzzy Brooklyn",
+   "blocks": [
+    {
+     "type": "ol",
+     "items": [
+      "<a href=\"https://getbuzzy.com/events/\"> Events </a>",
+      "Brand Pop-Ups"
+     ]
+    },
+    {
+     "type": "ul",
+     "items": [
+      "November 2026",
+      "<a href=\"https://getbuzzy.com/event/pixie-pop-up-2/\"> Pixie Pop-Up </a> November 5 @ 4:00 pm - 7:00 pm Buzzy Dispensary 137 Court Street, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/off-hours-pop-up-2/\"> Off Hours Pop-Up </a> November 14 @ 3:00 pm - 6:00 pm Buzzy Dispensary 137 Court Street, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/major-pop-up/\"> MAJOR Pop-Up </a> November 20 @ 4:00 pm - 7:00 pm Buzzy Dispensary 137 Court Street, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/green-wednesday-umamii-pop-up/\"> Green Wednesday Umamii Pop-Up </a> November 25 @ 3:00 pm - 7:00 pm Buzzy Dispensary 137 Court Street, Brooklyn, NY, United States Free",
+      "<a href=\"https://getbuzzy.com/event/preferred-gardens-runtz-doobie-labs-strain-gang-pop-up/\"> Preferred Gardens, Runtz, Doobie Labs + Strain Gang Pop-Up </a> November 27 @ 5:00 pm - 8:00 pm Buzzy Dispensary 137 Court Street, Brooklyn, NY, United States Free"
+     ]
+    }
+   ],
+   "headingLevel": 1
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "cannabis-delivery-brooklyn-map",
+ "path": "/cannabis-delivery-brooklyn-map/",
+ "url": "https://getbuzzy.com/cannabis-delivery-brooklyn-map/",
+ "title": "Brooklyn Cannabis Delivery Zones & Map | BUZZY Dispensary",
+ "description": "Check BUZZY's live Brooklyn weed delivery map. See delivery zip codes, estimated arrival times (60–90 min), and our $80 order minimum across Brooklyn.",
+ "canonical": "https://getbuzzy.com/cannabis-delivery-brooklyn-map/",
+ "ogImage": "",
+ "ogImageSrc": "",
+ "h1": "Brooklyn Cannabis Delivery Zones & Service Map",
+ "postId": "1375",
+ "sections": [
+  {
+   "id": "brooklyn-cannabis-delivery-zones-service-map",
+   "src": "container_4llc5pva9",
+   "heading": "Brooklyn Cannabis Delivery Zones & Service Map",
+   "blocks": [
+    {
+     "type": "h2",
+     "text": "Real-Time Delivery Tracking • Dispatched from Court St, Brooklyn"
+    },
+    {
+     "type": "p",
+     "html": "Looking for fast, legal cannabis delivery in Brooklyn? Use our interactive delivery zone map and neighborhood list below to check your address, view estimated delivery windows (typically 60–90 minutes), and order directly to your door."
+    },
+    {
+     "type": "embed",
+     "kind": "mymaps",
+     "src": "https://www.google.com/maps/d/embed?mid=1XH4l5-SFLuZnyVkv8yGHBUnbLeVzQk4&ehbc=2E312F",
+     "note": "",
+     "w": 12000,
+     "h": 1000
+    },
+    {
+     "type": "button",
+     "text": "Check My Address & Order Menu",
+     "href": "#menu"
+    }
+   ],
+   "headingLevel": 1
+  },
+  {
+   "id": "neighborhoods-we-deliver-to",
+   "src": "container_wjxybyzzr",
+   "heading": "Neighborhoods We Deliver To:",
+   "blocks": [
+    {
+     "type": "p",
+     "html": "READY? WE DELIVER.",
+     "role": "kicker"
+    },
+    {
+     "type": "h4",
+     "text": "DUMBO, Brooklyn Heights, Cobble Hill, Downtown Brooklyn, Fort Greene, Clinton Hill, Boerum Hill, Carroll Gardens, Park Slope, Prospect Heights, & South Slope",
+     "level": 5
+    },
+    {
+     "type": "p",
+     "html": "<strong>Order BUZZY delivery and get flower, edibles, vapes, and more delivered to your South Brooklyn door — no fee, 60–90 minutes, live tracking.</strong>"
+    },
+    {
+     "type": "button",
+     "text": "Order for Delivery",
+     "href": "#order-delivery"
+    },
+    {
+     "type": "p",
+     "html": "9am–9pm daily · Free delivery · $80 minimum · Delivered by the BUZZY team"
+    },
+    {
+     "type": "p",
+     "html": "Cobble Hill · Brooklyn Heights · Boerum Hill · Carroll Gardens · Downtown Brooklyn · Gowanus"
+    }
+   ],
+   "headingLevel": 3
+  }
+ ]
+}
