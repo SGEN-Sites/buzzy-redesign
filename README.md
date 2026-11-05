@@ -21,8 +21,8 @@ send nothing.
   motion. See [docs/DESIGN.md](docs/DESIGN.md).
 - **Imagery.** BUZZY's own photography, illustration and brand banners, plus AI-generated illustrative stills, each
   labelled as AI-generated in its metadata and listed in [docs/MEDIA.md](docs/MEDIA.md). None of those stills shows
-  BUZZY's store, staff, customers, products or brands. The home hero is the one exception: BUZZY's own drawing of its
-  store, unchanged, with a generated canvas around it and generated motion on it, labelled the same way.
+  BUZZY's store, staff, customers, products or brands. The home hero is a stock time-lapse of the Brooklyn and Manhattan
+  Bridges, upscaled with AI and labelled as such; it is not footage of BUZZY.
 
 ## Build
 

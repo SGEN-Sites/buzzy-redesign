@@ -222,21 +222,23 @@
     }, 2500);
   }
 
-  /* ---------------- home hero: the copy panel's height jumps as its text wraps, so measure it and keep BUZZY's sign lamps
-     (30.5% down the art) just clear of the panel. --hero-window then lands the service cards at the door's foot. The
-     stage is absolutely placed, so this moves the picture and never the layout. ---------------- */
-  var hHero = document.getElementById('h-hero');
+  /* ---------------- home hero below 1024px: the picture sits between the copy and the tickets. The copy panel's height jumps
+     as its text wraps, so measure it and keep the picture's 32% line (the sky above it is the calm part) at the panel's foot.
+     The stage is absolutely placed, so this moves the picture and never the layout. ---------------- */
+  var hHero = doc.getElementById('h-hero');
   var hCopy = hHero && hHero.querySelector('.h-hero__copy');
   if (hHero && hCopy && hHero.querySelector('.h-hero__stage')) {
+    var heroStackMq = mq('(max-width: 1023px)');
+    var heroPhoneMq = mq('(max-width: 720px)');
     var placeArt = function () {
+      if (!heroStackMq.matches) { hHero.style.removeProperty('--art-shift'); return; }
       var h = hHero.getBoundingClientRect(), c = hCopy.getBoundingClientRect();
-      var phone = window.matchMedia('(max-width: 720px)').matches;
-      var artH = h.width * (phone ? 644 / 800 : 1080 / 1920);
-      hHero.style.setProperty('--art-shift', Math.round(c.bottom - h.top + (phone ? 12 : 24) - 0.305 * artH) + 'px');
+      var artH = h.width * (heroPhoneMq.matches ? 5 / 6 : 9 / 16);
+      hHero.style.setProperty('--art-shift', Math.round(c.bottom - h.top + 8 - 0.32 * artH) + 'px');
     };
     placeArt();
     window.addEventListener('resize', placeArt);
-    if (document.fonts && document.fonts.ready) document.fonts.ready.then(placeArt);
+    if (doc.fonts && doc.fonts.ready) doc.fonts.ready.then(placeArt);
   }
 
   /* ---------------- parallax ([data-depth="0.15"]: rAF, the translate property only, while on screen) ---------------- */

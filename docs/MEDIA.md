@@ -4,13 +4,13 @@ Every image in `assets/generated/` is AI-generated illustrative imagery made for
 only. None of it is a photograph or footage of BUZZY, its store, staff, customers, products or brands, and none of it
 depicts a real place. Product-like objects (buds, pre-rolls, jars, bottles) are generic and unbranded.
 
-The files in `assets/media/` are the one exception: they are the home hero, built on BUZZY's own illustration of its
-Court Street store (see "The home hero" below). The illustration is BUZZY's; the canvas around it and the motion are
-AI-generated, and neither is a photograph or footage of BUZZY.
+The files in `assets/media/` are the home hero, and they are different: a stock time-lapse of the Brooklyn and Manhattan
+Bridges at night, supplied for this pitch at 1280x720 (see "The home hero" below). It is camera footage enhanced by an AI
+upscaler, not AI-generated imagery, and it does not show BUZZY, its store, staff, customers, products or brands.
 
-Each generated still carries the IPTC `trainedAlgorithmicMedia` digital source type in its XMP metadata; the videos
-carry the same note in their container tags, and the WebP and JPEG hero stills carry the XMP label. BUZZY's own
-photographs live in `assets/photos/` and are not covered by this file.
+Each generated still carries the IPTC `trainedAlgorithmicMedia` digital source type in its XMP metadata. The hero's stills
+carry `algorithmicallyEnhanced` in theirs, and its videos say the same in their container tags. BUZZY's own photographs
+live in `assets/photos/` and are not covered by this file.
 
 Prompts, alt text and calm areas for every id: `src/content/image-plan.json`.
 
@@ -48,19 +48,21 @@ cropped), cut-outs transparent PNG trimmed to the subject. The build encodes Web
 
 ## The home hero
 
-| File | What it shows | Made with | Provider |
-|---|---|---|---|
-| `assets/media/hero-buzzy.webp` / `.jpg` (1920x2574), `hero-buzzy-sm.webp` / `.jpg` (800x1537, a narrower crop) | The tall canvas behind the hero, from the nav to the next section break. BUZZY's illustration (the getbuzzy.com home background, used without its white fade) stays unchanged in its own rectangle. Above it: more of the same building with a cornice, more tree canopy, more sky. Below it: the sidewalk, the base of the street pole, the curb and the street holding the sunset light. Those painted parts are illustrative and do not show BUZZY's real building or street | Nano Banana Pro, image edit, fitted to the art with BUZZY's pixels restored over their rectangle | fal.ai; the illustration is from getbuzzy.com |
-| `assets/media/hero-buzzy.mp4` (1920x1080), `hero-buzzy-sm.mp4` (800x644, the crop that keeps the flock, the signs and the awning) | The illustration brought to life: a flock of birds crosses the sunset sky, wind moves the street tree and its leaves fall, the two BUZZY signs flicker. The building, signs and lettering stay as drawn. A 7.75 second seamless loop, no audio | Kling 3.0 pro, image to video, with the illustration as both the first and the last frame | fal.ai |
+| File | What it is | Served to |
+|---|---|---|
+| `assets/media/hero-bridges.mp4` | 1920x1080, 29.97 fps, an 8 second seamless loop, no audio, 7.4 MB | Most desktop and tablet screens |
+| `assets/media/hero-bridges-hd.mp4` | The same at 2560x1440, 10.2 MB | Screens wider than 1920 px, and desktop screens of 1.6x pixel density or more |
+| `assets/media/hero-bridges-sm.mp4` | 1008x840, a 6:5 crop that keeps the left tower, the span and the midtown skyline, 1.5 MB | Phones, up to 720 px wide |
+| `assets/media/hero-bridges.webp` / `.jpg`, `hero-bridges-sm.webp` / `.jpg` | The loop's first frame | Shown first, and instead of the video under reduced motion |
 
-How the loop was made: the clip starts and ends on the illustration, but its motion gathers in the middle (birds,
-leaves, wind) and its brightness drifts by about one level. `tools/loop/kling-loop.py` keeps that middle at normal
-speed, plays the calm opening and ending at double speed, ramps the drift out and folds the last 10 frames into the
-first, so the loop wraps with no jump; the change between frames stays under 1.1 grey levels (no flashing).
+How it was made: the 1280x720 clip was upscaled to 3840x2160 with Topaz Gaia HQ on fal.ai, a non-generative enhancement. Gaia
+HQ was chosen over Proteus and Artemis HQ on a 2 second test: it stayed the most faithful to the source (SSIM 0.993 against
+0.968 and 0.991, scaled back to 720p) and the steadiest on static buildings, where the others shimmer more. Over all 314
+frames the master scores SSIM 0.994 against its source. The served 1080p file has 1.5 times, and the 1440p file 1.8 times, the
+edge detail of a plain enlargement of the same frame. An original 4K master of the same clip would still be better.
 
-How the canvas was made: a model that extends a picture also redraws its middle, so `tools/loop/hero-register.py` fits
-the generated picture to the illustration, `tools/loop/hero-compose.py` restores BUZZY's exact pixels over their
-rectangle with a soft edge on the sidewalk and the upper wall, and `tools/loop/hero-canvas.py` cuts and labels the
-files. The video sits registered on that rectangle and its mask fades it out before the soft edges begin, so it only
-ever overlaps BUZZY's own art. The page shows the still first, starts the video after load, hides it under reduced
-motion and gives it a pause toggle.
+`tools/loop/hero-bridges.py` cuts the loop from that master: frames 30 to 270, with a 1 second crossfade from the end back
+into the start. The camera is locked off, so only clouds and water dissolve; the step from the last frame to the first is 2.8
+grey levels, about the same as an ordinary frame step (2.4), where the raw clip jumps 13.2. It stops before frames 275 to 292,
+where a large ferry fills the lower left of the picture for half a second. The page shows the still first, starts the video
+after load, hides it under reduced motion and gives it a pause toggle.

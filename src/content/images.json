@@ -1,29 +1,27 @@
 {
   "photos": {},
   "media": {
-    "hero-buzzy": {
-      "mp4": "/assets/media/hero-buzzy.mp4",
-      "mp4Small": "/assets/media/hero-buzzy-sm.mp4",
-      "poster": "/assets/media/hero-buzzy.webp",
-      "posterSmall": "/assets/media/hero-buzzy-sm.webp",
-      "posterJpg": "/assets/media/hero-buzzy.jpg",
-      "posterSmallJpg": "/assets/media/hero-buzzy-sm.jpg",
+    "hero-bridges": {
+      "mp4": "/assets/media/hero-bridges.mp4",
+      "mp4Hd": "/assets/media/hero-bridges-hd.mp4",
+      "mp4Small": "/assets/media/hero-bridges-sm.mp4",
+      "poster": "/assets/media/hero-bridges.webp",
+      "posterSmall": "/assets/media/hero-bridges-sm.webp",
+      "posterJpg": "/assets/media/hero-bridges.jpg",
+      "posterSmallJpg": "/assets/media/hero-bridges-sm.jpg",
       "w": 1920,
       "h": 1080,
-      "wSmall": 800,
-      "hSmall": 644,
-      "duration": 7.75,
-      "fps": 24,
-      "frames": 186,
+      "wHd": 2560,
+      "hHd": 1440,
+      "wSmall": 1008,
+      "hSmall": 840,
+      "duration": 8.008,
+      "fps": 29.97,
+      "frames": 240,
       "audio": false,
       "alt": "",
-      "use": "Home hero background, from the nav to the next section break. BUZZY's own Court Street storefront illustration (the getbuzzy.com home background, without its white fade) stays exact in its own rectangle of a tall canvas; everything above and below that rectangle is generated. The muted loop sits on the rectangle and fades in after window load, with a visible pause toggle; the still shows first and under reduced motion. Phones get a narrower crop that keeps the flock, the signs and the awning.",
-      "note": "AI-generated illustrative imagery. The canvas around BUZZY's illustration: fal.ai Nano Banana Pro edit. The motion: fal.ai Kling 3.0 pro image-to-video, start frame = end frame = BUZZY's illustration; birds cross the sunset sky, wind moves the tree and leaves fall, the two BUZZY signs flicker. Not footage of BUZZY or any real place.",
-      "stillW": 1920,
-      "stillH": 2574,
-      "stillSmallW": 800,
-      "stillSmallH": 1537,
-      "stillTop": 496
+      "use": "Home hero background, from the nav to the next section break. The still (the loop's first frame) shows first and under reduced motion; the muted loop fades in after window load, with a visible pause toggle. 1080p by default, 1440p on large or high-density desktop screens, a 6:5 crop on phones.",
+      "note": "Stock time-lapse of the Brooklyn and Manhattan Bridges, supplied by the operator at 1280x720, upscaled with AI to 3840x2160 (Topaz Gaia HQ on fal.ai, a non-generative enhancement) and looped with a 1 s crossfade. Not footage of BUZZY."
     }
   }
 }
