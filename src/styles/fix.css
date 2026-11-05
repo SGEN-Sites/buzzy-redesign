@@ -161,7 +161,28 @@ html:not(.js) .h-hero__ctrl { display: none; }
   .svc-pill__shop { flex: none; min-width: max-content; padding: 0 6px; gap: 3px; }
   .svc-pill__main { padding-inline: 8px 6px; column-gap: 6px; min-width: 0; }
 }
-@media (max-width: 365px) {
+@media (max-width: 371px) {
   .svc-pill__main .icon { display: none; }
   .svc-pill__main { grid-template-columns: 1fr; }
+}
+/* the main bar at a larger browser font: the same pairing of a px and an em bound, so it adds nothing at the default size */
+@media (min-width: 1024px) and (max-width: 63.9em) {
+  .nav__link { font-size: 15px; }
+  .header-cta { font-size: 13px; padding-inline: 0.7em; }
+  .mainbar { gap: 8px; }
+}
+/* the top bar's pills are 36 px tall in a 44 px bar: their tap area reaches its edges, the site's 44 px rule, with no change of look */
+@media (max-width: 1023px) {
+  .svc-pill__main, .svc-pill__shop { position: relative; }
+  .svc-pill__main::after, .svc-pill__shop::after { content: ""; position: absolute; inset: -4px 0; }
+}
+/* an open dropdown covers the band: the pause control just below it would show half cut, and the yellow buttons read as stains through the glass */
+@media (min-width: 1024px) {
+  html:has(.nav__item.is-open) .h-hero__ctrl { visibility: hidden; }
+  .h-page .mega__panel { background: rgba(255, 255, 255, 0.93); }
+}
+/* the smallest phones: the pause control stays on the first screen */
+@media (max-width: 720px) and (max-height: 600px) {
+  .h-hero__copy.glass { padding-block: 12px; }
+  .h-hero__copy.glass > .h-hero__lede { margin-top: 8px; }
 }

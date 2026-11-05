@@ -7,13 +7,15 @@
 # holds, so the two ends of any long window differ by some 40 grey levels: a 1 s dissolve shows as a reset every cycle. Over 3 s the
 # head's own brightening cancels most of it (net 6.7 levels, 13.9 per second at most, against a natural drift of up to 36).
 # TAIL stops before the large ferry at frames 275 to 292, which fills the lower left for half a second.
-# Two corrections on the way: exposure flicker in the sky (one gain per frame, sky only), and the light trails of the planes that
-# cross the left sky on one flight path for about 10 frames each. Only the thin bright line is subtracted (what is brighter than the
-# same place either side of it in time, after removing anything broad), so the clouds keep moving underneath. Frames 4 to 13 carry
-# one more, but they sit under 5% opacity at the very start of the dissolve.
+# Two corrections on the way. Flicker: the sky's parts flicker independently, so one number per frame cures the left and worsens the
+# centre; instead a low-resolution field holds each part of the sky to its own smoothed level, added rather than multiplied so lamps
+# cannot pump. Planes: they cross the left sky on one flight path for about 10 frames each. Only a long thin bright mark is subtracted
+# (brighter than the same place either side of it in time, after removing anything broad), so a small cloud on the path keeps its
+# brightness and the clouds keep moving underneath. Frames 4 to 13 carry one more, under 5% opacity at the start of the dissolve.
 # Colour tags are set inside -x264-params: ffmpeg's own -color_primaries does not reach the stream, and Chrome then tints short videos.
 import os, subprocess, sys
 import numpy as np
+from PIL import Image
 from scipy import ndimage
 
 master, work, out = sys.argv[1:4]
@@ -55,20 +57,32 @@ def read_frames(start, count):
 
 mezz = f'{work}/loop-4k.mp4'
 if not os.path.exists(mezz):
-    # ---- one gain per frame for the sky's flicker, measured left of the bridge's rise
-    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', master, '-vf', 'scale=640:360:flags=area,format=gray', '-f', 'rawvideo', '-'], capture_output=True).stdout
-    low = np.frombuffer(raw, dtype=np.uint8).reshape(-1, 360, 640).astype(np.float32)
-    S = low[:, :int(360 * .45), :int(640 * .55)].mean(axis=(1, 2))
-    target = ndimage.gaussian_filter1d(ndimage.median_filter(S, size=9, mode='nearest'), 5, mode='nearest')
-    gains = np.clip(target / S, .94, 1.06)
+    # ---- the flicker field: each part of the sky held to its own smoothed level
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', master, '-vf', 'scale=160:90:flags=area,format=gray', '-f', 'rawvideo', '-'], capture_output=True).stdout
+    low = np.frombuffer(raw, dtype=np.uint8).reshape(-1, 90, 160).astype(np.float32)
+    level = ndimage.gaussian_filter(low, (0, 5, 5), mode='nearest')
+    target = ndimage.gaussian_filter1d(ndimage.median_filter(level, size=(9, 1, 1), mode='nearest'), 5, axis=0, mode='nearest')
+    field = np.clip(target - level, -8, 8)
     ramp = np.clip((.60 - np.arange(H) / H) / .18, 0, 1).reshape(H, 1).astype(np.float32)  # all of the sky, none of the skyline
 
     (l, t, r, b) = PATH
     refs = {}
     for first, last in TRAILS:
         refs[(first, last)] = (next(read_frames(first - 1, 1))[0][t:b, l:r], next(read_frames(last + 1, 1))[0][t:b, l:r])
+    def line_mask(thin):
+        # the bright marks that are long and thin: a plane's trail, not a small cloud
+        hot = thin > 6
+        lab, k = ndimage.label(hot, structure=np.ones((3, 3)))
+        keep = np.zeros_like(hot)
+        for j, sl in enumerate(ndimage.find_objects(lab)):
+            w, h = sl[1].stop - sl[1].start, sl[0].stop - sl[0].start
+            if w >= 30 and w >= 1.6 * h and (lab[sl] == j + 1).sum() <= .7 * w * h:
+                keep[sl] |= lab[sl] == j + 1
+        return np.clip(ndimage.gaussian_filter(ndimage.maximum_filter(keep.astype(np.float32), 9), 4) * 1.8, 0, 1)
+
     def fix(n, y, u, v):
-        y = 16 + (y - 16) * (1 + ramp * (gains[n] - 1))
+        off = np.asarray(Image.fromarray(field[n], mode='F').resize((W, H), Image.BICUBIC), dtype=np.float32)
+        y = y + ramp * off
         for (first, last), (before, after) in refs.items():
             if first <= n <= last:
                 w = (n - first + 1) / (last - first + 2)
@@ -77,8 +91,7 @@ if not os.path.exists(mezz):
                 for _ in range(3):                                 # a thick bright line needs more than one pass
                     d = y[t:b, l:r] - ref
                     thin = d - ndimage.gaussian_filter(d, 16)      # a line stands out; a cloud edge does not
-                    m = np.clip((thin - 5) / 8, 0, 1)
-                    m = np.clip(ndimage.gaussian_filter(ndimage.maximum_filter(m, 9), 4) * 1.8, 0, 1)
+                    m = line_mask(thin)
                     y[t:b, l:r] = y[t:b, l:r] - m * np.maximum(thin, 0)
                     if _ == 0:
                         first_mask = m
@@ -108,7 +121,7 @@ if not os.path.exists(mezz):
         count += 1
     enc.stdin.close()
     enc.wait()
-    print('loop frames', count, 'gain range', round(float(gains[HEAD:TAIL].min()), 4), round(float(gains[HEAD:TAIL].max()), 4))
+    print('loop frames', count, 'flicker field range', round(float(field[HEAD:TAIL].min()), 2), round(float(field[HEAD:TAIL].max()), 2))
 
 def encode(name, vf, c):
     dest = f'{out}/{name}.mp4'

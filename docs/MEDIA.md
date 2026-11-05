@@ -50,7 +50,7 @@ cropped), cut-outs transparent PNG trimmed to the subject. The build encodes Web
 
 | File | What it is | Served to |
 |---|---|---|
-| `assets/media/hero-bridges.mp4` | 1920x1080, 29.97 fps, a 6 second seamless loop, no audio, 5.6 MB | Most desktop and tablet screens |
+| `assets/media/hero-bridges.mp4` | 1920x1080, 29.97 fps, a 6 second seamless loop, no audio, 5.5 MB | Most desktop and tablet screens |
 | `assets/media/hero-bridges-hd.mp4` | The same at 2560x1440, 7.7 MB | Screens wider than 1920 px, and desktop screens of 1.6x pixel density or more |
 | `assets/media/hero-bridges-4k.mp4` | The same at 3840x2160, 13.9 MB | Screens wider than 2560 px, and screens 1800 px or wider at 1.6x or more |
 | `assets/media/hero-bridges-sm.mp4` | 1008x840, a 6:5 crop that keeps the left tower, the span and the midtown skyline, 1.1 MB | Phones, up to 720 px wide |
@@ -64,8 +64,10 @@ frames the master scores SSIM 0.994 against its source. An original 4K master of
 `tools/loop/hero-bridges.py` cuts the loop from that master. The sky brightens for about 5 seconds and then holds, so the clip's
 two ends never match; a 3 second dissolve from the end back into the start lets the head's own brightening cancel most of the
 difference. The camera is locked off, so only clouds and water dissolve. It stops before frames 275 to 292, where a large ferry
-fills the lower left of the picture for half a second. Two corrections on the way: exposure flicker in the sky is evened out
-with one gain per frame, and the light trails of the planes crossing the left sky are removed. Measured on the served 1080p
-file, the visible sky moves within 14 grey levels and at most 10 levels a second, no frame steps it by more than 2 levels, and the
-step from the last frame to the first is 2.6 against a median frame step of 2.2. The page shows the still first, starts the video after
+fills the lower left of the picture for half a second. Two corrections on the way: the sky's flicker is evened out with a
+low-resolution correction, so each part of the sky is held to its own smoothed level, and the light trails of the planes crossing
+the left sky are removed. Measured on the served 1080p file against the master, the flicker in every part of the sky is under 40%
+of the source's and no part of the sky steps by more than 2 grey levels from one frame to the next. The sky left of the bridge moves
+within 13 levels over the loop, and the open sky to its right within 21, at most 15 levels a second. The step from the last frame to the first is
+2.4 against a median frame step of 2.0. The page shows the still first, starts the video after
 load, hides it under reduced motion and gives it a pause toggle.
