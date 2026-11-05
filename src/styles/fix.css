@@ -37,8 +37,8 @@
 /* 8. Home hero (revision 4, 2026-11-06). The operator's bridges time-lapse, upscaled to 4K, is the hero background from the nav to the
       next section break. Everything worth seeing is in the picture's lower half (the bridges, the skyline, the water), and its
       upper half is calm sky, so the copy and both service tickets share one glass band over the sky, right under the nav, and
-      the rest stays open. From 1024 up the video covers the whole hero, anchored to the water; from 1250 up the hero is the
-      video's own 16:9, so nothing is cropped. Below 1024 the stack is too tall to cover: the picture sits between the copy and the
+      the rest stays open. From 1024 up the video covers the whole hero, anchored to the water, and section 10 sets the hero's height.
+      Below 1024 the stack is too tall to cover: the picture sits between the copy and the
       tickets and its edges dissolve, into the sky's own colours above and one dark water tone below. */
 .h-hero {
   --hero-window: 0px; /* the least open picture under the band */
@@ -185,4 +185,11 @@ html:not(.js) .h-hero__ctrl { display: none; }
 @media (max-width: 720px) and (max-height: 600px) {
   .h-hero__copy.glass { padding-block: 12px; }
   .h-hero__copy.glass > .h-hero__lede { margin-top: 8px; }
+}
+
+/* 10. A shorter hero, from 1024 up (revision 5, 2026-11-06). Its height is now the band plus a fixed slice of picture rather than the video's own 16:9,
+   so the open space under the band is the same share of the picture at every width. A strip of water drops below the hero's foot, so the towers and the skyline clear the band. */
+@media (min-width: 1024px) {
+  .h-hero { --hero-window: 19vw; min-height: 0; padding-bottom: 0; }
+  .h-hero__stage { bottom: -2.25vw; }
 }
