@@ -32,7 +32,7 @@ const undash = (s) => String(s ?? '').replace(/\s*[‒-―]\s*/g, ' to ');
 // "8am" -> "08:00", "10pm" -> "22:00" (JSON-LD hours from site.json, never invented)
 const hhmm = (t) => { const m = String(t || '').match(/^(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m/i); if (!m) return null; let h = +m[1] % 12; if (/p/i.test(m[3])) h += 12; return pad2(h) + ':' + (m[2] || '00'); };
 // one lowercase serif accent word per heading (contract section 3 Type)
-const accent = (t, re) => { const e = esc(t); if (!re) return e; let done = false; return e.replace(re, (m) => (done ? m : ((done = true), `<em class="accent">${m.toLowerCase()}</em>`))); };
+const accent = (t, re) => { const e = esc(t); if (!re) return e; let done = false; return e.replace(re, (m) => (done ? m : ((done = true), `<em class="accent">${m}</em>`))); };
 
 // ---------- BUZZY photos: the captured live URL resolved to CAPTURE's local copy (facts/asset-map.json) ----------
 const fileExists = (u) => { try { return fs.existsSync(path.join(ROOT, String(u).replace(/^\//, '').split(/[?#]/)[0])); } catch { return false; } };

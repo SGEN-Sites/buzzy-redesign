@@ -18,3 +18,7 @@
 @media (max-width: 720px) {
   .page-hero + .band, .page-hero + section { padding-top: calc(var(--section-y) + var(--overhang) + 16px); }
 }
+
+/* 5. The accent word keeps BUZZY's own capitalisation in the markup ("Highly Curated Cannabis in Brooklyn"); the
+      lowercase italic look comes from CSS only. */
+.h-page main .accent, .display .accent, h1 .accent, h2 .accent, h3 .accent { text-transform: lowercase; }
