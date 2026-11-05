@@ -222,6 +222,23 @@
     }, 2500);
   }
 
+  /* ---------------- home hero: the copy panel's height jumps as its text wraps, so measure it and keep BUZZY's sign lamps
+     (30.5% down the art) just clear of the panel. --hero-window then lands the service cards at the door's foot. The
+     stage is absolutely placed, so this moves the picture and never the layout. ---------------- */
+  var hHero = document.getElementById('h-hero');
+  var hCopy = hHero && hHero.querySelector('.h-hero__copy');
+  if (hHero && hCopy && hHero.querySelector('.h-hero__stage')) {
+    var placeArt = function () {
+      var h = hHero.getBoundingClientRect(), c = hCopy.getBoundingClientRect();
+      var phone = window.matchMedia('(max-width: 720px)').matches;
+      var artH = h.width * (phone ? 644 / 800 : 1080 / 1920);
+      hHero.style.setProperty('--art-shift', Math.round(c.bottom - h.top + (phone ? 12 : 24) - 0.305 * artH) + 'px');
+    };
+    placeArt();
+    window.addEventListener('resize', placeArt);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(placeArt);
+  }
+
   /* ---------------- parallax ([data-depth="0.15"]: rAF, the translate property only, while on screen) ---------------- */
   var depthEls = (reduce || coarse) ? [] : $$('[data-depth]');
   if (depthEls.length) {
