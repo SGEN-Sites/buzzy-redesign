@@ -22,8 +22,7 @@
       "role": "backdrop",
       "aspect": "16:9",
       "usedFor": [
-        "home hero key frame",
-        "hero-dream loop source"
+        "social share image"
       ],
       "calmArea": "left 45% open pale sky for the headline; the floating stoop sits in the right half",
       "input": {

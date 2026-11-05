@@ -238,6 +238,14 @@
     };
     placeArt();
     window.addEventListener('resize', placeArt);
+    var hLoop = doc.getElementById('h-hero-loop');
+    if (hLoop && finePointer && !reduce) onMq(heroPhoneMq, function () {
+      if (!hLoop.currentSrc) return;
+      var t = hLoop.currentTime, running = !hLoop.paused;
+      hLoop.load();
+      try { hLoop.currentTime = t; } catch (e) {}
+      if (running) { var pr = hLoop.play(); if (pr && pr.catch) pr.catch(function () {}); }
+    });
     if (doc.fonts && doc.fonts.ready) doc.fonts.ready.then(placeArt);
   }
 

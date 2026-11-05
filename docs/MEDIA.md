@@ -50,19 +50,22 @@ cropped), cut-outs transparent PNG trimmed to the subject. The build encodes Web
 
 | File | What it is | Served to |
 |---|---|---|
-| `assets/media/hero-bridges.mp4` | 1920x1080, 29.97 fps, an 8 second seamless loop, no audio, 7.4 MB | Most desktop and tablet screens |
-| `assets/media/hero-bridges-hd.mp4` | The same at 2560x1440, 10.2 MB | Screens wider than 1920 px, and desktop screens of 1.6x pixel density or more |
-| `assets/media/hero-bridges-sm.mp4` | 1008x840, a 6:5 crop that keeps the left tower, the span and the midtown skyline, 1.5 MB | Phones, up to 720 px wide |
+| `assets/media/hero-bridges.mp4` | 1920x1080, 29.97 fps, a 6 second seamless loop, no audio, 5.6 MB | Most desktop and tablet screens |
+| `assets/media/hero-bridges-hd.mp4` | The same at 2560x1440, 7.7 MB | Screens wider than 1920 px, and desktop screens of 1.6x pixel density or more |
+| `assets/media/hero-bridges-4k.mp4` | The same at 3840x2160, 13.9 MB | Screens wider than 2560 px, and screens 1800 px or wider at 1.6x or more |
+| `assets/media/hero-bridges-sm.mp4` | 1008x840, a 6:5 crop that keeps the left tower, the span and the midtown skyline, 1.1 MB | Phones, up to 720 px wide |
 | `assets/media/hero-bridges.webp` / `.jpg`, `hero-bridges-sm.webp` / `.jpg` | The loop's first frame | Shown first, and instead of the video under reduced motion |
 
 How it was made: the 1280x720 clip was upscaled to 3840x2160 with Topaz Gaia HQ on fal.ai, a non-generative enhancement. Gaia
 HQ was chosen over Proteus and Artemis HQ on a 2 second test: it stayed the most faithful to the source (SSIM 0.993 against
 0.968 and 0.991, scaled back to 720p) and the steadiest on static buildings, where the others shimmer more. Over all 314
-frames the master scores SSIM 0.994 against its source. The served 1080p file has 1.5 times, and the 1440p file 1.8 times, the
-edge detail of a plain enlargement of the same frame. An original 4K master of the same clip would still be better.
+frames the master scores SSIM 0.994 against its source. An original 4K master of the same clip would still be better.
 
-`tools/loop/hero-bridges.py` cuts the loop from that master: frames 30 to 270, with a 1 second crossfade from the end back
-into the start. The camera is locked off, so only clouds and water dissolve; the step from the last frame to the first is 2.8
-grey levels, about the same as an ordinary frame step (2.4), where the raw clip jumps 13.2. It stops before frames 275 to 292,
-where a large ferry fills the lower left of the picture for half a second. The page shows the still first, starts the video
-after load, hides it under reduced motion and gives it a pause toggle.
+`tools/loop/hero-bridges.py` cuts the loop from that master. The sky brightens for about 5 seconds and then holds, so the clip's
+two ends never match; a 3 second dissolve from the end back into the start lets the head's own brightening cancel most of the
+difference. The camera is locked off, so only clouds and water dissolve. It stops before frames 275 to 292, where a large ferry
+fills the lower left of the picture for half a second. Two corrections on the way: exposure flicker in the sky is evened out
+with one gain per frame, and the light trails of the planes crossing the left sky are removed. Measured on the served 1080p
+file, the visible sky moves within 14 grey levels and at most 10 levels a second, no frame steps it by more than 2 levels, and the
+step from the last frame to the first is 2.6 against a median frame step of 2.2. The page shows the still first, starts the video after
+load, hides it under reduced motion and gives it a pause toggle.

@@ -15,13 +15,16 @@
       "hHd": 1440,
       "wSmall": 1008,
       "hSmall": 840,
-      "duration": 8.008,
+      "duration": 6.073,
       "fps": 29.97,
-      "frames": 240,
+      "frames": 182,
       "audio": false,
       "alt": "",
-      "use": "Home hero background, from the nav to the next section break. The still (the loop's first frame) shows first and under reduced motion; the muted loop fades in after window load, with a visible pause toggle. 1080p by default, 1440p on large or high-density desktop screens, a 6:5 crop on phones.",
-      "note": "Stock time-lapse of the Brooklyn and Manhattan Bridges, supplied by the operator at 1280x720, upscaled with AI to 3840x2160 (Topaz Gaia HQ on fal.ai, a non-generative enhancement) and looped with a 1 s crossfade. Not footage of BUZZY."
+      "use": "Home hero background, from the nav to the next section break. The still (the loop's first frame) shows first and under reduced motion; the muted loop fades in after window load, with a visible pause toggle. 1080p by default, 1440p and 4K on large or high-density desktop screens, a 6:5 crop on phones.",
+      "note": "Stock time-lapse of the Brooklyn and Manhattan Bridges, supplied by the operator at 1280x720, upscaled with AI to 3840x2160 (Topaz Gaia HQ on fal.ai, a non-generative enhancement) and looped with a 3 s dissolve. Sky flicker evened out and the light trails of passing planes removed. Not footage of BUZZY.",
+      "mp4Uhd": "/assets/media/hero-bridges-4k.mp4",
+      "wUhd": 3840,
+      "hUhd": 2160
     }
   }
 }
