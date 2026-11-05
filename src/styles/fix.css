@@ -33,3 +33,27 @@
 .h-rew { clip-path: inset(-600px 0 0 0); }
 .h-rew__phone { align-self: end; margin-top: 0; margin-bottom: calc(-1 * var(--section-y) - 2px); }
 @media (min-width: 1024px) { .h-rew__phone { width: min(100%, 460px); } }
+
+/* 8. Home hero = BUZZY's own Court Street storefront illustration, animated (revision 2, 2026-11-05). The operator asked
+      for its white "cloudy gradient" to go, so nothing white is laid over the picture either. The picture is a band
+      across the top of the hero at every width (16:9 on desktop and tablet; on phones a 1:1 crop on the storefront,
+      hero-buzzy-sm), so the birds (left sky), the falling leaves (tree, right) and the flickering lamps stay in view;
+      the glass copy panel and the service cards overlap only its lower edge, the calm sidewalk. */
+.h-hero { --hero-art-h: clamp(420px, min(56.25vw, calc(100svh - var(--header-h) - 240px)), 760px); --hero-art-overlap: 200px; min-height: 0; padding-top: calc(var(--hero-art-h) - var(--hero-art-overlap)); }
+.h-hero__clip { bottom: auto; height: var(--hero-art-h); border-bottom: 1px solid var(--ink); }
+.h-hero__still, .h-hero__loop, .h-hero__clip .img-slot { object-position: 50% 35%; }
+.h-hero__scrim, .h-hero__grid { display: none; }
+.h-hero__ctrl { top: 16px; right: var(--gutter); bottom: auto; left: auto; }
+.h-hero__copy.glass { grid-column: 1 / span 6; padding: clamp(22px, 2.6vw, 38px); background: rgba(255, 255, 255, 0.62); }
+.h-hero__kicker, .h-hero__h1, .h-hero__lede, .h-hero__facttext { text-shadow: none; }
+.h-hero__h1 { font-size: clamp(2.4rem, 4.4vw, 4.1rem); }
+@media (max-width: 1023px) {
+  .h-hero { --hero-art-h: min(56.25vw, 560px); --hero-art-overlap: 72px; }
+  .h-hero__copy.glass { grid-column: 1 / -1; }
+}
+@media (max-width: 720px) {
+  .h-hero { --hero-art-h: min(80vw, 440px); --hero-art-overlap: 56px; }
+  .h-hero__still, .h-hero__loop { object-position: 50% 50%; }
+  .h-hero__copy.glass { padding: 20px 18px; background: var(--glass-strong); -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .h-hero__h1 { font-size: clamp(2.1rem, 9.6vw, 2.8rem); }
+}

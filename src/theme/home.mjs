@@ -173,7 +173,7 @@ export async function render(ctx) {
   const addr = site.address || {};
   const cats = ((ia.nav || []).find((n) => n.href === '/products/') || {}).children || [];
   const catByLabel = new Map(cats.map((c) => [norm(c.label), c]));
-  const loop = ((ctx.images && ctx.images.media) || {})['hero-dream'] || null;
+  const loop = ((ctx.images && ctx.images.media) || {})['hero-buzzy'] || null;
   const D = site.delivery || {};
   const R = site.rewards || {};
   const html = {};
@@ -211,13 +211,15 @@ export async function render(ctx) {
     const pair = typeof shell.serviceCards === 'function' ? shell.serviceCards(ctx, { h: 2, compact: true, reveal: true, cls: 'h-hero__pair' }) : '';
     html.hero = `<section class="h-hero band band--sky" id="h-hero" aria-labelledby="h-hero-h1" data-video-host>
 <div class="band__clip h-hero__clip" aria-hidden="true">
-${gimg('g-hero-dream', { alt: '', eager: true, cls: 'h-hero__still', sizes: '100vw' })}
+${loop && loop.poster
+  ? `<picture>${loop.posterSmall ? `<source media="(max-width: 720px)" srcset="${escA(loop.posterSmall)}" type="image/webp">` : ''}${loop.posterSmallJpg ? `<source media="(max-width: 720px)" srcset="${escA(loop.posterSmallJpg)}" type="image/jpeg">` : ''}<source srcset="${escA(loop.poster)}" type="image/webp"><img class="h-hero__still" src="${escA(loop.posterJpg || loop.poster)}" alt="" width="${escA(loop.w || 1920)}" height="${escA(loop.h || 1080)}" fetchpriority="high" decoding="async"></picture>`
+  : gimg('g-hero-dream', { alt: '', eager: true, cls: 'h-hero__still', sizes: '100vw' })}
 ${video}
 <span class="h-hero__scrim"></span>
 <span class="h-hero__grid"></span>
 </div>
 <div class="wrap wrap--wide h-hero__inner">
-<div class="h-hero__copy">
+<div class="h-hero__copy glass">
 <p class="kicker h-hero__kicker" data-reveal>${esc(kick ? plain(kick) : site.kicker || 'Your Neighborhood Dispensary')}</p>
 <h1 id="h-hero-h1" class="display h-hero__h1" data-reveal style="--i:1">${accent(h1Text, /curated/i)}</h1>
 ${intro.map((b, i) => `<p class="lede h-hero__lede" data-reveal style="--i:${2 + i}">${htmlOf(b)}</p>`).join('\n') || `<p class="lede h-hero__lede" data-reveal style="--i:2">${esc((site.pickup && site.pickup.line) || '')}</p>`}

@@ -66,6 +66,7 @@ try {
     if (args.upload) {
       const field = String(args['upload-field'] || 'image_url');
       input[field] = await upload(String(args.upload));
+      if (args['upload-also']) input[String(args['upload-also'])] = input[field]; // e.g. last_image_url = first frame (a loop)
       console.log('uploaded', args.upload, '->', field);
     }
     if (args.dry) { console.log('[dry]', endpoint, JSON.stringify(input).slice(0, 600)); return 0; }

@@ -13,7 +13,7 @@ Prompts, alt text and calm areas for every id: `src/content/image-plan.json`.
 
 | Id | What it depicts | Model family | Provider |
 |---|---|---|---|
-| `g-hero-dream` | A brownstone stoop with an open door floating in a pale morning sky among clouds (home hero key frame and loop source; calm sky on the left) | FLUX 1.1 pro ultra, left sky extended with FLUX.1 pro fill | fal.ai |
+| `g-hero-dream` | A brownstone stoop with an open door floating in a pale morning sky among clouds (the social share image; it was the key frame of the first hero) | FLUX 1.1 pro ultra, left sky extended with FLUX.1 pro fill | fal.ai |
 | `g-sky-field` | A pale dream sky of soft clouds, blue fading to peach (ground behind glass panes) | FLUX 1.1 pro ultra | fal.ai |
 | `g-night-sky` | A lit doorway standing alone on still black water under a night sky | FLUX 1.1 pro ultra | fal.ai |
 | `g-delivery-dream` | A riderless, unbranded cargo bicycle crossing a curved bridge above misty rooftops at dawn | FLUX 1.1 pro ultra | fal.ai |
@@ -45,10 +45,12 @@ cropped), cut-outs transparent PNG trimmed to the subject. The build encodes Web
 
 | File | What it shows | Model family | Provider |
 |---|---|---|---|
-| `assets/media/hero-dream.mp4` (1920x1072) and `hero-dream-sm.mp4` (720x1080 phone crop) | Clouds drifting slowly around the floating stoop of `g-hero-dream`; the building stays still. A 5 second seamless loop, no audio | Kling 2.1 standard, image to video | fal.ai |
-| `assets/media/hero-dream.webp` / `.jpg`, `hero-dream-sm.webp` / `.jpg` | Posters: the loop's first frame | (frames of the clip above) | fal.ai |
+| `assets/media/hero-buzzy.mp4` (1920x1080) and `hero-buzzy-sm.mp4` (720x720 phone crop on the storefront) | BUZZY's own Court Street storefront illustration (the getbuzzy.com home background, used without its white fade), brought to life: a flock of birds crosses the sunset sky, wind shakes the street tree and its leaves fall, the sign lamps and shop windows flicker. The building, signs and lettering stay as drawn. A 7.75 second seamless loop, no audio | Kling 3.0 pro, image to video, with the illustration as both the first and the last frame | fal.ai |
+| `assets/media/hero-buzzy.webp` / `.jpg`, `hero-buzzy-sm.webp` / `.jpg` | The still under the video: BUZZY's illustration itself (a 16:9 crop, and the 1:1 phone crop) | none, BUZZY's own artwork | getbuzzy.com |
 
-How the loop was made: the generated clip was cut to its first 2.5 seconds and played forward and back on a cosine time
-curve (`tools/loop/pingpong.py`), so the drift slows, turns and returns with no jump at the loop point; the phone crop is
-the 2:3 window where the frame moves most (`tools/loop/encode.py`). The page shows the still first, starts the video
+How the loop was made: the clip starts and ends on the illustration, but its motion gathers in the middle (birds,
+leaves, wind) and its brightness drifts by about one level. `tools/loop/kling-loop.py` keeps that middle at normal
+speed, plays the calm opening and ending at double speed, ramps the drift out and folds the last 10 frames into the
+first, so the loop wraps with no jump; the change between frames stays under 1.1 grey levels (no flashing). The
+phone file is the 1:1 window on the storefront. The page shows the still first, starts the video
 after load, hides it under reduced motion and gives it a pause toggle.

@@ -1,23 +1,24 @@
 {
   "photos": {},
   "media": {
-    "hero-dream": {
-      "mp4": "/assets/media/hero-dream.mp4",
-      "mp4Small": "/assets/media/hero-dream-sm.mp4",
-      "poster": "/assets/media/hero-dream.webp",
-      "posterSmall": "/assets/media/hero-dream-sm.webp",
-      "posterJpg": "/assets/media/hero-dream.jpg",
-      "posterSmallJpg": "/assets/media/hero-dream-sm.jpg",
+    "hero-buzzy": {
+      "mp4": "/assets/media/hero-buzzy.mp4",
+      "mp4Small": "/assets/media/hero-buzzy-sm.mp4",
+      "poster": "/assets/media/hero-buzzy.webp",
+      "posterSmall": "/assets/media/hero-buzzy-sm.webp",
+      "posterJpg": "/assets/media/hero-buzzy.jpg",
+      "posterSmallJpg": "/assets/media/hero-buzzy-sm.jpg",
       "w": 1920,
-      "h": 1072,
+      "h": 1080,
       "wSmall": 720,
-      "hSmall": 1080,
-      "duration": 5.0,
+      "hSmall": 720,
+      "duration": 7.75,
       "fps": 24,
+      "frames": 186,
       "audio": false,
       "alt": "",
-      "use": "Home hero: muted autoplay loop, playsinline, aria-hidden, the still (g-hero-dream) under it first, hidden under reduced motion, visible pause toggle, start after window load. Poster = frame 0.",
-      "note": "AI-generated illustrative motion (fal.ai Kling 2.1 standard image-to-video from g-hero-dream): clouds drift around a floating brownstone stoop. Not footage of BUZZY or any real place. The phone file is a 2:3 crop (x 49.5% to 86.7%) chosen on the motion."
+      "use": "Home hero background: BUZZY's own Court Street storefront illustration (the getbuzzy.com home background, without its white fade). The still shows first and under reduced motion; the muted loop fades in after window load, with a visible pause toggle. Phones get a 1:1 crop on the storefront.",
+      "note": "AI-generated illustrative motion (fal.ai Kling 3.0 pro image-to-video, start frame = end frame = BUZZY's illustration): birds cross the sunset sky, wind shakes the tree and leaves fall, the sign lamps and windows flicker. Not footage of BUZZY or any real place. Retimed (calm head and tail at 2x), brightness drift ramped out, last 10 frames folded into frame 0."
     }
   }
 }
