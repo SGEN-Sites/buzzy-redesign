@@ -1,10 +1,15 @@
 # Generated media
 
-Every image in `assets/generated/` and every file in `assets/media/` is AI-generated illustrative imagery made for this
-redesign pitch. It sets a mood only. None of it is a photograph or footage of BUZZY, its store, staff, customers,
-products or brands, and none of it depicts a real place. Product-like objects (buds, pre-rolls, jars, bottles) are
-generic and unbranded. Each still carries the IPTC `trainedAlgorithmicMedia` digital source type in its XMP metadata;
-the videos carry the same note in their container tags, and the WebP and JPEG posters carry the XMP label. BUZZY's own
+Every image in `assets/generated/` is AI-generated illustrative imagery made for this redesign pitch. It sets a mood
+only. None of it is a photograph or footage of BUZZY, its store, staff, customers, products or brands, and none of it
+depicts a real place. Product-like objects (buds, pre-rolls, jars, bottles) are generic and unbranded.
+
+The files in `assets/media/` are the one exception: they are the home hero, built on BUZZY's own illustration of its
+Court Street store (see "The home hero" below). The illustration is BUZZY's; the canvas around it and the motion are
+AI-generated, and neither is a photograph or footage of BUZZY.
+
+Each generated still carries the IPTC `trainedAlgorithmicMedia` digital source type in its XMP metadata; the videos
+carry the same note in their container tags, and the WebP and JPEG hero stills carry the XMP label. BUZZY's own
 photographs live in `assets/photos/` and are not covered by this file.
 
 Prompts, alt text and calm areas for every id: `src/content/image-plan.json`.
@@ -41,16 +46,21 @@ Prompts, alt text and calm areas for every id: `src/content/image-plan.json`.
 Formats: backdrops 16:9 JPEG (2752x1536), category tiles 1:1 JPEG (2048x2048), features 4:5 JPEG (generated at 3:4 and
 cropped), cut-outs transparent PNG trimmed to the subject. The build encodes WebP variants and re-attaches the label.
 
-## Motion
+## The home hero
 
-| File | What it shows | Model family | Provider |
+| File | What it shows | Made with | Provider |
 |---|---|---|---|
-| `assets/media/hero-buzzy.mp4` (1920x1080) and `hero-buzzy-sm.mp4` (720x720 phone crop on the storefront) | BUZZY's own Court Street storefront illustration (the getbuzzy.com home background, used without its white fade), brought to life: a flock of birds crosses the sunset sky, wind shakes the street tree and its leaves fall, the sign lamps and shop windows flicker. The building, signs and lettering stay as drawn. A 7.75 second seamless loop, no audio | Kling 3.0 pro, image to video, with the illustration as both the first and the last frame | fal.ai |
-| `assets/media/hero-buzzy.webp` / `.jpg`, `hero-buzzy-sm.webp` / `.jpg` | The still under the video: BUZZY's illustration itself (a 16:9 crop, and the 1:1 phone crop) | none, BUZZY's own artwork | getbuzzy.com |
+| `assets/media/hero-buzzy.webp` / `.jpg` (1920x2574), `hero-buzzy-sm.webp` / `.jpg` (800x1537, a narrower crop) | The tall canvas behind the hero, from the nav to the next section break. BUZZY's illustration (the getbuzzy.com home background, used without its white fade) stays unchanged in its own rectangle. Above it: more of the same building with a cornice, more tree canopy, more sky. Below it: the sidewalk, the base of the street pole, the curb and the street holding the sunset light. Those painted parts are illustrative and do not show BUZZY's real building or street | Nano Banana Pro, image edit, fitted to the art with BUZZY's pixels restored over their rectangle | fal.ai; the illustration is from getbuzzy.com |
+| `assets/media/hero-buzzy.mp4` (1920x1080), `hero-buzzy-sm.mp4` (800x644, the crop that keeps the flock, the signs and the awning) | The illustration brought to life: a flock of birds crosses the sunset sky, wind moves the street tree and its leaves fall, the two BUZZY signs flicker. The building, signs and lettering stay as drawn. A 7.75 second seamless loop, no audio | Kling 3.0 pro, image to video, with the illustration as both the first and the last frame | fal.ai |
 
 How the loop was made: the clip starts and ends on the illustration, but its motion gathers in the middle (birds,
 leaves, wind) and its brightness drifts by about one level. `tools/loop/kling-loop.py` keeps that middle at normal
 speed, plays the calm opening and ending at double speed, ramps the drift out and folds the last 10 frames into the
-first, so the loop wraps with no jump; the change between frames stays under 1.1 grey levels (no flashing). The
-phone file is the 1:1 window on the storefront. The page shows the still first, starts the video
-after load, hides it under reduced motion and gives it a pause toggle.
+first, so the loop wraps with no jump; the change between frames stays under 1.1 grey levels (no flashing).
+
+How the canvas was made: a model that extends a picture also redraws its middle, so `tools/loop/hero-register.py` fits
+the generated picture to the illustration, `tools/loop/hero-compose.py` restores BUZZY's exact pixels over their
+rectangle with a soft edge on the sidewalk and the upper wall, and `tools/loop/hero-canvas.py` cuts and labels the
+files. The video sits registered on that rectangle and its mask fades it out before the soft edges begin, so it only
+ever overlaps BUZZY's own art. The page shows the still first, starts the video after load, hides it under reduced
+motion and gives it a pause toggle.

@@ -34,26 +34,83 @@
 .h-rew__phone { align-self: end; margin-top: 0; margin-bottom: calc(-1 * var(--section-y) - 2px); }
 @media (min-width: 1024px) { .h-rew__phone { width: min(100%, 460px); } }
 
-/* 8. Home hero = BUZZY's own Court Street storefront illustration, animated (revision 2, 2026-11-05). The operator asked
-      for its white "cloudy gradient" to go, so nothing white is laid over the picture either. The picture is a band
-      across the top of the hero at every width (16:9 on desktop and tablet; on phones a 1:1 crop on the storefront,
-      hero-buzzy-sm), so the birds (left sky), the falling leaves (tree, right) and the flickering lamps stay in view;
-      the glass copy panel and the service cards overlap only its lower edge, the calm sidewalk. */
-.h-hero { --hero-art-h: clamp(420px, min(56.25vw, calc(100svh - var(--header-h) - 240px)), 760px); --hero-art-overlap: 200px; min-height: 0; padding-top: calc(var(--hero-art-h) - var(--hero-art-overlap)); }
-.h-hero__clip { bottom: auto; height: var(--hero-art-h); border-bottom: 1px solid var(--ink); }
-.h-hero__still, .h-hero__loop, .h-hero__clip .img-slot { object-position: 50% 35%; }
-.h-hero__scrim, .h-hero__grid { display: none; }
-.h-hero__ctrl { top: 16px; right: var(--gutter); bottom: auto; left: auto; }
-.h-hero__copy.glass { grid-column: 1 / span 6; padding: clamp(22px, 2.6vw, 38px); background: rgba(255, 255, 255, 0.62); }
+/* 8. Home hero (revisions 2 and 3, 2026-11-05). BUZZY's own Court Street storefront illustration, animated, runs from the
+      nav to the next section break. It is one tall canvas: BUZZY's art stays exact in its own rectangle, everything above
+      and below is generated, and the loop sits registered on that rectangle (its mask fades it out before the canvas
+      starts to differ from the art). Nothing white is laid over the picture. The copy sits right under the nav over the
+      calm upper wall, the storefront stays open in a window below it (flock left, sign lamps centre, tree and falling
+      leaves right, which is where the motion is), and the service cards stand on the calm sidewalk. In the art the sign
+      lamps sit at 30.5% of its height and the door's foot at 68.9%, so --art-shift and --hero-window place both. */
+.h-hero {
+  --c-w: 1920; --c-h: 2574; --c-t: 496; --v-r: 1920 / 1080; /* canvas file size and the art rectangle's top, file px */
+  --art-shift: calc(150px - 6.8vw); /* how far the art rectangle's top sits below the hero's top; site.js measures it */
+  --hero-window: calc(21.6vw + 40px); /* the art's lamps-to-foot distance (38.4% of its height) plus the margins */
+  min-height: 0; display: block; padding-block: clamp(14px, 1.5vw, 22px) clamp(36px, 4.4vw, 72px); background: #453b47;
+}
+.h-hero__stage { position: absolute; top: 0; left: 0; width: 100%; aspect-ratio: var(--c-w) / var(--c-h); transform: translateY(calc(var(--art-shift) - var(--c-t) / var(--c-h) * 100%)); }
+.h-hero__stage .h-hero__still { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: fill; object-position: 50% 50%; }
+.h-hero__stage .h-hero__loop { inset: auto; left: 0; top: calc(var(--c-t) / var(--c-h) * 100%); width: 100%; height: auto; aspect-ratio: var(--v-r); object-fit: fill; -webkit-mask-image: linear-gradient(180deg, transparent 6.5%, #000 10.2%, #000 86.1%, transparent 89.8%); mask-image: linear-gradient(180deg, transparent 6.5%, #000 10.2%, #000 86.1%, transparent 89.8%); }
+.h-hero__inner { grid-template-rows: auto var(--hero-window) auto; column-gap: 24px; row-gap: 0; }
+.h-hero__copy.glass { grid-column: 1 / span 9; grid-row: 1; display: grid; grid-template-columns: minmax(0, 1.06fr) minmax(0, 1fr); column-gap: clamp(20px, 2.6vw, 40px); align-content: start; padding: clamp(18px, 1.9vw, 28px) clamp(22px, 2.4vw, 36px); background: rgba(255, 255, 255, 0.66); }
+.h-hero__copy.glass > * { grid-column: 2; min-width: 0; }
+.h-hero__copy.glass > .h-hero__kicker { grid-column: 1; grid-row: 1; margin-bottom: 10px; }
+.h-hero__copy.glass > .h-hero__h1 { grid-column: 1; grid-row: 2 / span 3; font-size: clamp(2.15rem, 4.05vw, 4rem); max-width: none; }
+.h-hero__copy.glass > .h-hero__lede { grid-row: 1 / span 2; margin: 0; font-size: 1rem; line-height: 1.45; }
+.h-hero__copy.glass > .h-hero__ctas { grid-row: 3; align-self: start; margin-top: 14px; flex-wrap: nowrap; gap: 8px; }
+.h-hero__ctas .btn { padding-inline: 12px; white-space: nowrap; }
 .h-hero__kicker, .h-hero__h1, .h-hero__lede, .h-hero__facttext { text-shadow: none; }
-.h-hero__h1 { font-size: clamp(2.4rem, 4.4vw, 4.1rem); }
+.h-hero__ctrl { position: static; grid-column: 10 / -1; grid-row: 1; justify-self: end; align-self: start; z-index: 5; }
+.h-hero__side { grid-column: 1 / -1; grid-row: 3; margin: 0; }
+.h-hero__pair.svc-pair { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.h-hero__pair .svc { background: rgba(255, 255, 255, 0.76); }
+.h-hero__pair .svc__num { display: none; }
+.h-hero__pair .svc__spec dt { color: var(--text-2); } /* the labels hold 4.5:1 on the frosted card over the moving picture */
+/* the bud crosses the section break clear of the cards' words and the next section's heading: no parallax drift */
+.h-hero__bud { left: auto; right: max(calc(var(--gutter) + 8px), calc((100% - var(--wrap-wide)) / 2 + 8px)); bottom: calc(-1 * clamp(44px, 6vw, 90px)); width: clamp(96px, 11vw, 170px); }
+@media (min-width: 1024px) {
+  /* each service card is one wide ticket: icon, label and title; the facts in a row; the two actions */
+  .h-hero__pair .svc { grid-template-columns: auto minmax(0, 1fr); grid-template-rows: auto 1fr auto; align-content: stretch; column-gap: 14px; row-gap: 10px; padding: clamp(14px, 1.5vw, 20px) clamp(16px, 1.8vw, 26px); }
+  .h-hero__pair .svc__head { grid-column: 1; }
+  .h-hero__pair .svc__title { grid-column: 2; align-self: center; margin: 0; }
+  .h-hero__pair .svc__spec { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-content: center; gap: 6px 12px; padding-block: 9px; border-block: 1px solid var(--line); }
+  .h-hero__pair .svc__spec .spec__row { flex: 1 1 auto; flex-direction: column; align-items: flex-start; gap: 2px; padding: 0; border: 0; }
+  .h-hero__pair .svc__spec dt + dd { justify-content: flex-start; text-align: left; }
+  .h-hero__pair .svc__spec dt + dd::before { content: none; }
+  .h-hero__pair .svc__cta { grid-column: 1 / -1; flex-wrap: nowrap; margin: 0; }
+}
+@media (max-width: 1199px) {
+  .h-hero__pair .svc__spec dd { font-size: 0.8125rem; }
+  .h-hero__copy.glass { grid-column: 1 / span 10; }
+  .h-hero__ctrl { grid-column: 11 / -1; }
+}
 @media (max-width: 1023px) {
-  .h-hero { --hero-art-h: min(56.25vw, 560px); --hero-art-overlap: 72px; }
-  .h-hero__copy.glass { grid-column: 1 / -1; }
+  .h-hero { --art-shift: calc(260px - 18vw); --hero-window: calc(21.6vw + 36px); }
+  .h-hero__clip { background: linear-gradient(90deg, #d0b2ac, #9c868c, #d2b2b0, #bea2c1, #bca1c2) top / 100% 50% no-repeat, linear-gradient(90deg, #524a54, #554851, #433642, #3b333f, #48404a) bottom / 100% 50% no-repeat; }
+  .h-hero__copy.glass { grid-column: 1 / -1; grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); }
+  .h-hero__copy.glass > .h-hero__h1 { font-size: clamp(2.15rem, 5.1vw, 3.2rem); }
+  .h-hero__copy.glass > .h-hero__ctas { flex-wrap: wrap; }
+  .h-hero__ctrl { grid-column: 1 / -1; grid-row: 2; margin-top: 12px; }
+  .h-hero__pair .svc { grid-template-rows: auto auto 1fr auto; align-content: stretch; }
+  /* a label and its value stay on one line with the leader between them, or the value wraps under its own right edge */
+  .h-hero__pair .svc__spec .spec__row { flex-direction: row; align-items: baseline; gap: 10px; }
+  .h-hero__pair .svc__spec dt + dd { justify-content: flex-end; text-align: right; }
+  .h-hero__pair .svc__spec dt + dd::before { min-width: 8px; }
 }
 @media (max-width: 720px) {
-  .h-hero { --hero-art-h: min(80vw, 440px); --hero-art-overlap: 56px; }
-  .h-hero__still, .h-hero__loop { object-position: 50% 50%; }
-  .h-hero__copy.glass { padding: 20px 18px; background: var(--glass-strong); -webkit-backdrop-filter: none; backdrop-filter: none; }
-  .h-hero__h1 { font-size: clamp(2.1rem, 9.6vw, 2.8rem); }
+  /* the phone canvas is a narrower crop that keeps the flock, the signs and the awning. On a tall stack the canvas ends
+     before the hero does, so its edges dissolve into the colours of its own first and last rows */
+  .h-hero { --c-w: 1340; --c-h: 2574; --v-r: 800 / 644; --hero-window: calc(31vw + 76px); --art-shift: calc(490px - 52vw); padding-block: 12px 26px; }
+  .h-hero__clip { background: linear-gradient(90deg, #d0b1ae, #ccabaf, #d8b6a8, #cdacb5, #c0a4c1) top / 100% 50% no-repeat, linear-gradient(90deg, #534b55, #574953, #50424a, #423541, #3b333e) bottom / 100% 50% no-repeat; }
+  .h-hero__stage .h-hero__still { -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 3%, #000 94%, transparent 100%); mask-image: linear-gradient(180deg, transparent 0, #000 3%, #000 94%, transparent 100%); }
+  .h-hero__copy.glass { display: block; padding: 18px 18px 20px; background: rgba(255, 255, 255, 0.92); -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .h-hero__copy.glass > .h-hero__h1 { font-size: clamp(2.1rem, 9.6vw, 2.8rem); }
+  .h-hero__copy.glass > .h-hero__lede { margin-top: 12px; }
+  .h-hero__ctrl { align-self: end; margin: 0 0 8px; }
+  .h-hero__toggle.btn { min-height: 40px; padding: 0 10px; font-size: 0.6875rem; letter-spacing: 0.06em; }
+  .h-hero__pause-ico { width: 13px; height: 13px; }
+  .h-hero__pair.svc-pair { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+  .h-hero__pair .svc { background: rgba(255, 255, 255, 0.92); -webkit-backdrop-filter: none; backdrop-filter: none; }
+}
+@media (max-width: 400px) {
+  .h-hero__pair .svc__spec dt + dd::before { content: none; } /* no room for a leader: the long values wrap under their own right edge */
 }

@@ -10,15 +10,20 @@
       "posterSmallJpg": "/assets/media/hero-buzzy-sm.jpg",
       "w": 1920,
       "h": 1080,
-      "wSmall": 720,
-      "hSmall": 720,
+      "wSmall": 800,
+      "hSmall": 644,
       "duration": 7.75,
       "fps": 24,
       "frames": 186,
       "audio": false,
       "alt": "",
-      "use": "Home hero background: BUZZY's own Court Street storefront illustration (the getbuzzy.com home background, without its white fade). The still shows first and under reduced motion; the muted loop fades in after window load, with a visible pause toggle. Phones get a 1:1 crop on the storefront.",
-      "note": "AI-generated illustrative motion (fal.ai Kling 3.0 pro image-to-video, start frame = end frame = BUZZY's illustration): birds cross the sunset sky, wind shakes the tree and leaves fall, the sign lamps and windows flicker. Not footage of BUZZY or any real place. Retimed (calm head and tail at 2x), brightness drift ramped out, last 10 frames folded into frame 0."
+      "use": "Home hero background, from the nav to the next section break. BUZZY's own Court Street storefront illustration (the getbuzzy.com home background, without its white fade) stays exact in its own rectangle of a tall canvas; everything above and below that rectangle is generated. The muted loop sits on the rectangle and fades in after window load, with a visible pause toggle; the still shows first and under reduced motion. Phones get a narrower crop that keeps the flock, the signs and the awning.",
+      "note": "AI-generated illustrative imagery. The canvas around BUZZY's illustration: fal.ai Nano Banana Pro edit. The motion: fal.ai Kling 3.0 pro image-to-video, start frame = end frame = BUZZY's illustration; birds cross the sunset sky, wind moves the tree and leaves fall, the two BUZZY signs flicker. Not footage of BUZZY or any real place.",
+      "stillW": 1920,
+      "stillH": 2574,
+      "stillSmallW": 800,
+      "stillSmallH": 1537,
+      "stillTop": 496
     }
   }
 }

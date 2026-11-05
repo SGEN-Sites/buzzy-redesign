@@ -204,19 +204,18 @@ export async function render(ctx) {
     const visit = btns.find((b) => /visit/i.test(b.text)) || { text: 'Visit BUZZY', href: '/visit-us/' };
     const otherBtns = btns.filter((b) => b !== shop && b !== visit);
     if (H) heroImgs.push(...H.takeAll((b) => b.type === 'img')); // BUZZY's live hero photo: framed in the visit band (9)
-    const del = ((ia.topbar && ia.topbar.services) || [])[0] || {};
     const video = loop && loop.mp4
-      ? `<video class="h-hero__loop" id="h-hero-loop" data-inview-play data-after-load muted loop playsinline preload="none"${loop.poster ? ` poster="${escA(loop.poster)}"` : ''} width="${escA(loop.w || 1920)}" height="${escA(loop.h || 1080)}" aria-hidden="true" tabindex="-1">${loop.mp4Small ? `<source src="${escA(loop.mp4Small)}" type="video/mp4" media="(max-width: 720px)">` : ''}<source src="${escA(loop.mp4)}" type="video/mp4"></video>`
+      ? `<video class="h-hero__loop" id="h-hero-loop" data-inview-play data-after-load muted loop playsinline preload="none" width="${escA(loop.w || 1920)}" height="${escA(loop.h || 1080)}" aria-hidden="true" tabindex="-1">${loop.mp4Small ? `<source src="${escA(loop.mp4Small)}" type="video/mp4" media="(max-width: 720px)">` : ''}<source src="${escA(loop.mp4)}" type="video/mp4"></video>`
       : '';
     const pair = typeof shell.serviceCards === 'function' ? shell.serviceCards(ctx, { h: 2, compact: true, reveal: true, cls: 'h-hero__pair' }) : '';
     html.hero = `<section class="h-hero band band--sky" id="h-hero" aria-labelledby="h-hero-h1" data-video-host>
 <div class="band__clip h-hero__clip" aria-hidden="true">
+<div class="h-hero__stage">
 ${loop && loop.poster
-  ? `<picture>${loop.posterSmall ? `<source media="(max-width: 720px)" srcset="${escA(loop.posterSmall)}" type="image/webp">` : ''}${loop.posterSmallJpg ? `<source media="(max-width: 720px)" srcset="${escA(loop.posterSmallJpg)}" type="image/jpeg">` : ''}<source srcset="${escA(loop.poster)}" type="image/webp"><img class="h-hero__still" src="${escA(loop.posterJpg || loop.poster)}" alt="" width="${escA(loop.w || 1920)}" height="${escA(loop.h || 1080)}" fetchpriority="high" decoding="async"></picture>`
+  ? `<picture>${loop.posterSmall ? `<source media="(max-width: 720px)" srcset="${escA(loop.posterSmall)}" type="image/webp">` : ''}${loop.posterSmallJpg ? `<source media="(max-width: 720px)" srcset="${escA(loop.posterSmallJpg)}" type="image/jpeg">` : ''}<source srcset="${escA(loop.poster)}" type="image/webp"><img class="h-hero__still" src="${escA(loop.posterJpg || loop.poster)}" alt="" width="${escA(loop.stillW || 1920)}" height="${escA(loop.stillH || 2574)}" fetchpriority="high" decoding="async"></picture>`
   : gimg('g-hero-dream', { alt: '', eager: true, cls: 'h-hero__still', sizes: '100vw' })}
 ${video}
-<span class="h-hero__scrim"></span>
-<span class="h-hero__grid"></span>
+</div>
 </div>
 <div class="wrap wrap--wide h-hero__inner">
 <div class="h-hero__copy glass">
@@ -228,13 +227,12 @@ ${intro.map((b, i) => `<p class="lede h-hero__lede" data-reveal style="--i:${2 +
 <a class="btn btn--ghost h-hero__cta"${linkAttrs(visit.href ? liveHref(visit.href) : '/visit-us/')}>${ico('pin')}${esc(visit.text)}</a>
 ${otherBtns.map((b) => `<a class="btn btn--ghost h-hero__cta"${linkAttrs(b.href ? liveHref(b.href) : menu(ctx))}>${esc(b.text)}</a>`).join('')}
 </div>
-<p class="h-hero__fact" data-reveal style="--i:4"><a class="h-hero__factlink"${linkAttrs(del.info || '/cannabis-delivery-brooklyn/')}><span class="tag tag--signal">${ico('truck')}${esc(del.label || 'Delivery')}</span><span class="h-hero__facttext">${esc(undash(del.fact || site.deliveryLine || ''))}</span></a></p>
 ${leftovers(ctx, H)}
 </div>
+${video ? `<div class="h-hero__ctrl"><button class="btn btn--glass btn--sm h-hero__toggle" type="button" data-video-toggle aria-controls="h-hero-loop" aria-pressed="false">${ico('minus', 'h-hero__pause-ico')}<span class="video-toggle__label">Pause motion</span></button></div>` : ''}
 <div class="h-hero__side">${pair}</div>
 </div>
-<div class="h-hero__bud protrude" aria-hidden="true"><div class="h-hero__bud-in" data-depth="0.08"><div data-float>${gimg('g-bud-cut', { alt: '', cls: 'cut h-hero__bud-img', sizes: '(max-width: 720px) 120px, 240px' })}</div></div></div>
-${video ? `<div class="h-hero__ctrl"><button class="btn btn--glass btn--sm h-hero__toggle" type="button" data-video-toggle aria-controls="h-hero-loop" aria-pressed="false">${ico('minus', 'h-hero__pause-ico')}<span class="video-toggle__label">Pause motion</span></button></div>` : ''}
+<div class="h-hero__bud protrude" aria-hidden="true"><div class="h-hero__bud-in"><div data-float>${gimg('g-bud-cut', { alt: '', cls: 'cut h-hero__bud-img', sizes: '(max-width: 720px) 120px, 240px' })}</div></div></div>
 </section>`;
   }
 

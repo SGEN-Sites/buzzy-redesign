@@ -19,9 +19,10 @@ send nothing.
   label-maker tags, spec tables and numbered steps carry the facts; surreal objects break out of their frames and cross
   section edges. Scroll reveals, parallax depth and hover effects throughout, all off for visitors who prefer reduced
   motion. See [docs/DESIGN.md](docs/DESIGN.md).
-- **Imagery.** BUZZY's own photography and brand banners, plus AI-generated illustrative stills and a hero loop, each
-  labelled as AI-generated in its metadata and listed in [docs/MEDIA.md](docs/MEDIA.md). None of them shows BUZZY's
-  store, staff, customers, products or brands.
+- **Imagery.** BUZZY's own photography, illustration and brand banners, plus AI-generated illustrative stills, each
+  labelled as AI-generated in its metadata and listed in [docs/MEDIA.md](docs/MEDIA.md). None of those stills shows
+  BUZZY's store, staff, customers, products or brands. The home hero is the one exception: BUZZY's own drawing of its
+  store, unchanged, with a generated canvas around it and generated motion on it, labelled the same way.
 
 ## Build
 
