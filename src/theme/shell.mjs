@@ -17,7 +17,7 @@
 //   specTable(rows, cls), serviceFacts(ctx), serviceCards(ctx, opts), areasBand(ctx), newsletterBand(ctx), CSS_ORDER,
 //   ctaTrio (stub alias, returns '')
 // Every word in the chrome comes from ctx.site / ctx.ia (BUZZY's own) except neutral glue labels (Menu, Close menu,
-// Store Hours, Shop all products, Delivery details, Pickup details, Shop, Back to top, Skip to content).
+// Store Hours, Shop all products, Delivery details, Pickup details, Shop, Back to top).
 import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT } from '../lib/paths.mjs';
@@ -472,7 +472,6 @@ ${css}
 ${ld}
 </head>
 <body id="top"${attrs({ class: bodyClass })}>
-<a class="skip" href="#main">Skip to content</a>
 <div class="site">
 ${headerHtml(ctx, p)}
 ${crumbs && crumbs.length && !heroCrumbs ? `<div class="crumbs-bar"><div class="wrap wrap--wide">${crumbsHtml(crumbs)}</div></div>` : ''}

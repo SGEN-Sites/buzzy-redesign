@@ -53,13 +53,6 @@ a:not([class]):hover, a:not([class]):focus-visible { background-size: 100% 2px; 
 /* ---------- focus (D8): a signal ring with a black edge, square ---------- */
 :focus { outline: none; }
 :focus-visible { outline: none; box-shadow: var(--focus-ring); border-radius: var(--r-sm); }
-.skip {
-  position: fixed; left: 16px; top: 12px; z-index: calc(var(--z-gate) + 1); padding: 12px 18px;
-  background: var(--signal); color: var(--signal-ink); border: var(--border-w) solid var(--black);
-  font-family: var(--font-mono); font-weight: 600; font-size: var(--fs-label); letter-spacing: var(--track-label);
-  text-transform: uppercase; text-decoration: none; transform: translateY(-180%); transition: transform var(--dur-1) var(--ease-out);
-}
-.skip:focus, .skip:focus-visible { transform: none; }
 .sr-only { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 
 /* ---------- icons ---------- */

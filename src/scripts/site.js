@@ -37,9 +37,13 @@
     if (e.shiftKey && (doc.activeElement === a || !box.contains(doc.activeElement))) { e.preventDefault(); z.focus(); }
     else if (!e.shiftKey && (doc.activeElement === z || !box.contains(doc.activeElement))) { e.preventDefault(); a.focus(); }
   };
-  var focusSkip = function () {
-    var skip = $('.skip');
-    if (skip) { skip.setAttribute('tabindex', '-1'); skip.focus({ preventScroll: true }); skip.removeAttribute('tabindex'); }
+  // after the 21+ gate closes or Back to top: move focus to <main> (no visible element; tabindex removed on blur)
+  var focusMain = function () {
+    var m = doc.getElementById('main');
+    if (!m) return;
+    m.setAttribute('tabindex', '-1');
+    m.focus({ preventScroll: true });
+    m.addEventListener('blur', function () { m.removeAttribute('tabindex'); }, { once: true });
   };
 
   /* ---------------- 21+ gate (D7): localStorage buzzy-age-ok = 1; hidden in the HTML, so it never blocks without JS */
@@ -62,7 +66,7 @@
         gate.hidden = true;
         root.classList.remove('gate-open');
         if (site && 'inert' in site) site.inert = false;
-        focusSkip();
+        focusMain();
       });
       if (no) no.addEventListener('click', function () { if (refusal) refusal.hidden = false; });
       gate.addEventListener('keydown', function (e) { if (e.key === 'Tab') loop(gate, e); });
@@ -84,7 +88,7 @@
     a.addEventListener('click', function (e) {
       e.preventDefault();
       window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
-      focusSkip();
+      focusMain();
     });
   });
 

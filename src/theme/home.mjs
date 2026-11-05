@@ -415,7 +415,7 @@ ${(D.steps || []).map(([t, x], i) => `<li class="step h-step glass" data-reveal 
 <p class="btn-row" data-reveal style="--i:1"><a class="btn btn--signal"${linkAttrs(u)}>${ico('gift')}${esc(btn ? btn.text : R.cta || 'Rewards')}</a></p>
 ${leftovers(ctx, W)}
 </div>
-<div class="h-rew__phone protrude" data-reveal style="--i:2"><div data-depth="0.06">${phone}</div></div>
+<div class="h-rew__phone protrude" data-reveal style="--i:2">${phone}</div>
 </div>
 </section>`;
   }

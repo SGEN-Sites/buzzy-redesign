@@ -22,3 +22,14 @@
 /* 5. The accent word keeps BUZZY's own capitalisation in the markup ("Highly Curated Cannabis in Brooklyn"); the
       lowercase italic look comes from CSS only. */
 .h-page main .accent, .display .accent, h1 .accent, h2 .accent, h3 .accent { text-transform: lowercase; }
+
+/* 6. The skip link is gone (operator, 2026-11-05: it showed top left after the 21+ gate and on reload). After the gate
+      or Back to top, site.js focuses <main> instead; that programmatic focus never draws a ring. */
+#main:focus, #main:focus-visible { outline: none; box-shadow: none; }
+
+/* 7. Home rewards band: BUZZY's phone mockup is a crop (the phone body is cut in the image itself). Seat it on the
+      band's bottom edge, as the live site does, so the crop line IS the band edge; clip only below the band so its
+      shadow cannot spill into the events band (upward overflow stays allowed). */
+.h-rew { clip-path: inset(-600px 0 0 0); }
+.h-rew__phone { align-self: end; margin-top: 0; margin-bottom: calc(-1 * var(--section-y) - 2px); }
+@media (min-width: 1024px) { .h-rew__phone { width: min(100%, 460px); } }
